@@ -1,0 +1,29 @@
+.sidebar {
+    min-height: 100vh;
+    width: 260px;
+    background-color: #056A1F;
+    padding: 3rem 2rem;
+    color: #fff;
+}
+
+.sidebarTitles {
+    text-transform: uppercase;
+    border-bottom: 1px solid #fff;
+    padding: 0.5rem;
+    margin-bottom: .6rem;
+    opacity: .75;
+    cursor: pointer;
+}
+
+.sidebarTitles:hover {
+    opacity: 1;
+}
+
+.list {
+    padding-left: .6rem;
+}
+.listItem {
+    list-style: none;
+    margin-bottom: .6rem;
+    
+}

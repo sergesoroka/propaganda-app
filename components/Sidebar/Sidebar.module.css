@@ -7,6 +7,7 @@
 }
 
 .sidebarTitles {
+    font-weight: 200;
     text-transform: uppercase;
     border-bottom: 1px solid #fff;
     padding: 0.5rem;
@@ -15,6 +16,15 @@
     cursor: pointer;
 }
 
+.sidebarTitlesActive {
+    font-weight: 200;
+    text-transform: uppercase;
+    border-bottom: 1px solid #fff;
+    padding: 0.5rem;
+    margin-bottom: .6rem;
+    opacity: 1;
+    cursor: pointer;
+}
 .sidebarTitles:hover {
     opacity: 1;
 }

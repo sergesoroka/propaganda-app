@@ -103,6 +103,13 @@
   margin-left: 0.5rem;
 }
 
+.sidebar {
+  position: fixed;
+} 
+.contentArea {
+  margin-left: 260px;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;

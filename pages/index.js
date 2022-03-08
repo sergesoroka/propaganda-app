@@ -1,6 +1,7 @@
 import Head from 'next/head'
-import Sidebar from '../components/Sidebar/Sidebar'
 import Header from '../components/Header/Header'
+import Sidebar from '../components/Sidebar/Sidebar'
+import FakeList from '../components/FakeList/FakeList'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -16,9 +17,9 @@ export default function Home() {
         <div className={styles.sidebar}>
           <Sidebar />
         </div>
-        <div style={{width: '100%'}}>
+        <div className={styles.contentArea}>
           <Header />
-          <div>Content</div>
+          <FakeList />
         </div>
       </main>
 

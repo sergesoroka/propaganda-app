@@ -1,0 +1,37 @@
+.fakeItemWrap>td {
+    padding: .6rem 1.2rem .6rem  .6rem;
+    border-bottom: 1px solid #ccc;
+}
+
+.fakeNote {
+    font-size: 1rem;
+}
+
+
+.fakeNote, .fakeDate, .fakeSource {
+    line-height: 1.4rem;
+}
+
+.fakeNote, .fakeSource {
+    margin: 10px;
+}
+
+.fakeSource, .fakeDate {
+    font-size: .86rem;
+    color: #056A1F;
+}
+
+.fakeItemHedingWrap {
+    border-bottom: 1px solid #056A1F;
+}
+
+.fakeHeading {
+    background-color: #056A1F;
+    text-transform: uppercase;
+    font-weight: 200;
+    font-size: 1rem;
+    padding: .6rem;
+    color: #fff;
+    width: fit-content;
+    margin: 0;
+}

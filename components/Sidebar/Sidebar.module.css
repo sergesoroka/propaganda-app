@@ -8,6 +8,7 @@
 
 .sidebarTitles {
     font-weight: 200;
+    font-size: 1rem;
     text-transform: uppercase;
     border-bottom: 1px solid #fff;
     padding: 0.5rem;
@@ -18,6 +19,7 @@
 
 .sidebarTitlesActive {
     font-weight: 200;
+    font-size: 1rem;
     text-transform: uppercase;
     border-bottom: 1px solid #fff;
     padding: 0.5rem;
@@ -32,8 +34,25 @@
 .list {
     padding-left: .6rem;
 }
+
 .listItem {
+    font-size: .9rem;
     list-style: none;
     margin-bottom: .6rem;
     
 }
+
+.projectName {
+    padding: 0.5rem;
+    margin: 0;
+    font-weight: 200;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    background-color: #056A1F;
+    border-top: 1px solid #fff;
+    color: #fff;
+    padding: 2.3rem 0 0 2rem;
+    letter-spacing: .04rem;
+    margin: 0;
+}
+

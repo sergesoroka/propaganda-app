@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Sidebar from '../components/Sidebar/Sidebar'
+import Header from '../components/Header/Header'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -15,7 +16,10 @@ export default function Home() {
         <div className={styles.sidebar}>
           <Sidebar />
         </div>
-        <div>Content</div>
+        <div style={{width: '100%'}}>
+          <Header />
+          <div>Content</div>
+        </div>
       </main>
 
       <footer className={styles.footer}>

@@ -1,0 +1,38 @@
+.mainMenu {
+    background-color: #056A1F;
+    color: #fff;
+    display: flex;
+    justify-content: end;
+    padding: .5rem 1rem;
+    font-size: .9rem;
+} 
+
+.headerWrap {
+    width: 100%;
+}
+
+.langMenu {
+    display: flex;
+    justify-content: end;
+    margin: 0.5rem 1rem;
+    font-size: .9rem;
+}
+.mainMenuList {
+    display: flex;
+    margin: 0;
+}
+.mainMenuListItem {
+    list-style: none;
+    margin-left: 1.6rem;
+    text-transform: uppercase;
+    opacity: .8;
+    cursor: pointer;
+}
+
+.mainMenuListItem:hover {
+    list-style: none;
+    margin-left: 1.6rem;
+    text-transform: uppercase;
+    opacity: 1;
+    cursor: pointer;
+}

@@ -9,6 +9,8 @@ const [blackList, setBlackList] = useState(false)
 const [naratives, setNaratives] = useState(false)
 
   return (
+    <>
+    <h1 className={styles.projectName}>Propaganda Diary</h1>
     <div className={styles.sidebar}>
         <div className={styles.sidebarItem}>
             <h3 className={diary ? styles.sidebarTitlesActive : styles.sidebarTitles}
@@ -56,5 +58,6 @@ const [naratives, setNaratives] = useState(false)
             </ul> : null }
         </div>
     </div>
+    </>
   )
 }

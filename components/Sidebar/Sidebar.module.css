@@ -11,7 +11,7 @@
     font-size: 1rem;
     text-transform: uppercase;
     border-bottom: 1px solid #fff;
-    padding: 0.5rem;
+    padding: 0.5rem 0 0.5rem 0;
     margin-bottom: .6rem;
     opacity: .75;
     cursor: pointer;
@@ -22,7 +22,7 @@
     font-size: 1rem;
     text-transform: uppercase;
     border-bottom: 1px solid #fff;
-    padding: 0.5rem;
+    padding: 0.5rem 0 0.5rem 0;
     margin-bottom: .6rem;
     opacity: 1;
     cursor: pointer;
@@ -32,7 +32,7 @@
 }
 
 .list {
-    padding-left: .6rem;
+    padding-left: 0;
 }
 
 .listItem {

@@ -3,7 +3,7 @@ import styles from './Sidebar.module.css'
 
 export default function Sidebar() {
 
-const [diary, setDiary] = useState(true)
+const [diary, setDiary] = useState(false)
 const [whiteList, setWhiteList] = useState(false)
 const [blackList, setBlackList] = useState(false)
 const [naratives, setNaratives] = useState(false)
@@ -55,7 +55,7 @@ const [naratives, setNaratives] = useState(false)
             {naratives ?
             <ul className={styles.list}>
                 <li className={styles.listItem}>
-                    Maidan in 2014 was a coup d'état
+                    Maidan in 2014 was a coup d &apos; état
                 </li>
                 <li className={styles.listItem}>
                 Ukraine fails to deliver commitments under Minsk Agreements/Kyiv does not comply with the Minsk agreements

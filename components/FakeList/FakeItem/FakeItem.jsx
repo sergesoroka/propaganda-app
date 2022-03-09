@@ -14,7 +14,7 @@ export default function FakeItem({data}) {
   return (
     <>
         <div className={styles.fakeItemHedingWrap}>
-            <h2 className={styles.fakeHeading}>Maidan in 2014 was a coup d'état</h2>
+            <h2 className={styles.fakeHeading}>Maidan in 2014 was a coup d &apos; état</h2>
         </div>
         <table><tbody>{renderedData}</tbody></table>
     </>

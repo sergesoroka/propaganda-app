@@ -12,6 +12,11 @@ const [naratives, setNaratives] = useState(false)
     <>
     <h1 className={styles.projectName}>Propaganda Diary</h1>
     <div className={styles.sidebar}>
+    <ul className={styles.statisticWrap}>
+        <li className={styles.statisticListItem}>256 <span className={styles.statisticListName}>Narratives</span></li>
+        <li className={styles.statisticListItem}>432 <span className={styles.statisticListName}>Fakes</span></li>
+        <li className={styles.statisticListItem}>351 <span className={styles.statisticListName}>Sources</span></li>
+    </ul>
         <div className={styles.sidebarItem}>
             <h3 className={diary ? styles.sidebarTitlesActive : styles.sidebarTitles}
             onClick={() => setDiary(!diary)}

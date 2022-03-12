@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Link from 'next/link'
 import styles from './Sidebar.module.css'
 
 export default function Sidebar() {
@@ -10,7 +11,7 @@ const [naratives, setNaratives] = useState(false)
 
   return (
     <>
-    <h1 className={styles.projectName}>Propaganda Diary</h1>
+    <h1 className={styles.projectName}><Link href="/"><a>Propaganda Diary</a></Link></h1>
     <div className={styles.sidebar}>
     <ul className={styles.statisticWrap}>
         <li className={styles.statisticListItem}>256 <span className={styles.statisticListName}>Narratives</span></li>

@@ -805,19 +805,7 @@ export const fakeData = [
       "Media": "RT.DE",
       "Debunking": ""
     },
-    {
-      "Narrative": "",
-      "Fakes": "",
-      "Disinfo_cases_en": "",
-      "Disinfo_cases_de": "",
-      "Disinfo_cases_it": "",
-      "Disinfo_cases _uk": "",
-      "Disinfo_cases_ru": "",
-      "Date": "",
-      "Countries": "",
-      "Media": "",
-      "Debunking": ""
-    },
+    
     {
       "Narrative": "Nazis and ultra-nationalists in Ukraine",
       "Fakes": "Nazis/right-wing nationalist government took power after the coup d'état in Kyiv",
@@ -1533,19 +1521,7 @@ export const fakeData = [
       "Media": "RT.DE",
       "Debunking": ""
     },
-    {
-      "Narrative": "",
-      "Fakes": "",
-      "Disinfo_cases_en": "",
-      "Disinfo_cases_de": "",
-      "Disinfo_cases_it": "",
-      "Disinfo_cases _uk": "",
-      "Disinfo_cases_ru": "",
-      "Date": "",
-      "Countries": "",
-      "Media": "",
-      "Debunking": ""
-    },
+    
     {
       "Narrative": "Nord Stream-2",
       "Fakes": "Delays in the Nord Stream 2 cause crisis in EU",
@@ -1871,19 +1847,7 @@ export const fakeData = [
       "Media": "",
       "Debunking": "https://snanews.de/20210613/nord-stream-2-ukraine-entschaedigung-ins-spiel-bringen-2486098.html"
     },
-    {
-      "Narrative": "",
-      "Fakes": "",
-      "Disinfo_cases_en": "",
-      "Disinfo_cases_de": "",
-      "Disinfo_cases_it": "",
-      "Disinfo_cases _uk": "",
-      "Disinfo_cases_ru": "",
-      "Date": "",
-      "Countries": "",
-      "Media": "",
-      "Debunking": ""
-    },
+    
     {
       "Narrative": "Russia needs to protect itself",
       "Fakes": "NATO increase presense in Ukraine",

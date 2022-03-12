@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'next/link'
 import styles from './Header.module.css'
 
 export default function Header() {
@@ -14,7 +15,7 @@ export default function Header() {
       </div>
       <div className={styles.mainMenu}>
         <ul className={styles.mainMenuList}>
-          <li className={styles.mainMenuListItem}># About</li>
+          <li className={styles.mainMenuListItem}><Link href="/about"><a># About</a></Link></li>
           <li className={styles.mainMenuListItem}># How</li>
           <li className={styles.mainMenuListItem}># Add Fake</li>
           <li className={styles.mainMenuListItem}># Download</li>

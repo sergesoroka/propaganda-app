@@ -16,9 +16,9 @@ export default function Header() {
       <div className={styles.mainMenu}>
         <ul className={styles.mainMenuList}>
           <li className={styles.mainMenuListItem}><Link href="/about"><a># About</a></Link></li>
-          <li className={styles.mainMenuListItem}># How</li>
-          <li className={styles.mainMenuListItem}># Add Fake</li>
-          <li className={styles.mainMenuListItem}># Download</li>
+          <li className={styles.mainMenuListItem}><Link href="/how"><a># How</a></Link></li>
+          <li className={styles.mainMenuListItem}><Link href="/addfake"><a># Add Fake</a></Link></li>
+          <li className={styles.mainMenuListItem}><Link href="/download"><a># Download</a></Link></li>
         </ul>
         </div>
     </div>

@@ -38,7 +38,8 @@
 }
 
 @media (max-width: 600px) {Ї
-    .mainMenuListItem, .mainMenuListItem:hover {
+    .mainMenuListItem, 
+    .mainMenuListItem:hover {
         margin-left: 0 !important;
     }
 }

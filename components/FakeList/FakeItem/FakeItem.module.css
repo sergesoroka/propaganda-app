@@ -1,6 +1,6 @@
 .fakeItemWrap>td {
     padding: .6rem 1.2rem .6rem  .6rem;
-    border-bottom: 1px solid #ccc;
+    /* border-bottom: 1px solid #ccc; */
 }
 
 .fakeNote {
@@ -33,5 +33,5 @@
     padding: .6rem;
     color: #fff;
     width: fit-content;
-    margin: .2rem 0;
+    margin: 0;
 }

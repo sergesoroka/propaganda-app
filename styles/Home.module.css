@@ -117,5 +117,12 @@
     width: 100%;
     flex-direction: column;
   }
+  .sidebar {
+    display: none;
+  }
+  .contentArea {
+    margin-left: 0;
+  }
+  
 }
 

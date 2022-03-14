@@ -23,7 +23,7 @@
 }
 .mainMenuListItem {
     list-style: none;
-    margin-left: 1.6rem;
+    margin-left: .6rem;
     text-transform: uppercase;
     opacity: .8;
     cursor: pointer;
@@ -31,8 +31,14 @@
 
 .mainMenuListItem:hover {
     list-style: none;
-    margin-left: 1.6rem;
+    margin-left: .6rem;
     text-transform: uppercase;
     opacity: 1;
     cursor: pointer;
+}
+
+@media (max-width: 600px) {Ї
+    .mainMenuListItem, .mainMenuListItem:hover {
+        margin-left: 0 !important;
+    }
 }

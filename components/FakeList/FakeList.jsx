@@ -14,10 +14,10 @@ export default function FakeList() {
     return c;
   });
 
-  const narrative = uniqueNarratives.map((n) => (
-    <Link href={`/narratives/${n}`}>
+  const narrative = uniqueNarratives.map((n, i) => (
+    <Link key={i} href={`/narratives/${n}`} >
       <a>
-        <FakeItem key={n} data={fakeData} narrative={n} />
+        <FakeItem  data={fakeData} narrative={n} />
       </a>
     </Link>
   ));

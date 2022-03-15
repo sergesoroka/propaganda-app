@@ -1,0 +1,13 @@
+.container {
+    padding: 1.6rem;
+}
+.fakeHeading {
+    background-color: #056A1F;
+    text-transform: uppercase;
+    font-weight: 200;
+    font-size: 1rem;
+    padding: .6rem;
+    color: #fff;
+    width: fit-content;
+    margin: 0;
+}

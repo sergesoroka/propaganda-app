@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 import FakeItem from "./FakeItem/FakeItem";
 import styles from "./FakeList.module.css";
 
@@ -12,9 +13,18 @@ export default function FakeList() {
     }
     return c;
   });
-  
+
   const narrative = uniqueNarratives.map((n) => (
-    <FakeItem key={n} data={fakeData} narrative={n} />
+    <Link href={`/narratives/${n}`}>
+      <a>
+        <FakeItem key={n} data={fakeData} narrative={n} />
+      </a>
+    </Link>
   ));
-  return <div className={styles.fakeListWrap}>{narrative}</div>;
+  console.log(narrative);
+  return (
+    <div className={styles.fakeListWrap}>
+      {narrative}
+    </div>
+  );
 }

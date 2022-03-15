@@ -37,7 +37,7 @@ export default function FakeItem({ data, narrative }) {
           # {narrative}
         </h2>
       ) : null}
-      {renderedData}
+      {/* {renderedData} */}
     </div>
   );
 }

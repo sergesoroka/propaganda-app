@@ -21,7 +21,7 @@ export default function FakeList() {
       </a>
     </Link>
   ));
-  console.log(narrative);
+ 
   return (
     <div className={styles.fakeListWrap}>
       {narrative}

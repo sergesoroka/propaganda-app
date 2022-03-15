@@ -1,6 +1,5 @@
 import Head from "next/head";
 import Link from "next/link";
-// import { FaRegTimesCircle } from "react-icons/fa";
 import { BsXLg } from "react-icons/bs";
 
 import { fakeData } from '../../../data/data';

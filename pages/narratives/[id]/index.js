@@ -58,7 +58,7 @@ export default function NarrativeItem() {
           </a>
         </Link>
       </div>
-      <h2 className={styles.fakeHeading}># {id} | </h2>
+      <h2 className={styles.fakeHeading}># {id} </h2>
       {fake}
     </div>
   );

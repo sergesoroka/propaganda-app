@@ -65,10 +65,10 @@ export default function NarrativeItem() {
       <div className={styles.debunking}>
         <h4 className={styles.debunkingHeading}>Debunking</h4>
         <p  className={styles.debunkingBody}>
-        "In 2021, The American George Washington Institute{" "}
+        &quot;In 2021, The American George Washington Institute{" "}
         <a
           href="https://www.illiberalism.org/far-right-group-made-its-home-in-ukraines-major-western-military-training-hub/"
-          target="_blank"
+          
         >
           published 
         </a> {" "}
@@ -77,18 +77,18 @@ export default function NarrativeItem() {
         of Defense said it would conduct an inspection. Commenting on the
         report, the Russian media resorted to numerous manipulations in order to
         further push the fundamentally untrue claim that neo-Nazi groups have
-        infiltrated the Ukrainian government. "There are dozens of organizations
+        infiltrated the Ukrainian government. &quot;There are dozens of organizations
         that are not just far-right, but openly pro-Nazi, and their merging with
         law enforcement agencies, state authorities and local self-government
-        has become an open secret"{" "}
+        has become an open secret&quot;{" "}
         <a
           href="https://klymenko-time.com/novosti/naczizm-s-gosfinansirovaniem-kak-podderzhivaemaya-ssha-voennaya-akademiya-stala-domom-dlya-ultrapravoj-organizaczii-centuria-yutk/?utm_source=telegram&utm_medium=smm&utm_campaign=novosti_ktime_telegram"
-          target="_blank"
+          
         >
           wrote
         </a>{" "}
-        Klymenko Time. The First Independent, on the other hand, spoke of "Nazis
-        roaming the streets of Ukraine." Let’s address the elephant in the room.
+        Klymenko Time. The First Independent, on the other hand, spoke of &quot;Nazis
+        roaming the streets of Ukraine.&quot; Let’s address the elephant in the room.
         Ukraine, like the overwhelming majority of developed countries,
         including Russia, has a number of organizations belonging to the far
         right of the political spectrum, but these organizations are few and do
@@ -100,34 +100,34 @@ export default function NarrativeItem() {
         manipulative headline was reprinted on the{" "}
         <a
           href="https://112ua.tv/mnenie/prozrenie-ot-freedom-house-vnesudebnye-raspravy-i-podderzhka-neonacistov-na-ukraine-592543.html"
-          target="_blank"
+          
         >
           website
         </a>{" "}
         of the TV channel 112 Ukraine, alleging that the international human
         rights organization Freedom House has “admitted that Ukraine supports
-        neo-Nazi gangs”. However, at no point does the{" "}
+        neo-Nazi gangs&quot;. However, at no point does the{" "}
         <a
           href="https://freedomhouse.org/country/ukraine/freedom-net/2021"
-          target="_blank"
+
         >
           report
         </a>{" "}
         claim that the Ukrainian government directly supports neo-Nazis. On the
-        "First Independent" tv channel, the lion's share of air time was also
+        &quot;First Independent&quot; tv channel, the lion&apos;s share of air time was also
         allocated to the discussion of Nazism in Ukraine. Andriy Telizhenko, a
-        self-proclaimed “diplomat”, compares Ukraine to Nazi Germany: "You
+        self-proclaimed &quot;diplomat&quot;, compares Ukraine to Nazi Germany: &quot;You
         remember how Germany once said that they would not go to war, and would
         not attack anyone. At the same time, they amassed at the borders of
         other countries and created the Second World War. This is what Ukraine
         is doing today with negotiations in the Normandy format, prolonging the
-        process. And then, they will provoke and declare: "You see, this is all
-        the Russian Federation, this is not us, we want peace, we want victory."
+        process. And then, they will provoke and declare: &quot;You see, this is all
+        the Russian Federation, this is not us, we want peace, we want victory.&quot;
         In the same broadcast, two laws are presented as the evidence of the
-        popularity of "Nazism" in Ukraine: "Please take the law on language.
+        popularity of &quot;Nazism&quot; in Ukraine: &quot;Please take the law on language.
         Purely Nazi law - once. Take the law on indigenous peoples. Purely Nazi
-        law - two." Russian dictator Vladimir Putin has also compared the law on
-        indigenous peoples to the "practice of Nazi Germany." These two laws are
+        law - two.&quot; Russian dictator Vladimir Putin has also compared the law on
+        indigenous peoples to the &quot;practice of Nazi Germany.&quot; These two laws are
         perhaps the most misrepresented legal documents in recent history. As an
         example, Vesti{" "}
         <a
@@ -136,11 +136,11 @@ export default function NarrativeItem() {
         >
           has portrayed
         </a>{" "}
-        the language law as being about "forced Ukrainization" and claimed the
-        Law on Indigenous Peoples "threw Russians to the sidelines." Whereas
+        the language law as being about &quot;forced Ukrainization&quot; and claimed the
+        Law on Indigenous Peoples &quot;threw Russians to the sidelines.&quot; Whereas
         Russians, by definition, cannot be the indigenous people of Ukraine, or,
         for that matter, any country other than Russia, as they have their own
-        state formation."</p>
+        state formation.&quot;</p>
       </div>
       {fake}
     </div>

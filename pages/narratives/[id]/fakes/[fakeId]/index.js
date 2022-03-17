@@ -2,7 +2,7 @@ import { useRouter } from "next/router";
 import { BsXLg, BsArrowLeft } from "react-icons/bs";
 import styles from "../../../../../styles/Narrative.module.css";
 
-export default function fakeItem() {
+export default function FakeItem() {
   const router = useRouter();
   const { id } = router.query;
   return (
@@ -19,13 +19,12 @@ export default function fakeItem() {
         of Defense said it would conduct an inspection. Commenting on the
         report, the Russian media resorted to numerous manipulations in order to
         further push the fundamentally untrue claim that neo-Nazi groups have
-        infiltrated the Ukrainian government. "There are dozens of organizations
+        infiltrated the Ukrainian government. There are dozens of organizations
         that are not just far-right, but openly pro-Nazi, and their merging with
         law enforcement agencies, state authorities and local self-government
-        has become an open secret"
-        wrote(https://klymenko-time.com/novosti/naczizm-s-gosfinansirovaniem-kak-podderzhivaemaya-ssha-voennaya-akademiya-stala-domom-dlya-ultrapravoj-organizaczii-centuria-yutk/?utm_source=telegram&utm_medium=smm&utm_campaign=novosti_ktime_telegram)
-        Klymenko Time. The First Independent, on the other hand, spoke of "Nazis
-        roaming the streets of Ukraine." Let’s address the elephant in the room.
+        has become an open secret wrote(https://klymenko-time.com/novosti/naczizm-s-gosfinansirovaniem-kak-podderzhivaemaya-ssha-voennaya-akademiya-stala-domom-dlya-ultrapravoj-organizaczii-centuria-yutk/?utm_source=telegram&utm_medium=smm&utm_campaign=novosti_ktime_telegram)
+        Klymenko Time. The First Independent, on the other hand, spoke of Nazis
+        roaming the streets of Ukraine. Let&quot;s address the elephant in the room.
         Ukraine, like the overwhelming majority of developed countries,
         including Russia, has a number of organizations belonging to the far
         right of the political spectrum, but these organizations are few and do

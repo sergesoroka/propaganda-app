@@ -50,3 +50,36 @@
   width: fit-content;
   margin: 0;
 }
+.fakeLink {
+  border-bottom: 1px solid rgb(233, 233, 233);
+  padding: 0.8rem 0;
+  font-weight: 400;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.fakeLink:hover {
+  background-color: beige;
+}
+
+.fakeWord {
+  font-weight: 600;
+  color: crimson;
+}
+
+.fakeItemHeading {
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+.fakeItemArrow {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: #056a1f;
+}
+
+.debunking {
+  border-left: 6px solid darkred;
+  padding: 1rem;
+  margin-left: 4rem;
+}

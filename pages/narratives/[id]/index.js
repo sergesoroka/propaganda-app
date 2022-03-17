@@ -132,7 +132,7 @@ export default function NarrativeItem() {
         example, Vesti{" "}
         <a
           href="https://vesti.ua/politika/vladimir-skachko-bessilie-oon-kak-zelenskij-lepit-svoyu-erzats-diktaturu"
-          target="_blank"
+         
         >
           has portrayed
         </a>{" "}

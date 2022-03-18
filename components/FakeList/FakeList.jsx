@@ -4,27 +4,24 @@ import FakeItem from "./FakeItem/FakeItem";
 import styles from "./FakeList.module.css";
 
 import { fakeData } from "../../data/data";
+import { dataEdited } from "../../data/dataSample";
 
 export default function FakeList() {
-  const uniqueNarratives = [];
-  const dataForNarrative = fakeData.map((c) => {
-    if (!uniqueNarratives.includes(c.Narrative)) {
-      uniqueNarratives.push(c.Narrative);
-    }
-    return c;
-  });
+  // const uniqueNarratives = [];
+  // const dataForNarrative = fakeData.map((c) => {
+  //   if (!uniqueNarratives.includes(c.Narrative)) {
+  //     uniqueNarratives.push(c.Narrative);
+  //   }
+  //   return c;
+  // });
 
-  const narrative = uniqueNarratives.map((n, i) => (
-    <Link key={i} href={`/narratives/${n}`} >
+  const narrative = dataEdited.map((n, i) => (
+    <Link key={i} href={`/narratives/${n.Narrative}`}>
       <a>
-        <FakeItem  data={fakeData} narrative={n} />
+        <FakeItem data={fakeData} narrative={n.Narrative} />
       </a>
     </Link>
   ));
- 
-  return (
-    <div className={styles.fakeListWrap}>
-      {narrative}
-    </div>
-  );
+
+  return <div className={styles.fakeListWrap}>{narrative}</div>;
 }

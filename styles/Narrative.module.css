@@ -52,10 +52,10 @@
 }
 .fakeLink {
   border-bottom: 1px solid rgb(233, 233, 233);
-  padding: 0.8rem 0;
+  padding: 1rem 0;
   font-weight: 400;
   font-size: 1.2rem;
-  margin: 0;
+  margin: 2rem 0 0 0;
 }
 
 /* .fakeLink:hover {
@@ -96,9 +96,10 @@
 }
 
 .country, .media, .date {
-  margin: 0 2rem 1rem 0;
+  margin: 0 2rem 0 0;
   font-size: .8rem;
   font-weight: 600;
+  width: 160px;
 }
 
 .date {

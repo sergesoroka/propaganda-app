@@ -2,7 +2,9 @@ import Head from "next/head";
 import Link from "next/link";
 import { BsXLg, BsArrowLeft } from "react-icons/bs";
 
+import Media from '../../../components/Media/Media'
 import { fakeData } from "../../../data/data";
+import { dataEdited } from "../../../data/dataSample";
 
 import styles from "../../../styles/Narrative.module.css";
 import { useRouter } from "next/router";
@@ -11,43 +13,18 @@ export default function NarrativeItem() {
   const router = useRouter();
   const { id } = router.query;
 
-  const uniqueFakes = [];
-  const dataFoFakes = fakeData.map((c) => {
-    if (!uniqueFakes.includes(c.Fakes)) {
-      uniqueFakes.push(c.Fakes);
-    }
-    return c;
-  });
 
-  const fake = uniqueFakes.map((n, i) => {
+
+  const fake = dataEdited.map((n, i) => {
     return (
       <>
         {/* <Link key={i} href={`/narratives/${n}/fakes/${n}`}> */}
-          {n ? <h3 className={styles.fakeLink}>{n}</h3> : null}
+          {n.Fakes ? <h3 className={styles.fakeLink}>{n.Fakes}</h3> : null}
         {/* </Link> */}
-        <div style={{ display: "flex" }}>
-          <div className={styles.country}>Німеччина</div>
-          <div className={styles.media}>
-            <a href="https://uncutnews.ch/die-nato-rueckt-in-der-ukraine-immer-naeher-an-einen-krieg-gegen-russland/">
-              Uncutnews
-            </a>
-          </div>
-          <div className={styles.date}>01/11/2021</div>
-        </div>
+        <Media key={i} data={n}/>
       </>
     );
   });
-
-  //   const renderedData = fakeData.map((item, i) => {
-
-  //       return (
-  //         <div key={i}>
-  //           {/* <div className={styles.fakeItemHedingWrap}>{item.Fakes}</div> */}
-  //           <div className={styles.fakeNote}>{item.Disinfo_cases_en}</div>
-  //         </div>
-  //       );
-
-  //   });
 
   return (
     <div className={styles.container}>
@@ -143,6 +120,7 @@ export default function NarrativeItem() {
         state formation.&quot;</p>
       </div>
       {fake}
+      
     </div>
   );
 }

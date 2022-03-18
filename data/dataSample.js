@@ -8,8 +8,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "09/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211209/putin-quello-che-accade-nel-donbass-assomiglia-a-un-genocidio-14125613.html",
     "Debunking": ""
   },
   {
@@ -21,8 +22,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/03/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2021/krieg-im-donbass-ukraine-verkuendet-das-ende-des-abkommens-von-minsk/",
     "Debunking": ""
   },
   {
@@ -34,8 +36,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/129862-lebkuchenhexe-im-weissen-haus/",
     "Debunking": ""
   },
   {
@@ -47,8 +50,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "wsws.org",
+    "Link": "https://www.wsws.org/de/articles/2021/04/23/ukra-a23.html",
     "Debunking": ""
   },
   {
@@ -60,8 +64,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/128478-russland-und-china-versus-usa/",
     "Debunking": ""
   },
   {
@@ -73,8 +78,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "27/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20211226/buergerkriegserweiterung-im-donbass-voellig-unzulaessig--kreml-4818628.html",
     "Debunking": ""
   },
   {
@@ -86,8 +92,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/128523-ukraine-als-aufmarschplatz-nato-schon-10000-soldaten-der-westlichen-allianz-land/",
     "Debunking": ""
   },
   {
@@ -99,8 +106,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/07/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/donetsk-lesercito-ucraino-ha-violato-sei-volte-nelle-ultime-24-ore-il-cessate-il-fuoco-instaurato-nel-donbass-sabato/",
     "Debunking": ""
   },
   {
@@ -112,8 +120,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/10/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Info Sperber",
+    "Link": "https://www.infosperber.ch/politik/schweiz/so-will-br-ignazio-cassis-die-ukraine-in-lugano-aufleben-lassen/",
     "Debunking": ""
   },
   {
@@ -125,8 +134,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "6/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "http://rt.de/",
     "Debunking": ""
   },
   {
@@ -138,8 +148,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/09/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "http://rt.de/",
     "Debunking": ""
   },
   {
@@ -151,8 +162,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/12/2015",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Ilsimplicissimus",
+    "Link": "https://ilsimplicissimus2.com/2015/02/15/isis-e-terrorismo/",
     "Debunking": ""
   },
   {
@@ -164,8 +176,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/02/2017",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20170224/Maidan-nazisti-golpe-rivoluzione-Trump-LaRouche-Schiller-Manhattan-4116383.html",
     "Debunking": ""
   },
   {
@@ -177,8 +190,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/08/2020",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Adhoc News",
+    "Link": "https://www.adhocnews.it/sanzioni-russia-a-causa-dell-ue-litalia-umiliata-perde-miliardi-di-euro/",
     "Debunking": ""
   },
   {
@@ -190,8 +204,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/130030-anthony-blinkens-bornierte-vision-von-russland/",
     "Debunking": ""
   },
   {
@@ -203,8 +218,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/01/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "NachDenkSeiten",
+    "Link": "https://www.nachdenkseiten.de/?p=68942",
     "Debunking": ""
   },
   {
@@ -216,8 +232,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/129803-geschehnisse-in-kasachstan-usa/",
     "Debunking": ""
   },
   {
@@ -229,8 +246,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://www.google.com/url?q=https://de.rt.com/meinung/117718-ukraine-wie-durch-us-einfluss-aus-maidan-traum-albtraum-wurde/&sa=D&source=docs&ust=1642494181435374&usg=AOvVaw0BTZYZhecgWGB2DYDaIodo",
     "Debunking": ""
   },
   {
@@ -242,8 +260,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Report24 News",
+    "Link": "https://report24.news/ukraine-krise-steuern-wir-in-den-dritten-weltkrieg/",
     "Debunking": ""
   },
   {
@@ -255,8 +274,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "05/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/crocevia-pericoloso-preparano-una-guerra-nucleare-in-ucraina/",
     "Debunking": ""
   },
   {
@@ -268,8 +288,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/07/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Radio Radio",
+    "Link": "https://www.radioradio.it/2019/07/siamo-diventati-una-colonia-americana/",
     "Debunking": ""
   },
   {
@@ -281,8 +302,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Linkezeitung.de",
+    "Link": "https://www.google.com/url?q=https://linkezeitung.de/2021/05/03/ukraine-praesident-selenskyj-vertieft-buendnis-mit-rechtsextremen/&sa=D&source=docs&ust=1642494336073581&usg=AOvVaw0FZvymT2ubsVMelMR28Sau",
     "Debunking": ""
   },
   {
@@ -294,8 +316,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/08/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/der-russische-staatsstreich-plan-in-belarus-wurde-von-der-ukraine-vorgetaeuscht/",
     "Debunking": ""
   },
   {
@@ -307,8 +330,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "14/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/kasachstan-die-neue-grenze-der-nato-versuchter-staatsstreich-geschichte-und-analyse-der-farbrevolutionen/",
     "Debunking": ""
   },
   {
@@ -320,8 +344,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "25/08/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/doug-casey-ueber-die-schockierende-deagel-prognose-fuer-2025-krieg-bevoelkerungsrueckgang-und-der-zusammenbruch-des-westens/",
     "Debunking": ""
   },
   {
@@ -333,8 +358,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/03/2015",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "ilgiornale.it",
+    "Link": "https://www.ilgiornale.it/news/politica/ucraina-golpe-targato-obama-1108688.html",
     "Debunking": ""
   },
   {
@@ -346,8 +372,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/01/2015",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "ilblogdellestelle.it",
+    "Link": "https://www.ilblogdellestelle.it/2015/01/il_colpo_di_sta_1.html",
     "Debunking": ""
   },
   {
@@ -359,8 +386,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/03/2014",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "ilfattoquotidiano.it",
+    "Link": "https://www.ilfattoquotidiano.it/2014/03/10/ucraina-come-si-fa-un-golpe-moderno/907785/",
     "Debunking": ""
   },
   {
@@ -372,8 +400,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/08/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://deutsch.rt.com/meinung/91384-regierungsinfos-fur-mdb-uber-ukraine/",
     "Debunking": ""
   },
   {
@@ -385,8 +414,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "14/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Linkezeitung.de",
+    "Link": "https://linkezeitung.de/2022/01/14/erwarten-sie-bald-eine-eskalation-des-konflikts-im-donbass-und-in-der-ukraine-sagt-ein-auslandskorrespondent/",
     "Debunking": ""
   },
   {
@@ -398,8 +428,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/126579-bekannter-neonazi-zum-berater-befehlshabers-ukraine/",
     "Debunking": ""
   },
   {
@@ -411,8 +442,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/erwarten-sie-bald-eine-eskalation-des-konflikts-im-donbass-und-in-der-ukraine-sagt-ein-auslandskorrespondent/",
     "Debunking": ""
   },
   {
@@ -424,8 +456,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/06/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "NachDenkSeiten",
+    "Link": "https://www.nachdenkseiten.de/?p=73222",
     "Debunking": ""
   },
   {
@@ -437,8 +470,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/03/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "http://rt.de/",
     "Debunking": ""
   },
   {
@@ -450,8 +484,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/11/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/79863-maidan-jubilaeum-asyldebatte-finanzabzocke/",
     "Debunking": ""
   },
   {
@@ -463,8 +498,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/10/2014",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/4073/wirtschaft/die-fracking-lobby-und-ihre-rolle-im-ukrainekonflikt/",
     "Debunking": ""
   },
   {
@@ -476,8 +512,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/11/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/79418-ukraine-rechtsextremisten-organisieren-ausbildungslager-kinder/",
     "Debunking": ""
   },
   {
@@ -489,8 +526,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211210/ucraina-senatore-esorta-biden-a-non-escludere-azione-nucleare-contro-la-russia-14121057.html",
     "Debunking": ""
   },
   {
@@ -502,8 +540,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/09/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Radio Radio",
+    "Link": "https://www.radioradio.it/2019/09/unione-europea-un-progetto-criminale-che-merita-di-sparire/",
     "Debunking": ""
   },
   {
@@ -515,8 +554,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/129840-tatsachen-schaffen-ukraine-mit-kriegshilfen-nato-plus-status-verhandlungsmasse-aufblahen/",
     "Debunking": ""
   },
   {
@@ -528,8 +568,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/128816-russlands-aussenminister-im-rt-interview-zu-oft-betrogen-worden-wollen-darum-verbindliche-garantien/",
     "Debunking": ""
   },
   {
@@ -541,8 +582,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/03/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20190318/crimea-5-anniversario-russia-7431512.html",
     "Debunking": ""
   },
   {
@@ -554,8 +596,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "08/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "http://rt.de/",
     "Debunking": ""
   },
   {
@@ -567,8 +610,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/09/2016",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "http://sna.it/",
     "Debunking": ""
   },
   {
@@ -580,8 +624,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "12/09/2017",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "http://sna.it/",
     "Debunking": ""
   },
   {
@@ -593,8 +638,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/03/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Il Primato Nazionale",
+    "Link": "https://www.ilprimatonazionale.it/esteri/mosca-80mila-persone-stadio-putin-video-186258/",
     "Debunking": ""
   },
   {
@@ -606,8 +652,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/12/2017",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "http://sna.it/",
     "Debunking": ""
   },
   {
@@ -619,8 +666,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/02/2015",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/12452/international/die-zentrale-rolle-der-usa-beim-maidan-putsch-in-der-ukraine/",
     "Debunking": ""
   },
   {
@@ -635,9 +683,10 @@ export const dataEdited = [
     "Disinfo_cases_de": "",
     "Disinfo_cases_it": "",
     "Disinfo_cases _uk": "09/02/2021",
-    "Disinfo_cases_ru": "Німеччина",
+    "Disinfo_cases_ru": "Germany",
     "Date": "RT.DE",
-    "Countries": ""
+    "Countries": "https://de.rt.com/26794/international/nato-manoever-rapid-trident-2015-in-der-ukraine-bundeswehr-trainiert-mit-ukrainischen-neo-nazi-bataillonen/",
+    "Media": ""
   },
   {
     "Narrative": "",
@@ -648,8 +697,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Report24",
+    "Link": "https://report24.news/ukraine-krise-steuern-wir-in-den-dritten-weltkrieg/",
     "Debunking": ""
   },
   {
@@ -661,8 +711,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "25/05/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "http://rt.de/",
     "Debunking": ""
   },
   {
@@ -674,8 +725,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/03/2014",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Viva.it",
+    "Link": "http://www.vita.it/it/article/2014/03/18/cosa-e-successo-a-piazza-maidan-la-vera-storia-della-rivolta-ucraina/126393/",
     "Debunking": ""
   },
   {
@@ -687,8 +739,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/02/2018",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "glindifferenti",
+    "Link": "https://glindifferenti.it/kiev-quattro-anni-golpe-euromaidan/366/",
     "Debunking": ""
   },
   {
@@ -700,8 +753,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "29/07/2016",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "lantidiplomatico.it",
+    "Link": "https://www.lantidiplomatico.it/dettnews-il_miliardario_george_soros_io_ho_finanziato_il_colpo_di_stato_in_ucraina/82_16747/",
     "Debunking": ""
   },
   {
@@ -713,8 +767,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/04/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/donbass-trincea-deuropa-5-anni-dalla-proclamazione-della-repubblica-di-donetsk-2/",
     "Debunking": ""
   },
   {
@@ -726,8 +781,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/12/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/newsticker/81543-nazi-kollaborateure-in-ukraine-kriegsveteranen-gleichgesetzt-staatliche-leistungen/",
     "Debunking": ""
   },
   {
@@ -739,8 +795,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/07/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/73317-fass-ohne-boden-was-hat-die-ukraine-bis-jetzt-gekostet/",
     "Debunking": ""
   },
   {
@@ -752,8 +809,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/07/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/wirtschaft/73312-brusseler-strafzolle-auch-fur-ukrainische-metalleinfuhren/",
     "Debunking": ""
   },
   {
@@ -765,8 +823,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/07/2015",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/26794/international/nato-manoever-rapid-trident-2015-in-der-ukraine-bundeswehr-trainiert-mit-ukrainischen-neo-nazi-bataillonen/",
     "Debunking": ""
   },
   {
@@ -778,8 +837,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/03/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "http://rt.de/",
     "Debunking": ""
   },
   {
@@ -791,8 +851,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/03/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "http://rt.de/",
     "Debunking": ""
   },
   {
@@ -804,8 +865,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/10/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Info Sperber",
+    "Link": "https://www.infosperber.ch/politik/schweiz/so-will-br-ignazio-cassis-die-ukraine-in-lugano-aufleben-lassen/",
     "Debunking": ""
   },
   {
@@ -817,8 +879,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "07/04/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/86860-rote-karte-fuer-krieg-und-nationalismus-warum-die-ukraine-poroschenko-abwaehlt/",
     "Debunking": ""
   },
   {
@@ -830,8 +893,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/12/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/110540-naziverehrung-folter-diskriminierung-russland-beklagt/",
     "Debunking": ""
   },
   {
@@ -845,6 +909,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -856,8 +921,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "01/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-nato-rueckt-in-der-ukraine-immer-naeher-an-einen-krieg-gegen-russland/",
     "Debunking": ""
   },
   {
@@ -869,8 +935,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/08/2020",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Radio Radio",
+    "Link": "https://www.radioradio.it/2020/08/bielorussia-nel-mirino-dei-barbari-di-washington-cosa-succede/",
     "Debunking": ""
   },
   {
@@ -882,8 +949,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-us-kriegsplaene-fuer-die-ukraine/",
     "Debunking": ""
   },
   {
@@ -895,8 +963,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/02/2017",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20170224/Maidan-nazisti-golpe-rivoluzione-Trump-LaRouche-Schiller-Manhattan-4116383.html",
     "Debunking": ""
   },
   {
@@ -908,8 +977,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211210/ucraina-senatore-esorta-biden-a-non-escludere-azione-nucleare-contro-la-russia-14121057.html",
     "Debunking": ""
   },
   {
@@ -921,8 +991,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/ein-militaerisches-eingreifen-russlands-in-der-ukraine-ist-aeusserst-unwahrscheinlich/",
     "Debunking": ""
   },
   {
@@ -934,8 +1005,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/08/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-ukraine-stirbt-einen-tod-der-deindustrialisierung/",
     "Debunking": ""
   },
   {
@@ -947,8 +1019,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-nato-beendet-den-krieg-in-der-ukraine-wie-ein-brandstifter-der-das-feuer-loescht/",
     "Debunking": ""
   },
   {
@@ -960,8 +1033,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/03/2015",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "ilgiornale.it",
+    "Link": "https://www.ilgiornale.it/news/politica/ucraina-golpe-targato-obama-1108688.html",
     "Debunking": ""
   },
   {
@@ -973,8 +1047,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/07/2018",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "ligurianotizie.it",
+    "Link": "https://www.ligurianotizie.it/donbass-compagni-collettivo-comunista-genova-city-strike-a-kiev-governo-nazifascista/2018/10/07/312362/",
     "Debunking": ""
   },
   {
@@ -986,8 +1061,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/09/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Radio Radio",
+    "Link": "https://www.radioradio.it/2019/09/unione-europea-un-progetto-criminale-che-merita-di-sparire/",
     "Debunking": ""
   },
   {
@@ -999,8 +1075,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/08/2017",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Philosophia Perennis",
+    "Link": "https://philosophia-perennis.com/2017/08/28/merkelwaehler/",
     "Debunking": ""
   },
   {
@@ -1012,8 +1089,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/12/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/110540-naziverehrung-folter-diskriminierung-russland-beklagt/",
     "Debunking": ""
   },
   {
@@ -1025,8 +1103,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/12/2016",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20161228/Bandera-violenza-Kiev-democrazia-Freitag-UE-3852207.html",
     "Debunking": ""
   },
   {
@@ -1038,8 +1117,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/12/2016",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20161228/Bandera-violenza-Kiev-democrazia-Freitag-UE-3852207.html",
     "Debunking": ""
   },
   {
@@ -1051,8 +1131,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/06/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "NachDenkSeiten",
+    "Link": "https://www.nachdenkseiten.de/?p=73222",
     "Debunking": ""
   },
   {
@@ -1064,8 +1145,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/07/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20210731/frankreich-verharmlost-neonazismus-in-ukraine-3038050.html",
     "Debunking": ""
   },
   {
@@ -1077,8 +1159,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/02/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Imola Oggi",
+    "Link": "https://www.imolaoggi.it/2019/02/20/ucraina-enorme-svastica-nel-centro-commerciale-ecco-gli-alleati-della-ue/",
     "Debunking": ""
   },
   {
@@ -1090,8 +1173,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/12/2016",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20161228/Bandera-violenza-Kiev-democrazia-Freitag-UE-3852207.html",
     "Debunking": ""
   },
   {
@@ -1103,8 +1187,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "04/07/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/72401-wenn-neonazi-zum-willkommenen-gast-wird/",
     "Debunking": ""
   },
   {
@@ -1116,8 +1201,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "09/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211209/putin-quello-che-accade-nel-donbass-assomiglia-a-un-genocidio-14125613.html",
     "Debunking": ""
   },
   {
@@ -1129,8 +1215,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "09/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211209/putin-quello-che-accade-nel-donbass-assomiglia-a-un-genocidio-14125613.html",
     "Debunking": ""
   },
   {
@@ -1142,8 +1229,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/117718-ukraine-wie-durch-us-einfluss-aus-maidan-traum-albtraum-wurde/",
     "Debunking": ""
   },
   {
@@ -1155,8 +1243,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Linkezeitung.de",
+    "Link": "https://www.google.com/url?q=https://linkezeitung.de/2021/05/03/ukraine-praesident-selenskyj-vertieft-buendnis-mit-rechtsextremen/&sa=D&source=docs&ust=1642494336073581&usg=AOvVaw0FZvymT2ubsVMelMR28Sau",
     "Debunking": ""
   },
   {
@@ -1168,8 +1257,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "14/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Linkezeitung.de",
+    "Link": "https://linkezeitung.de/2022/01/14/erwarten-sie-bald-eine-eskalation-des-konflikts-im-donbass-und-in-der-ukraine-sagt-ein-auslandskorrespondent/",
     "Debunking": ""
   },
   {
@@ -1181,8 +1271,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/126579-bekannter-neonazi-zum-berater-befehlshabers-ukraine/",
     "Debunking": ""
   },
   {
@@ -1194,8 +1285,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Linkezeitung.de",
+    "Link": "https://www.google.com/url?q=https://linkezeitung.de/2021/05/03/ukraine-praesident-selenskyj-vertieft-buendnis-mit-rechtsextremen/&sa=D&source=docs&ust=1642494336073581&usg=AOvVaw0FZvymT2ubsVMelMR28Sau",
     "Debunking": ""
   },
   {
@@ -1207,8 +1299,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Linkezeitung.de",
+    "Link": "https://www.google.com/url?q=https://linkezeitung.de/2021/05/03/ukraine-praesident-selenskyj-vertieft-buendnis-mit-rechtsextremen/&sa=D&source=docs&ust=1642494336073581&usg=AOvVaw0FZvymT2ubsVMelMR28Sau",
     "Debunking": ""
   },
   {
@@ -1220,8 +1313,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "wsws.org",
+    "Link": "https://www.wsws.org/de/articles/2021/04/23/ukra-a23.html",
     "Debunking": ""
   },
   {
@@ -1233,8 +1327,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/09/2018",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20180915/Euromaidan-uccisioni-violenza-Ucraina-golpe-aggressione-magistratura-giustizia-Kiev-Berkut-Yanukovych-giudice-intimidazione-6499091.html",
     "Debunking": ""
   },
   {
@@ -1246,8 +1341,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/11/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/79863-maidan-jubilaeum-asyldebatte-finanzabzocke/",
     "Debunking": ""
   },
   {
@@ -1259,8 +1355,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/02/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/65299-ukraine-krim-und-frage-nach/",
     "Debunking": ""
   },
   {
@@ -1272,8 +1369,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "09/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Farodiroma",
+    "Link": "https://www.farodiroma.it/putin-la-russofobia-spinge-al-genocidio-il-capo-del-cremlino-dice-la-sua-sulla-crisi-con-lucraina/",
     "Debunking": ""
   },
   {
@@ -1285,8 +1383,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/06/2014",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Das Erste",
+    "Link": "https://daserste.ndr.de/panorama/archiv/2014/Putsch-in-Kiew-Welche-Rolle-spielen-die-Faschisten,ukraine357.html",
     "Debunking": ""
   },
   {
@@ -1298,8 +1397,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/03/2020",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Adhoc News",
+    "Link": "https://www.adhocnews.it/battaglione-azov-la-legione-straniera-nera-che-puo-far-tremare-leuropa/",
     "Debunking": ""
   },
   {
@@ -1311,8 +1411,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "05/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/inland/129416-bundesregierung-verurteilt-nationalistenmarsche-in-ukraine/",
     "Debunking": ""
   },
   {
@@ -1324,8 +1425,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20211224/ukraine-neonazi-schmiede-russland-aussenamt-fehler-jahrhundert-4799358.html",
     "Debunking": ""
   },
   {
@@ -1337,8 +1439,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20220103/minsk-protestnote-regierung-in-kiew-4888851.html",
     "Debunking": ""
   },
   {
@@ -1350,8 +1453,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "04/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/129331-diener-dritten-reichs-weissrussland-schickt-protesntnote-ukraine-bandera-marsch/",
     "Debunking": ""
   },
   {
@@ -1363,8 +1467,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "05/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/inland/129416-bundesregierung-verurteilt-nationalistenmarsche-in-ukraine/",
     "Debunking": ""
   },
   {
@@ -1376,8 +1481,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/11/2018",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "periodicodaily.com",
+    "Link": "https://www.periodicodaily.com/ucraina-ombre-nere-in-piazza-maidan/",
     "Debunking": ""
   },
   {
@@ -1389,8 +1495,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/11/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/79418-ukraine-rechtsextremisten-organisieren-ausbildungslager-kinder/",
     "Debunking": ""
   },
   {
@@ -1402,8 +1509,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/07/2015",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/26794/international/nato-manoever-rapid-trident-2015-in-der-ukraine-bundeswehr-trainiert-mit-ukrainischen-neo-nazi-bataillonen/",
     "Debunking": ""
   },
   {
@@ -1415,8 +1523,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/07/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20210731/frankreich-verharmlost-neonazismus-in-ukraine-3038050.html",
     "Debunking": ""
   },
   {
@@ -1428,8 +1537,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220117/ucraina-dove-cia-neo-nazi-e-jihadisti-si-danno-la-mano-14656293.html",
     "Debunking": ""
   },
   {
@@ -1441,8 +1551,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/10/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/warum-ermitteln-die-usa-gegen-einen-amerikanischen-faschisten-wegen-kriegsverbrechen-in-der-ukraine/",
     "Debunking": ""
   },
   {
@@ -1454,8 +1565,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "wsws.org",
+    "Link": "https://www.wsws.org/de/articles/2021/04/23/ukra-a23.html",
     "Debunking": ""
   },
   {
@@ -1467,8 +1579,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Linkezeitung.de",
+    "Link": "https://www.google.com/url?q=https://linkezeitung.de/2021/05/03/ukraine-praesident-selenskyj-vertieft-buendnis-mit-rechtsextremen/&sa=D&source=docs&ust=1642494336073581&usg=AOvVaw0FZvymT2ubsVMelMR28Sau",
     "Debunking": ""
   },
   {
@@ -1480,8 +1593,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "wsws.org",
+    "Link": "https://www.wsws.org/de/articles/2021/04/23/ukra-a23.html",
     "Debunking": ""
   },
   {
@@ -1493,8 +1607,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "wsws.org",
+    "Link": "https://www.wsws.org/de/articles/2021/05/03/ukra-m03.html",
     "Debunking": ""
   },
   {
@@ -1506,8 +1621,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "04/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/ukraine-praesident-selenskyj-vertieft-buendnis-mit-rechtsextremen/",
     "Debunking": ""
   },
   {
@@ -1519,8 +1635,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/12/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/110540-naziverehrung-folter-diskriminierung-russland-beklagt/",
     "Debunking": ""
   },
   {
@@ -1532,8 +1649,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "29/08/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/wie-die-von-der-nato-unterstuetzte-ukraine-freiheit-und-demokratie-verteidigt/",
     "Debunking": ""
   },
   {
@@ -1545,8 +1663,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/03/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/110540-naziverehrung-folter-diskriminierung-russland-beklagt/",
     "Debunking": ""
   },
   {
@@ -1558,8 +1677,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/126579-bekannter-neonazi-zum-berater-befehlshabers-ukraine/",
     "Debunking": ""
   },
   {
@@ -1573,6 +1693,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -1584,8 +1705,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Reset Italia Blog",
+    "Link": "https://resetitaliablog.altervista.org/bloomberg-la-germania-non-ha-promesso-agli-stati-uniti-di-sospendere-nord-stream-2-a-causa-dellucraina/",
     "Debunking": ""
   },
   {
@@ -1597,8 +1719,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Corriere Nazionale",
+    "Link": "https://www.corrierenazionale.net/il-prezzo-del-gas-resta-a-livelli-record/",
     "Debunking": ""
   },
   {
@@ -1610,8 +1733,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Corriere Nazionale",
+    "Link": "https://www.corrierenazionale.net/il-prezzo-del-gas-resta-a-livelli-record/",
     "Debunking": ""
   },
   {
@@ -1623,8 +1747,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione.info",
+    "Link": "https://www.controinformazione.info/leuropa-passa-sotto-il-totale-controllo-di-washington-grazie-alla-crisi-ucraina/",
     "Debunking": ""
   },
   {
@@ -1636,8 +1761,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220103/lallarme-sul-caro-energia-si-rischia-un-lockdown-produttivo-14463120.html",
     "Debunking": ""
   },
   {
@@ -1651,6 +1777,7 @@ export const dataEdited = [
     "Date": "22/12/2021",
     "Countries": "",
     "Media": "Report 24",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -1662,8 +1789,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/129862-lebkuchenhexe-im-weissen-haus/",
     "Debunking": ""
   },
   {
@@ -1675,8 +1803,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220110/ucraina-chiede-a-germania-misure-punitive-preventive-contro-russia-per-far-saltare-nord-stream-2-14559936.html",
     "Debunking": ""
   },
   {
@@ -1688,8 +1817,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20220120/im-deutschen-interesse-schwesig-baldige-zertifizierung-nord-stream-2-5079395.html",
     "Debunking": ""
   },
   {
@@ -1701,8 +1831,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/116901-rucksichtslose-haltung-usa-gegenuber-nord/",
     "Debunking": ""
   },
   {
@@ -1714,8 +1845,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione.info",
+    "Link": "https://www.controinformazione.info/leuropa-passa-sotto-il-totale-controllo-di-washington-grazie-alla-crisi-ucraina/",
     "Debunking": ""
   },
   {
@@ -1727,8 +1859,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/bei-der-krise-in-der-ukraine-geht-es-nicht-um-die-ukraine-es-geht-um-deutschland/",
     "Debunking": ""
   },
   {
@@ -1740,8 +1873,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "27/01/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Report 24",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -1753,8 +1887,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211218/germania-per-vice-cancelliere-e-leader-dei-verdi-un-errore-geopolitico-il-gasdotto-nord-stream-2-14257127.html",
     "Debunking": ""
   },
   {
@@ -1766,8 +1901,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220103/ministero-degli-esteri-russo-rivelate-le-tempistiche-della-certificazione-di-nord-stream-2-14463028.html",
     "Debunking": ""
   },
   {
@@ -1779,8 +1915,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/08/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Farodiroma",
+    "Link": "https://www.farodiroma.it/pronto-al-99-il-gasdotto-nord-stream-2-che-colleghera-la-russia-con-la-germania-a-puccio/",
     "Debunking": ""
   },
   {
@@ -1792,8 +1929,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/02/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.DE",
+    "Link": "http://snanews.de/",
     "Debunking": ""
   },
   {
@@ -1805,8 +1943,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/07/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2020/neue-us-sanktionen-gegen-nord-stream-2-vergleich-der-reaktionen-des-deutschen-und-des-russischen-aussenministeriums/",
     "Debunking": ""
   },
   {
@@ -1818,8 +1957,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "07/06/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2021/der-erste-strang-von-nord-stream-2-ist-fertig-gestellt/",
     "Debunking": ""
   },
   {
@@ -1831,8 +1971,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "08/02/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220208/cancellazione-nord-stream-danneggerebbe-la-germania-usa-non-in-grado-di-sostituire-le-forniture-14991380.html",
     "Debunking": ""
   },
   {
@@ -1844,8 +1985,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.DE",
+    "Link": "http://snanews.de/",
     "Debunking": ""
   },
   {
@@ -1857,8 +1999,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/12/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/81331-usa-ueben-wegen-nord-stream-2-enormen-druck-auf-deutschland-aus/",
     "Debunking": ""
   },
   {
@@ -1870,8 +2013,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/12/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20201224/pentagon-ausgaben-fuer-was-280387.html",
     "Debunking": ""
   },
   {
@@ -1883,8 +2027,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/09/2020",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "databaseitalia.it",
+    "Link": "http://databaseitalia.it/",
     "Debunking": ""
   },
   {
@@ -1896,8 +2041,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "04/01/2018",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220208/cancellazione-nord-stream-danneggerebbe-la-germania-usa-non-in-grado-di-sostituire-le-forniture-14991380.html",
     "Debunking": ""
   },
   {
@@ -1909,8 +2055,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/inland/130045-baerbock-auf-schwieriger-mission-in/",
     "Debunking": ""
   },
   {
@@ -1922,8 +2069,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/06/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20201224/pentagon-ausgaben-fuer-was-280387.html",
     "Debunking": ""
   },
   {
@@ -1937,6 +2085,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -1948,8 +2097,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/128476-ukraine-wird-im-jahr-2022-nato-pr%C3%A4senz-land-erheblich-erweitern/",
     "Debunking": ""
   },
   {
@@ -1961,8 +2111,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/128523-ukraine-als-aufmarschplatz-nato-schon-10000-soldaten-der-westlichen-allianz-land/",
     "Debunking": ""
   },
   {
@@ -1974,8 +2125,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/01/02/pentagon-beherrscht-die-ukraine-und-bereitet-sie-auf-einen-krieg-mit-russland-vor/",
     "Debunking": ""
   },
   {
@@ -1987,8 +2139,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/01/02/pentagon-beherrscht-die-ukraine-und-bereitet-sie-auf-einen-krieg-mit-russland-vor/",
     "Debunking": ""
   },
   {
@@ -2000,8 +2153,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20220116/peskow-nato-keine-friedenstaube-5029037.html",
     "Debunking": ""
   },
   {
@@ -2013,8 +2167,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/01/16/kremlsprecher-russland-beobachtet-die-schrittweise-nato-invasion-in-die-ukraine/",
     "Debunking": ""
   },
   {
@@ -2026,8 +2181,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/130373-usa-sollte-ukraine-verlassen-immer-mehr-top-analysten-us-fordern-umdenken/",
     "Debunking": ""
   },
   {
@@ -2039,8 +2195,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/128673-ukrainischer-verteidigungsminister-nato-angriffswaffen/",
     "Debunking": ""
   },
   {
@@ -2052,8 +2209,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "30/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/129223-putin-und-biden-haben-telefoniert/",
     "Debunking": ""
   },
   {
@@ -2065,8 +2223,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211226/putin-e-le-linee-rosse-occidente-non-ha-lasciato-alternative-alla-russia-14360207.html",
     "Debunking": ""
   },
   {
@@ -2078,8 +2237,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "09/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Greenpass.news",
+    "Link": "https://greenpass.news/la-russia-che-invade-lucraina-e-il-nuovo-brillante-oggetto-del-partito-della-guerra-permanente/",
     "Debunking": ""
   },
   {
@@ -2091,8 +2251,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20220115/britische-aussenministerin-russland-desinformationskampagne-ukraine-5020241.html",
     "Debunking": ""
   },
   {
@@ -2104,8 +2265,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/japan-droht-zum-nato-aufmarschgebiet-nach-dem-vorbild-der-ukraine-zu-werden/",
     "Debunking": ""
   },
   {
@@ -2117,8 +2279,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/01/15/washington-kann-kiew-zu-bewaffneten-provokationen-zwingen-schapowalow/",
     "Debunking": ""
   },
   {
@@ -2130,8 +2293,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20220117/dagdelen-linke-nato-russland-5036783.html",
     "Debunking": ""
   },
   {
@@ -2143,8 +2307,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20220111/gus-land-staat-expertenmeinungen-4971942.html",
     "Debunking": ""
   },
   {
@@ -2156,8 +2321,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "09/07/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2021/07/09/krim-das-gefahrliche-spiel-der-nato/",
     "Debunking": ""
   },
   {
@@ -2169,8 +2335,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "l`Anti diplomatico",
+    "Link": "https://www.lantidiplomatico.it/dettnews-ultimatum_storico_alla_nato_mosca_chiarisce_le_sue_linee_rosse/40832_44445/",
     "Debunking": ""
   },
   {
@@ -2182,8 +2349,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "12/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20220112/le-pen-ruft-nato-zu-einhaltung-von-verpflichtungen-gegenueber-russland-auf-4982577.html",
     "Debunking": ""
   },
   {
@@ -2195,8 +2363,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/putin-deutet-militaerische-optionen-in-der-ukraine-an/",
     "Debunking": ""
   },
   {
@@ -2208,8 +2377,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "08/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/putin-an-biden-finnlandisieren-sie-die-ukraine-oder-wir-werden-es-tun/",
     "Debunking": ""
   },
   {
@@ -2221,8 +2391,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20220103/melenchon-nato-austritt-4889364.html",
     "Debunking": ""
   },
   {
@@ -2234,8 +2405,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220113/posizioni-russia-e-nato-inconciliabili-ma-dialogo-ripartito-14596029.html",
     "Debunking": ""
   },
   {
@@ -2247,8 +2419,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/troppa-tensione-al-confine-afferma-peskov-commentando-la-situazione-in-ucraina/",
     "Debunking": ""
   },
   {
@@ -2260,8 +2433,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Report24 News",
+    "Link": "https://report24.news/nato-uebt-vor-russischer-grenze-kritik-weil-russland-eigene-armee-im-land-hat/",
     "Debunking": ""
   },
   {
@@ -2273,8 +2447,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/12/2012",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211210/improbabile-una-guerra-russo-ucraina-anche-se-forse-qualcuno-la-vorrebbe-14134230.html",
     "Debunking": ""
   },
   {
@@ -2286,8 +2461,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2021/12/15/die-franzosen-werfen-kiew-vor-die-invasion-des-donbass-vorbereitet-zu-haben/",
     "Debunking": ""
   },
   {
@@ -2299,8 +2475,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/2/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/russland/129015-10000-russische-armeeangehorige-beenden-felduebungen-im-wehrkreis-sued/",
     "Debunking": "https://de.rt.com/meinung/131230-krise-geht-nicht-um-ukraine-russland-nato/   "
   },
   {
@@ -2312,8 +2489,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/129921-russland-soll-truppen-abziehen-aus/",
     "Debunking": ""
   },
   {
@@ -2325,8 +2503,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/russland/129015-10000-russische-armeeangehorige-beenden-felduebungen-im-wehrkreis-sued/",
     "Debunking": ""
   },
   {
@@ -2338,8 +2517,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/kurzclips/video/128973-russische-streitkrafte-trainieren-nahe-ukrainischer-grenze/",
     "Debunking": ""
   },
   {
@@ -2351,8 +2531,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/130417-puschilin-ukraine-hat-im-donbass-120000-soldaten-zusammengezogen/",
     "Debunking": ""
   },
   {
@@ -2364,8 +2545,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "http://rt.de/",
     "Debunking": ""
   },
   {
@@ -2377,8 +2559,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "27/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/129051-lawrow-westen-kleiner-krieg-ukraine/",
     "Debunking": ""
   },
   {
@@ -2390,8 +2573,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "05/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/crocevia-pericoloso-preparano-una-guerra-nucleare-in-ucraina/",
     "Debunking": ""
   },
   {
@@ -2403,8 +2587,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "25/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/117958-politiker-und-medien-orientieren-auf/",
     "Debunking": ""
   },
   {
@@ -2416,8 +2601,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/das-spiel-mit-dem-feuer-die-ukraine-ist-ein-grosser-nato-militaerstuetzpunkt-geworden/",
     "Debunking": ""
   },
   {
@@ -2429,8 +2615,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "07/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/warum-draengt-die-biden-administration-die-ukraine-russland-anzugreifen/",
     "Debunking": ""
   },
   {
@@ -2442,8 +2629,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/04/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Come Don Chisciotte",
+    "Link": "https://comedonchisciotte.org/flashpoint-ucraina-non-provocate-lorso/",
     "Debunking": ""
   },
   {
@@ -2455,8 +2643,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfrontt",
+    "Link": "https://de.news-front.info/2022/02/21/ukrainische-granate-zerstort-grenzschutzposten-in-der-region-rostow/",
     "Debunking": ""
   },
   {
@@ -2468,8 +2657,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/11/2018",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20181128/Kiev-schierare-chiede-base-militare-usa-ucraina-6860784.html",
     "Debunking": ""
   },
   {
@@ -2483,6 +2673,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -2494,8 +2685,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/117718-ukraine-wie-durch-us-einfluss-aus-maidan-traum-albtraum-wurde/",
     "Debunking": ""
   },
   {
@@ -2507,8 +2699,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/01/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2020/die-hagia-sophia-wird-eine-moschee-wie-in-russland-auf-den-tuerkischen-schritt-reagiert-wird/",
     "Debunking": ""
   },
   {
@@ -2520,8 +2713,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "06/03/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/113926-ukraine-zensur-willkur-und-schweigen/",
     "Debunking": ""
   },
   {
@@ -2533,8 +2727,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/12/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/110540-naziverehrung-folter-diskriminierung-russland-beklagt/",
     "Debunking": ""
   },
   {
@@ -2546,8 +2741,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2021/wie-die-ukraine-in-kuerzester-zeit-zur-diktatur-absurdistan-geworden-ist/",
     "Debunking": ""
   },
   {
@@ -2559,8 +2755,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "04/02/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Heise",
+    "Link": "https://www.heise.de/tp/features/Ukraine-im-Zangengriff-von-Ultranationalisten-und-Pressezensur-5045349.html?seite=all",
     "Debunking": ""
   },
   {
@@ -2572,8 +2769,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/08/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Unzensuriert",
+    "Link": "https://www.unzensuriert.at/content/133889-ukraine-will-krim-zurueck-doch-unterdrueckt-gleichzeitig-russen-und-ungarn/",
     "Debunking": ""
   },
   {
@@ -2585,8 +2783,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2022/wie-russland-den-menschen-im-donbass-und-dem-donbass-selbst-hilft/",
     "Debunking": ""
   },
   {
@@ -2598,8 +2797,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/07/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2021/das-sprachengesetz-und-die-zwangsweise-ukrainisierung/",
     "Debunking": ""
   },
   {
@@ -2611,8 +2811,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/07/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2021/russland-reicht-beim-europaeischen-gerichtshof-fuer-menschenrechte-klage-gegen-die-ukraine-ein/",
     "Debunking": ""
   },
   {
@@ -2624,8 +2825,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "07/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/115452-neue-sanktionsregime-eu-rueckkehr-zum-recht-des-staerkeren/",
     "Debunking": ""
   },
   {
@@ -2639,6 +2841,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -2650,8 +2853,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "05/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/crocevia-pericoloso-preparano-una-guerra-nucleare-in-ucraina/",
     "Debunking": ""
   },
   {
@@ -2663,8 +2867,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/01/02/politischer-analyst-karasew-spricht-daruber-wie-das-kiewer-regime-die-ukrainische-wirtschaft-endgultig-zerstoren-wird/",
     "Debunking": ""
   },
   {
@@ -2676,8 +2881,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/11/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Come Don Chisciotte",
+    "Link": "https://comedonchisciotte.org/chi-vuole-un-po-di-ucraina/",
     "Debunking": ""
   },
   {
@@ -2689,8 +2895,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/02/2016",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "ilfoglio.it",
+    "Link": "https://www.ilfoglio.it/esteri/2016/02/17/news/ucraina-un-altro-stato-in-default-politico-ed-economico-nel-giardino-dell-europa-92826/",
     "Debunking": ""
   },
   {
@@ -2702,8 +2909,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/02/2016",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "ilfoglio.it",
+    "Link": "https://www.ilfoglio.it/esteri/2016/02/17/news/ucraina-un-altro-stato-in-default-politico-ed-economico-nel-giardino-dell-europa-92826/",
     "Debunking": ""
   },
   {
@@ -2715,8 +2923,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "27/11/2018",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20181127/alleanza-insostenibile-ue-ucraina-6855626.html",
     "Debunking": ""
   },
   {
@@ -2728,8 +2937,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/09/2015",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Lindro",
+    "Link": "https://lindro.it/ucraina-sempre-piu-stato-fallito-alle-porte-deuropa/",
     "Debunking": ""
   },
   {
@@ -2741,8 +2951,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "07/04/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/86860-rote-karte-fuer-krieg-und-nationalismus-warum-die-ukraine-poroschenko-abwaehlt/",
     "Debunking": ""
   },
   {
@@ -2754,8 +2965,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/01/02/politischer-analyst-karasew-spricht-daruber-wie-das-kiewer-regime-die-ukrainische-wirtschaft-endgultig-zerstoren-wird/",
     "Debunking": ""
   },
   {
@@ -2770,9 +2982,10 @@ export const dataEdited = [
     "Disinfo_cases_de": "",
     "Disinfo_cases_it": "",
     "Disinfo_cases _uk": "09/09/2019",
-    "Disinfo_cases_ru": "Італія",
+    "Disinfo_cases_ru": "Italy",
     "Date": "SNA.IT",
-    "Countries": ""
+    "Countries": "https://it.sputniknews.com/20190909/ucraina-le-illusioni-perdute-8071306.html",
+    "Media": ""
   },
   {
     "Narrative": "",
@@ -2783,8 +2996,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/01/2015",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/10035/international/kiew-die-hoffnung-ist-gestorben/",
     "Debunking": ""
   },
   {
@@ -2796,8 +3010,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "27/11/2018",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20181127/alleanza-insostenibile-ue-ucraina-6855626.html",
     "Debunking": ""
   },
   {
@@ -2809,8 +3024,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/10/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/107869-deutsche-aussenpolitik-anspruch-und-wirklichkeit/",
     "Debunking": ""
   },
   {
@@ -2822,8 +3038,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/07/2015",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/26024/wirtschaft/ukraine-europaeische-investitionsbank-steckt-weitere-400-millionen-in-fass-ohne-boden/",
     "Debunking": ""
   },
   {
@@ -2835,8 +3052,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/03/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/114802-schandung-prasidentensitzes-ist-ukraine-gescheiterter-staat/",
     "Debunking": ""
   },
   {
@@ -2848,8 +3066,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/01/10/politischer-analyst-bortnik-sagt-den-baldigen-verlust-der-staatlichkeit-der-ukraine-voraus/",
     "Debunking": ""
   },
   {
@@ -2861,8 +3080,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/11/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Come Don Chisciotte",
+    "Link": "https://comedonchisciotte.org/un-mondo-senza-soros-e-senza-ucraina/",
     "Debunking": ""
   },
   {
@@ -2874,8 +3094,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "06/03/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/113926-ukraine-zensur-willkur-und-schweigen/",
     "Debunking": ""
   },
   {
@@ -2887,8 +3108,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2021/spielball-der-weltpolitik-was-erwartete-die-ukraine-in-2022/",
     "Debunking": ""
   },
   {
@@ -2900,8 +3122,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/08/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-ukraine-stirbt-einen-tod-der-deindustrialisierung/",
     "Debunking": ""
   },
   {
@@ -2913,8 +3136,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "08/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/wsj-gli-usa-sono-pronti-a-sacrificare-lucraina-per-il-bene-dellimmagine-di-una-superpotenza/",
     "Debunking": ""
   },
   {
@@ -2926,8 +3150,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/04/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Come Don Chisciotte",
+    "Link": "https://comedonchisciotte.org/flashpoint-ucraina-non-provocate-lorso/",
     "Debunking": ""
   },
   {
@@ -2939,8 +3164,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "27/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/russland-und-der-westen-den-nebel-der-hysterie-durchdringen/",
     "Debunking": ""
   },
   {
@@ -2952,8 +3178,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/06/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Snanews",
+    "Link": "https://snanews.de/20210611/nato-gipfel-2021-ukraine-mitgliedschaft-2471402.html",
     "Debunking": ""
   },
   {
@@ -2967,6 +3194,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -2978,8 +3206,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "06/12/2018",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Imola Oggi",
+    "Link": "https://www.imolaoggi.it/2018/12/06/ucraina-poroshenko-lutile-idiota-degli-occidentali/",
     "Debunking": ""
   },
   {
@@ -2991,8 +3220,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/118309-voelkisches-gesetz-in-der-ukraine-selenskij-will-sonderrechte-fuer-einheimische-voelker/",
     "Debunking": ""
   },
   {
@@ -3004,8 +3234,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "01/04/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Unzensuriert",
+    "Link": "https://www.unzensuriert.at/content/0029346-ukraine-denkzettelwahl-fuer-poroschenko-und-timoschenko-laesst-alles-offen/",
     "Debunking": ""
   },
   {
@@ -3017,8 +3248,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/10/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/warum-ermitteln-die-usa-gegen-einen-amerikanischen-faschisten-wegen-kriegsverbrechen-in-der-ukraine/",
     "Debunking": ""
   },
   {
@@ -3030,8 +3262,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/8/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/polen-und-die-ukraine-nicht-afghanistan-waren-die-ersten-us-verbuendeten-die-von-biden-im-stich-gelassen-wurden/",
     "Debunking": ""
   },
   {
@@ -3043,8 +3276,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "06/03/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2021/03/06/was-wird-die-ukraine-mit-einem-neuen-krieg-im-donbass-erreichen/",
     "Debunking": ""
   },
   {
@@ -3056,8 +3290,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "04/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2021/11/04/donbass-bereit-fur-gesprache-aber-kiew-fehlt-der-politische-wille/",
     "Debunking": ""
   },
   {
@@ -3069,8 +3304,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/01/02/pentagon-beherrscht-die-ukraine-und-bereitet-sie-auf-einen-krieg-mit-russland-vor/",
     "Debunking": ""
   },
   {
@@ -3082,8 +3318,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/04/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/donbass-trincea-deuropa-5-anni-dalla-proclamazione-della-repubblica-di-donetsk-2/",
     "Debunking": ""
   },
   {
@@ -3095,8 +3332,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/02/2016",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Ilfoglio",
+    "Link": "https://www.ilfoglio.it/esteri/2016/02/17/news/ucraina-un-altro-stato-in-default-politico-ed-economico-nel-giardino-dell-europa-92826/",
     "Debunking": ""
   },
   {
@@ -3108,8 +3346,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-nato-beendet-den-krieg-in-der-ukraine-wie-ein-brandstifter-der-das-feuer-loescht/",
     "Debunking": ""
   },
   {
@@ -3121,8 +3360,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/03/2015",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Ilgiornale",
+    "Link": "https://www.ilgiornale.it/news/politica/ucraina-golpe-targato-obama-1108688.html",
     "Debunking": ""
   },
   {
@@ -3134,8 +3374,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/03/2015",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Ilgiornale",
+    "Link": "https://www.ilgiornale.it/news/politica/ucraina-golpe-targato-obama-1108688.html",
     "Debunking": ""
   },
   {
@@ -3147,8 +3388,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/03/2015",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Ilgiornale",
+    "Link": "https://www.ilgiornale.it/news/politica/ucraina-golpe-targato-obama-1108688.html",
     "Debunking": ""
   },
   {
@@ -3160,8 +3402,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/02/2014",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/strategia-del-golpe-made-in-usa/",
     "Debunking": ""
   },
   {
@@ -3173,8 +3416,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/10/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/ehemaliger-cia-analyst-putin-blufft-nicht-in-sachen-ukraine/",
     "Debunking": ""
   },
   {
@@ -3186,8 +3430,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "27/10/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Reitschuster",
+    "Link": "https://reitschuster.de/post/die-globalisierungs-kanzlerin/",
     "Debunking": ""
   },
   {
@@ -3199,8 +3444,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Report24 News",
+    "Link": "https://report24.news/ukraine-krise-steuern-wir-in-den-dritten-weltkrieg/",
     "Debunking": ""
   },
   {
@@ -3212,8 +3458,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Report24 News",
+    "Link": "https://report24.news/ukraine-krise-steuern-wir-in-den-dritten-weltkrieg/",
     "Debunking": ""
   },
   {
@@ -3225,8 +3472,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/11/2017",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Imola Oggi",
+    "Link": "https://www.imolaoggi.it/2017/11/15/ucraina-i-cecchini-di-maidan-erano-appoggiati-dalla-ue/",
     "Debunking": ""
   },
   {
@@ -3238,8 +3486,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "09/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211209/putin-quello-che-accade-nel-donbass-assomiglia-a-un-genocidio-14125613.html",
     "Debunking": ""
   },
   {
@@ -3251,8 +3500,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/putin-deutet-militaerische-optionen-in-der-ukraine-an/",
     "Debunking": ""
   },
   {
@@ -3264,8 +3514,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/08/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-ukraine-stirbt-einen-tod-der-deindustrialisierung/",
     "Debunking": ""
   },
   {
@@ -3277,8 +3528,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "12/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antikrieg",
+    "Link": "http://www.antikrieg.com/aktuell/2021_04_11_nachueberraschendem.htm",
     "Debunking": ""
   },
   {
@@ -3290,8 +3542,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "01/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-nato-rueckt-in-der-ukraine-immer-naeher-an-einen-krieg-gegen-russland/",
     "Debunking": ""
   },
   {
@@ -3303,8 +3556,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antikrieg",
+    "Link": "http://www.antikrieg.com/aktuell/2021_04_11_nachueberraschendem.htm",
     "Debunking": ""
   },
   {
@@ -3316,8 +3570,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211210/ucraina-senatore-esorta-biden-a-non-escludere-azione-nucleare-contro-la-russia-14121057.html",
     "Debunking": ""
   },
   {
@@ -3329,8 +3584,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://www.google.com/url?q=https://de.rt.com/meinung/117718-ukraine-wie-durch-us-einfluss-aus-maidan-traum-albtraum-wurde/&sa=D&source=docs&ust=1642494181435374&usg=AOvVaw0BTZYZhecgWGB2DYDaIodo",
     "Debunking": ""
   },
   {
@@ -3342,8 +3598,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "07/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/warum-draengt-die-biden-administration-die-ukraine-russland-anzugreifen/",
     "Debunking": ""
   },
   {
@@ -3355,8 +3612,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "AntiSpiegel",
+    "Link": "https://www.anti-spiegel.ru/2020/welche-massnahmen-die-usa-gegen-russland-planen-teil-2-ukraine/",
     "Debunking": ""
   },
   {
@@ -3368,8 +3626,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "AntiSpiegel",
+    "Link": "https://www.anti-spiegel.ru/2020/welche-massnahmen-die-usa-gegen-russland-planen-teil-2-ukraine/",
     "Debunking": ""
   },
   {
@@ -3381,8 +3640,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "08/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Alles Schall und Rauch",
+    "Link": "http://alles-schallundrauch.blogspot.com/2021/04/krieg-zwischen-ukraine-und-russland.html",
     "Debunking": ""
   },
   {
@@ -3394,8 +3654,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "01/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-nato-rueckt-in-der-ukraine-immer-naeher-an-einen-krieg-gegen-russland/",
     "Debunking": ""
   },
   {
@@ -3407,8 +3668,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Report24 News",
+    "Link": "https://report24.news/ukraine-krise-steuern-wir-in-den-dritten-weltkrieg/",
     "Debunking": ""
   },
   {
@@ -3420,8 +3682,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "12/01/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/biden-ernennt-die-chef-coup-plotterin-der-ukraine-victoria-nuland/",
     "Debunking": ""
   },
   {
@@ -3433,8 +3696,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "08/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/wer-braucht-einen-krieg-in-der-ukraine/",
     "Debunking": ""
   },
   {
@@ -3446,8 +3710,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/ehemaliger-cia-analyst-putin-blufft-nicht-in-sachen-ukraine/",
     "Debunking": ""
   },
   {
@@ -3459,8 +3724,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/04/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Unzensuriert",
+    "Link": "https://www.unzensuriert.at/content/0029563-ukraine-russischer-staatspraesident-putin-bietet-ukrainern-reisepaesse/",
     "Debunking": ""
   },
   {
@@ -3472,8 +3738,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/08/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-ukraine-stirbt-einen-tod-der-deindustrialisierung/",
     "Debunking": ""
   },
   {
@@ -3485,8 +3752,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/08/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-ukraine-stirbt-einen-tod-der-deindustrialisierung/",
     "Debunking": ""
   },
   {
@@ -3498,8 +3766,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/08/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-ukraine-stirbt-einen-tod-der-deindustrialisierung/",
     "Debunking": ""
   },
   {
@@ -3511,8 +3780,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "12/12/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/110181-eu-und-ukraine-sieben-jahre-nach-dem-euromaidan/",
     "Debunking": ""
   },
   {
@@ -3524,8 +3794,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/das-spiel-mit-dem-feuer-die-ukraine-ist-ein-grosser-nato-militaerstuetzpunkt-geworden/",
     "Debunking": ""
   },
   {
@@ -3537,8 +3808,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20211231/lawrow-kritisiert-militaristische-bestrebungen-der-ukraine-4860827.html",
     "Debunking": ""
   },
   {
@@ -3550,8 +3822,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/japan-droht-zum-nato-aufmarschgebiet-nach-dem-vorbild-der-ukraine-zu-werden/",
     "Debunking": ""
   },
   {
@@ -3563,8 +3836,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211231/14415937.html",
     "Debunking": ""
   },
   {
@@ -3576,8 +3850,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2021/das-spiel-mit-dem-feuer-die-ukraine-ist-ein-grosser-nato-militaerstuetzpunkt-geworden/",
     "Debunking": ""
   },
   {
@@ -3589,8 +3864,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/01/02/pentagon-beherrscht-die-ukraine-und-bereitet-sie-auf-einen-krieg-mit-russland-vor/",
     "Debunking": ""
   },
   {
@@ -3602,8 +3878,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/128523-ukraine-als-aufmarschplatz-nato-schon-10000-soldaten-der-westlichen-allianz-land/",
     "Debunking": ""
   },
   {
@@ -3615,8 +3892,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211210/improbabile-una-guerra-russo-ucraina-anche-se-forse-qualcuno-la-vorrebbe-14134230.html",
     "Debunking": ""
   },
   {
@@ -3628,8 +3906,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2021/12/22/polnischer-experte-kiew-und-washington-haben-ein-interesse-an-der-aufrechterhaltung-des-spannungszustandes-im-donbass/",
     "Debunking": ""
   },
   {
@@ -3641,8 +3920,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2021/das-spiel-mit-dem-feuer-die-ukraine-ist-ein-grosser-nato-militaerstuetzpunkt-geworden/",
     "Debunking": ""
   },
   {
@@ -3654,8 +3934,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/das-spiel-mit-dem-feuer-die-ukraine-ist-ein-grosser-nato-militaerstuetzpunkt-geworden/",
     "Debunking": ""
   },
   {
@@ -3667,8 +3948,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2021/das-spiel-mit-dem-feuer-die-ukraine-ist-ein-grosser-nato-militaerstuetzpunkt-geworden/",
     "Debunking": ""
   },
   {
@@ -3680,8 +3962,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "01/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-nato-rueckt-in-der-ukraine-immer-naeher-an-einen-krieg-gegen-russland/",
     "Debunking": ""
   },
   {
@@ -3693,8 +3976,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/10/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/ehemaliger-cia-analyst-putin-blufft-nicht-in-sachen-ukraine/",
     "Debunking": ""
   },
   {
@@ -3706,8 +3990,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "01/08/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Come Don Chisciotte",
+    "Link": "https://comedonchisciotte.org/compra-il-mattone-gli-usa-hanno-venduto-lucraina/",
     "Debunking": ""
   },
   {
@@ -3719,8 +4004,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "01/08/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Come Don Chisciotte",
+    "Link": "https://comedonchisciotte.org/compra-il-mattone-gli-usa-hanno-venduto-lucraina/",
     "Debunking": ""
   },
   {
@@ -3732,8 +4018,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/08/2020",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Adhoc News",
+    "Link": "https://www.adhocnews.it/sanzioni-russia-a-causa-dell-ue-litalia-umiliata-perde-miliardi-di-euro/",
     "Debunking": ""
   },
   {
@@ -3745,8 +4032,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "05/02/2014",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Imola Oggi",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -3758,8 +4046,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "08/08/2015",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/26291/international/hollywood-und-us-diplomaten-lenken-ukrainische-innenpolitik/",
     "Debunking": ""
   },
   {
@@ -3771,8 +4060,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "25/02/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/65679-ex-maidan-aktivistin-biltchenko-im-rt-gespraech-maidan-war-ein-fehler/",
     "Debunking": ""
   },
   {
@@ -3784,8 +4074,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/erwarten-sie-bald-eine-eskalation-des-konflikts-im-donbass-und-in-der-ukraine-sagt-ein-auslandskorrespondent/",
     "Debunking": ""
   },
   {
@@ -3797,8 +4088,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/wie-die-usa-die-kriegsgefahr-zwischen-der-ukraine-und-russland-befeuern/",
     "Debunking": ""
   },
   {
@@ -3810,8 +4102,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2020/ukraine-selensky-will-das-verfassungsgericht-entmachten-und-der-staat-steht-vor-der-pleite/",
     "Debunking": ""
   },
   {
@@ -3823,8 +4116,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "08/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Greenpass.news",
+    "Link": "https://greenpass.news/la-lobby-bellica-statunitense-alimenta-il-conflitto-in-russia-ucraina-e-siria-ex-consigliere-del-pentagono/",
     "Debunking": ""
   },
   {
@@ -3836,8 +4130,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/ehemaliger-cia-analyst-putin-blufft-nicht-in-sachen-ukraine/",
     "Debunking": ""
   },
   {
@@ -3849,8 +4144,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/01/02/pentagon-beherrscht-die-ukraine-und-bereitet-sie-auf-einen-krieg-mit-russland-vor/",
     "Debunking": ""
   },
   {
@@ -3862,8 +4158,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/130020-usa-planen-guerilla-krieg-in-ukraine/",
     "Debunking": ""
   },
   {
@@ -3875,8 +4172,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-nato-beendet-den-krieg-in-der-ukraine-wie-ein-brandstifter-der-das-feuer-loescht/",
     "Debunking": ""
   },
   {
@@ -3888,8 +4186,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "08/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Strategic Culture",
+    "Link": "https://www.strategic-culture.org/news/2021/04/08/nato-ending-war-ukraine-like-arsonist-putting-out-fire/",
     "Debunking": ""
   },
   {
@@ -3901,8 +4200,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-us-kriegsplaene-fuer-die-ukraine/",
     "Debunking": ""
   },
   {
@@ -3914,8 +4214,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "07/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/warum-draengt-die-biden-administration-die-ukraine-russland-anzugreifen/",
     "Debunking": ""
   },
   {
@@ -3927,8 +4228,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2021/wie-die-usa-die-kriegsgefahr-zwischen-der-ukraine-und-russland-befeuern/",
     "Debunking": ""
   },
   {
@@ -3940,8 +4242,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/erwarten-sie-bald-eine-eskalation-des-konflikts-im-donbass-und-in-der-ukraine-sagt-ein-auslandskorrespondent/",
     "Debunking": ""
   },
   {
@@ -3953,8 +4256,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/la-polonia-ha-annunciato-il-piano-diabolico-di-usa-e-nato-contro-russia-e-ucraina/",
     "Debunking": ""
   },
   {
@@ -3966,8 +4270,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "08/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Alles Schall und Rauch",
+    "Link": "http://alles-schallundrauch.blogspot.com/2021/04/krieg-zwischen-ukraine-und-russland.html",
     "Debunking": ""
   },
   {
@@ -3979,8 +4284,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/04/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Come Don Chisciotte ",
+    "Link": "https://comedonchisciotte.org/la-nato-per-porre-fine-alla-guerra-in-ucraina/",
     "Debunking": ""
   },
   {
@@ -3992,8 +4298,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/04/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Mag24",
+    "Link": "https://www.mag24.es/2021/04/03/vento-di-guerra-in-ucraina-biden-provoca-putin-cosi-si-rischia-di-n-conflitto-alle-porte-delleuropa/",
     "Debunking": ""
   },
   {
@@ -4005,8 +4312,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/inland/130045-baerbock-auf-schwieriger-mission-in/",
     "Debunking": ""
   },
   {
@@ -4018,8 +4326,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/130373-usa-sollte-ukraine-verlassen-immer-mehr-top-analysten-us-fordern-umdenken/",
     "Debunking": ""
   },
   {
@@ -4031,8 +4340,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/130417-puschilin-ukraine-hat-im-donbass-120000-soldaten-zusammengezogen/",
     "Debunking": ""
   },
   {
@@ -4044,8 +4354,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/130269-baerbock-und-blinken-zuendeln-weiter/",
     "Debunking": ""
   },
   {
@@ -4057,8 +4368,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "12/09/2014",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/2353/international/nato-und-oligarchen-subventionieren-ukrainische-faschisten/",
     "Debunking": ""
   },
   {
@@ -4070,8 +4382,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-diktatur-der-zahlen-in-fortsetzung-eines-gespraechs-mit-paul-craig-roberts/",
     "Debunking": ""
   },
   {
@@ -4083,8 +4396,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "AntiSpiegel",
+    "Link": "https://www.anti-spiegel.ru/2020/welche-massnahmen-die-usa-gegen-russland-planen-teil-2-ukraine/",
     "Debunking": ""
   },
   {
@@ -4096,8 +4410,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/07/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Unzensuriert",
+    "Link": "https://www.unzensuriert.at/content/131797-donezk-regierung-die-ukraine-wird-bald-zwangslaeufig-zerfallen/",
     "Debunking": ""
   },
   {
@@ -4109,8 +4424,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/das-spiel-mit-dem-feuer-die-ukraine-ist-ein-grosser-nato-militaerstuetzpunkt-geworden/",
     "Debunking": ""
   },
   {
@@ -4122,8 +4438,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "29/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/come-loccidente-ha-steso-a-terra-lucraina-per-utilizzarla-contro-la-russia-di-putin/",
     "Debunking": ""
   },
   {
@@ -4135,8 +4452,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "29/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/come-loccidente-ha-steso-a-terra-lucraina-per-utilizzarla-contro-la-russia-di-putin/",
     "Debunking": ""
   },
   {
@@ -4148,8 +4466,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/11/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/usa-nato-preparano-la-scena-problemi-interni-in-ucraina-suggeriscono-che-lescalation-del-donbass-e-imminente/",
     "Debunking": ""
   },
   {
@@ -4161,8 +4480,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "29/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/come-loccidente-ha-steso-a-terra-lucraina-per-utilizzarla-contro-la-russia-di-putin/",
     "Debunking": ""
   },
   {
@@ -4174,8 +4494,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/01/02/pentagon-beherrscht-die-ukraine-und-bereitet-sie-auf-einen-krieg-mit-russland-vor/",
     "Debunking": ""
   },
   {
@@ -4187,8 +4508,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/04/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/69131-kiewer-gericht-fuerchtet-unbequeme-zeugen-zum-machtwechsel/",
     "Debunking": ""
   },
   {
@@ -4200,8 +4522,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2021/das-spiel-mit-dem-feuer-die-ukraine-ist-ein-grosser-nato-militaerstuetzpunkt-geworden/",
     "Debunking": ""
   },
   {
@@ -4213,8 +4536,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/erwarten-sie-bald-eine-eskalation-des-konflikts-im-donbass-und-in-der-ukraine-sagt-ein-auslandskorrespondent/",
     "Debunking": ""
   },
   {
@@ -4226,8 +4550,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "04/03/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/us-militaerlieferungen-an-die-ukraine-im-wert-von-15-mrd-dollar-hilfe-oder-verschrottung/",
     "Debunking": ""
   },
   {
@@ -4239,8 +4564,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "29/12/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Unzensuriert",
+    "Link": "https://www.unzensuriert.at/content/0028570-schikane-gegen-orf-journalist-sorgt-fuer-diplomatische-verstimmung-zwischen/",
     "Debunking": ""
   },
   {
@@ -4252,8 +4578,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "14/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/129953-cia-geschulte-ukrainische-paramilitars-konnten/",
     "Debunking": ""
   },
   {
@@ -4265,8 +4592,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "14/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/01/14/die-usa-bereiten-rebellen-vor-ein-geheimes-cia-programm-lehrte-die-ukrainer-russen-zu-toten/",
     "Debunking": ""
   },
   {
@@ -4278,8 +4606,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "12/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20220112/sicherheitsgespraeche-moskau-aufruf-usa-verzicht-auf-aggressive-rhetorik-4975299.html",
     "Debunking": ""
   },
   {
@@ -4291,8 +4620,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20220108/ueberbleibsel-krieg-botschafter-nato-4930780.html",
     "Debunking": ""
   },
   {
@@ -4304,8 +4634,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "14/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/kasachstan-die-neue-grenze-der-nato-versuchter-staatsstreich-geschichte-und-analyse-der-farbrevolutionen/",
     "Debunking": ""
   },
   {
@@ -4317,8 +4648,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220124/usa-ordinano-ufficialmente-a-famiglie-diplomatici-e-personale-non-essenziale-di-lasciare-lucraina-14734433.html",
     "Debunking": ""
   },
   {
@@ -4330,8 +4662,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "ilfattoquotidiano.it",
+    "Link": "https://www.ilfattoquotidiano.it/2022/01/24/ucraina-la-nato-invia-navi-e-aerei-in-europa-dellest-media-biden-pronto-a-mandare-truppe-nei-baltici-via-il-personale-usa-e-uk/6466192/",
     "Debunking": ""
   },
   {
@@ -4343,8 +4676,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "vietatoparlare.it",
+    "Link": "https://www.vietatoparlare.it/lannessione-dellucraina-da-parte-della-nato-e-contraria-allo-stesso-trattato-istitutivo/",
     "Debunking": ""
   },
   {
@@ -4356,8 +4690,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "04/03/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/us-militaerlieferungen-an-die-ukraine-im-wert-von-15-mrd-dollar-hilfe-oder-verschrottung/",
     "Debunking": ""
   },
   {
@@ -4369,8 +4704,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/i-veri-obiettivi-di-washington-in-ucraina/",
     "Debunking": ""
   },
   {
@@ -4382,8 +4718,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2021/wie-die-ukraine-in-kuerzester-zeit-zur-diktatur-absurdistan-geworden-ist/",
     "Debunking": ""
   },
   {
@@ -4401,9 +4738,10 @@ export const dataEdited = [
     "Disinfo_cases_de": "",
     "Disinfo_cases_it": "",
     "Disinfo_cases _uk": "16/01/2022",
-    "Disinfo_cases_ru": "Німеччина",
+    "Disinfo_cases_ru": "Germany",
     "Date": "RT.DE",
-    "Countries": ""
+    "Countries": "https://de.rt.com/international/129840-tatsachen-schaffen-ukraine-mit-kriegshilfen-nato-plus-status-verhandlungsmasse-aufblahen/",
+    "Media": ""
   },
   {
     "Narrative": "",
@@ -4414,8 +4752,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/129840-tatsachen-schaffen-ukraine-mit-kriegshilfen-nato-plus-status-verhandlungsmasse-aufblahen/",
     "Debunking": ""
   },
   {
@@ -4427,8 +4766,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/129840-tatsachen-schaffen-ukraine-mit-kriegshilfen-nato-plus-status-verhandlungsmasse-aufblahen/",
     "Debunking": ""
   },
   {
@@ -4443,9 +4783,10 @@ export const dataEdited = [
     "Disinfo_cases_de": "",
     "Disinfo_cases_it": "",
     "Disinfo_cases _uk": "09/09/2019",
-    "Disinfo_cases_ru": "Італія",
+    "Disinfo_cases_ru": "Italy",
     "Date": "SNA.IT",
-    "Countries": ""
+    "Countries": "https://it.sputniknews.com/20190909/ucraina-le-illusioni-perdute-8071306.html",
+    "Media": ""
   },
   {
     "Narrative": "",
@@ -4459,9 +4800,10 @@ export const dataEdited = [
     "Disinfo_cases_de": "",
     "Disinfo_cases_it": "",
     "Disinfo_cases _uk": "26/04/2020",
-    "Disinfo_cases_ru": "Італія",
+    "Disinfo_cases_ru": "Italy",
     "Date": "Come Don Chisciotte",
-    "Countries": ""
+    "Countries": "https://comedonchisciotte.org/che-cosa-ci-fanno-in-ucraina-i-bio-laboratori-segreti-degli-stati-uniti/",
+    "Media": ""
   },
   {
     "Narrative": "",
@@ -4472,8 +4814,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "08/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2021/woran-forschen-us-biolabore-in-der-ukraine/",
     "Debunking": ""
   },
   {
@@ -4485,8 +4828,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "14/05/2020",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Come Don Chisciotte",
+    "Link": "https://comedonchisciotte.org/sulla-vicenda-di-strane-epidemie-in-ucraina/",
     "Debunking": ""
   },
   {
@@ -4498,8 +4842,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/nato-land-tuerkei-rekrutiert-dschihadisten-um-sie-dann-in-die-ukraine-zu-schicken/",
     "Debunking": ""
   },
   {
@@ -4511,8 +4856,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2021/wie-die-ukraine-in-kuerzester-zeit-zur-diktatur-absurdistan-geworden-ist/",
     "Debunking": ""
   },
   {
@@ -4524,8 +4870,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "http://rt.de/",
     "Debunking": ""
   },
   {
@@ -4537,8 +4884,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "30/11/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/109562-ehrliche-analyse-oder-maidan-apologetik/",
     "Debunking": ""
   },
   {
@@ -4552,6 +4900,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -4563,8 +4912,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "08/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/putin-an-biden-finnlandisieren-sie-die-ukraine-oder-wir-werden-es-tun/",
     "Debunking": ""
   },
   {
@@ -4576,8 +4926,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/8/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/polen-und-die-ukraine-nicht-afghanistan-waren-die-ersten-us-verbuendeten-die-von-biden-im-stich-gelassen-wurden/",
     "Debunking": ""
   },
   {
@@ -4589,8 +4940,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "30/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/aktuelles-von-der-ukrainischen-front-es-ist-vorbei-putin-hat-gewonnen/",
     "Debunking": ""
   },
   {
@@ -4602,8 +4954,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/08/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Philosophia Perennis",
+    "Link": "https://philosophia-perennis.com/2018/08/15/russland-deutschlands-natuerlicher-verbuendeter/",
     "Debunking": ""
   },
   {
@@ -4615,8 +4968,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20220116/cdu-chef-merz-swift-ausschluss-russlands-5027286.html",
     "Debunking": ""
   },
   {
@@ -4628,8 +4982,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/130031-todlich-fur-internationalen-zahlungsverkehr-merz/",
     "Debunking": ""
   },
   {
@@ -4641,8 +4996,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/warum-ist-die-ukraine-in-der-nato-nicht-willkommen/",
     "Debunking": ""
   },
   {
@@ -4654,8 +5010,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/warum-ist-die-ukraine-in-der-nato-nicht-willkommen/",
     "Debunking": ""
   },
   {
@@ -4667,8 +5024,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "29/09/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-usa-sind-der-ukraine-ueberdruessig-und-werden-in-den-gespraechen-mit-russland-nicht-die-interessen-kiews-vertreten/",
     "Debunking": ""
   },
   {
@@ -4680,8 +5038,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/02/2016",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Ilfoglio",
+    "Link": "https://www.ilfoglio.it/esteri/2016/02/17/news/ucraina-un-altro-stato-in-default-politico-ed-economico-nel-giardino-dell-europa-92826/",
     "Debunking": ""
   },
   {
@@ -4693,8 +5052,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "29/09/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-usa-sind-der-ukraine-ueberdruessig-und-werden-in-den-gespraechen-mit-russland-nicht-die-interessen-kiews-vertreten/",
     "Debunking": ""
   },
   {
@@ -4706,8 +5066,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/11/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Come Don Chisciotte",
+    "Link": "https://comedonchisciotte.org/chi-vuole-un-po-di-ucraina/",
     "Debunking": ""
   },
   {
@@ -4719,8 +5080,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/10/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/the-american-conservative-kiev-non-ricevera-il-sostegno-occidentale-se-lancera-unoffensiva-militare-nel-donbass/",
     "Debunking": ""
   },
   {
@@ -4732,8 +5094,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/10/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/the-american-conservative-kiev-non-ricevera-il-sostegno-occidentale-se-lancera-unoffensiva-militare-nel-donbass/",
     "Debunking": ""
   },
   {
@@ -4745,8 +5108,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/11/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -4758,8 +5122,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/02/2016",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "ilfoglio.it",
+    "Link": "https://www.ilfoglio.it/esteri/2016/02/17/news/ucraina-un-altro-stato-in-default-politico-ed-economico-nel-giardino-dell-europa-92826/",
     "Debunking": ""
   },
   {
@@ -4771,8 +5136,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "04/03/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/us-militaerlieferungen-an-die-ukraine-im-wert-von-15-mrd-dollar-hilfe-oder-verschrottung/",
     "Debunking": ""
   },
   {
@@ -4786,6 +5152,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -4797,8 +5164,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/01/17/ukraine-wird-die-russischsprachige-bevolkerung-unterdruckt-opposition-des-landes/",
     "Debunking": ""
   },
   {
@@ -4810,8 +5178,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "06/03/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/113926-ukraine-zensur-willkur-und-schweigen/",
     "Debunking": ""
   },
   {
@@ -4823,8 +5192,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "06/03/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/113926-ukraine-zensur-willkur-und-schweigen/",
     "Debunking": ""
   },
   {
@@ -4836,8 +5206,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "25/04/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/87515-ukrainisch-nach-gesetzesverabschiedung-rada-ausschliessliche-amtssprache/",
     "Debunking": ""
   },
   {
@@ -4849,8 +5220,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DEE",
+    "Link": "http://rt.de/",
     "Debunking": ""
   },
   {
@@ -4862,8 +5234,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/118309-voelkisches-gesetz-in-der-ukraine-selenskij-will-sonderrechte-fuer-einheimische-voelker/",
     "Debunking": ""
   },
   {
@@ -4875,8 +5248,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "07/04/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/86860-rote-karte-fuer-krieg-und-nationalismus-warum-die-ukraine-poroschenko-abwaehlt/",
     "Debunking": ""
   },
   {
@@ -4888,8 +5262,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20210428/lawrow-interview-ria-politik-1893818.html",
     "Debunking": ""
   },
   {
@@ -4901,8 +5276,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "04/02/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Heise",
+    "Link": "https://www.heise.de/tp/features/Warum-Russland-die-Ukraine-verklagt-6146358.html",
     "Debunking": ""
   },
   {
@@ -4914,8 +5290,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "14/06/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/103427-russisch-als-sprache-der-herrscher-der-mdr-im-faktencheck/",
     "Debunking": ""
   },
   {
@@ -4927,8 +5304,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/130745-sicherheitsgarantien-fur-russland-sind-sicherheitsgarantien-fur-europa/",
     "Debunking": ""
   },
   {
@@ -4940,8 +5318,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/10/2018",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20181022/multe-chi-parla-russo-Ucraina-6661417.html",
     "Debunking": ""
   },
   {
@@ -4953,8 +5332,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/08/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-ukraine-stirbt-einen-tod-der-deindustrialisierung/",
     "Debunking": ""
   },
   {
@@ -4966,8 +5346,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/03/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/biden-verabreicht-der-nato-eine-impfstoffspritze/",
     "Debunking": ""
   },
   {
@@ -4979,8 +5360,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Gaming Deputy",
+    "Link": "https://www.gamingdeputy.com/gr/die-werchowna-rada-kuendigte-eine-diskriminierung-der-russischsprachigen-bevoelkerung-an/",
     "Debunking": ""
   },
   {
@@ -4992,8 +5374,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "08/07/2017",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20170708/Ucraina-Russia-russofobia-Occidente-G20-Amburgo-4736635.html",
     "Debunking": ""
   },
   {
@@ -5005,8 +5388,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/02/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/il-modo-in-cui-la-liberta-di-parola-viene-distrutta-in-ucraina-ue-e-stati-uniti/",
     "Debunking": ""
   },
   {
@@ -5018,8 +5402,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/09/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/la-politica-di-kiev-della-russofobia-e-della-discriminazione-della-lingua-russa-riguarda-il-rifiuto-del-donbass/",
     "Debunking": ""
   },
   {
@@ -5031,8 +5416,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/02/2018",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Glindifferenti",
+    "Link": "https://glindifferenti.it/la-crisi-ucraina-storia-un-fratricidio-seconda-parte/383/",
     "Debunking": ""
   },
   {
@@ -5044,8 +5430,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Come Don Chisciotte",
+    "Link": "https://comedonchisciotte.org/e-previsto-il-completo-divieto-in-ucraina-allistruzione-in-lingua-russa/",
     "Debunking": ""
   },
   {
@@ -5057,8 +5444,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/06/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20210610/putin-ukrainisches-gesetz-indigene-voelker-nazi-ideen-2462865.html",
     "Debunking": ""
   },
   {
@@ -5070,8 +5458,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/07/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/74659-russenpeitsche-byzantinische-finsternis-russische-seele-teil-1/",
     "Debunking": ""
   },
   {
@@ -5083,8 +5472,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "27/10/2014",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/4959/international/wahl-in-der-ukraine-proeuropaisch-kriegslusternd/",
     "Debunking": ""
   },
   {
@@ -5096,8 +5486,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/08/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-geostrategische-und-informationskriegerische-dynamik-der-ukrainischen-provokation-der-krim-plattform/",
     "Debunking": ""
   },
   {
@@ -5109,8 +5500,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "29/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/129125-asiatische-moskwiny-ukrainisches-gebietsrat-will-russen-mit-rassistischer-begruendung-umbenennen/",
     "Debunking": ""
   },
   {
@@ -5122,8 +5514,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/06/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE ",
+    "Link": "https://snanews.de/20210611/nato-gipfel-2021-ukraine-mitgliedschaft-2471402.html",
     "Debunking": ""
   },
   {
@@ -5135,8 +5528,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "09/05/2020",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20200509/giorno-della-vittoria-in-memoria-della-grande-guerra-patriottica-9062972.html",
     "Debunking": ""
   },
   {
@@ -5150,6 +5544,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -5161,8 +5556,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/128523-ukraine-als-aufmarschplatz-nato-schon-10000-soldaten-der-westlichen-allianz-land/",
     "Debunking": ""
   },
   {
@@ -5174,8 +5570,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/128829-trotz-kriegsrhetorik-selenskijs-fernsehserie-startet/",
     "Debunking": ""
   },
   {
@@ -5187,8 +5584,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "12/09/2014",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/2353/international/nato-und-oligarchen-subventionieren-ukrainische-faschisten/",
     "Debunking": ""
   },
   {
@@ -5200,8 +5598,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/09/2014",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/2353/international/nato-und-oligarchen-subventionieren-ukrainische-faschisten/",
     "Debunking": ""
   },
   {
@@ -5213,8 +5612,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "12/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211212/il-g7-condanna-la-pressione-militare-russa-in-ucraina-usa-e-italia-sostengono-sovranita-kiev-14163529.html",
     "Debunking": ""
   },
   {
@@ -5226,8 +5626,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/06/2015",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20150625/630138.html",
     "Debunking": ""
   },
   {
@@ -5239,8 +5640,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "04/01/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/111211-deutschland-weit-nach-rechts-gerutscht/",
     "Debunking": ""
   },
   {
@@ -5252,8 +5654,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "01/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-nato-rueckt-in-der-ukraine-immer-naeher-an-einen-krieg-gegen-russland/",
     "Debunking": ""
   },
   {
@@ -5265,8 +5668,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/03/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/2353/international/nato-und-oligarchen-subventionieren-ukrainische-faschisten/",
     "Debunking": ""
   },
   {
@@ -5278,8 +5682,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/10/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/2353/international/nato-und-oligarchen-subventionieren-ukrainische-faschisten/",
     "Debunking": ""
   },
   {
@@ -5291,8 +5696,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/ryabkov-ha-annunciato-possibili-provocazioni-da-parte-dellucraina/",
     "Debunking": ""
   },
   {
@@ -5304,8 +5710,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/12/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/inland/110477-bundesregierung-widerspricht-institut-auswirkungen-von/",
     "Debunking": ""
   },
   {
@@ -5317,8 +5724,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "27/06/2017",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211217/i-leader-dei-paesi-dellue-votano-allunanimita-per-il-prolungamento-delle-sanzioni-alla-russia-14222990.html",
     "Debunking": ""
   },
   {
@@ -5330,8 +5738,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "wsws.org",
+    "Link": "https://www.wsws.org/de/articles/2021/04/23/ukra-a23.html",
     "Debunking": ""
   },
   {
@@ -5343,8 +5752,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/03/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20190318/crimea-5-anniversario-russia-7431512.html",
     "Debunking": ""
   },
   {
@@ -5356,8 +5766,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/08/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-geostrategische-und-informationskriegerische-dynamik-der-ukrainischen-provokation-der-krim-plattform/",
     "Debunking": ""
   },
   {
@@ -5369,8 +5780,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/08/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "DE.RT",
+    "Link": "https://de.rt.com/asien/123134-krim-plattform-russland-halt-position/",
     "Debunking": ""
   },
   {
@@ -5382,8 +5794,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Report24",
+    "Link": "https://report24.news/geheimes-trainingsprogramm-bildet-die-cia-ukrainer-aus-um-russen-zu-toeten/",
     "Debunking": ""
   },
   {
@@ -5395,8 +5808,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "04/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2022/saebelrasseln-und-verhandlungen-russland-und-die-usa-ringen-um-sicherheitsgarantien/",
     "Debunking": ""
   },
   {
@@ -5408,8 +5822,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "04/08/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/il-leader-di-donetsk-esclude-che-donbass-e-crimea-tornino-a-far-parte-dellucraina/",
     "Debunking": ""
   },
   {
@@ -5421,8 +5836,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/08/2015",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/japan-times-la-crimea-era-e-resta-russa/",
     "Debunking": ""
   },
   {
@@ -5434,8 +5850,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "09/07/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/lesperto-tedesco-patrick-poppel-la-crimea-e-un-pericoloso-gioco-della-nato/",
     "Debunking": ""
   },
   {
@@ -5447,8 +5864,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/08/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/lucraina-sviluppera-una-serie-di-provocazioni-anti-russe-e-anti-crimea/",
     "Debunking": ""
   },
   {
@@ -5460,8 +5878,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211217/i-leader-dei-paesi-dellue-votano-allunanimita-per-il-prolungamento-delle-sanzioni-alla-russia-14222990.html",
     "Debunking": ""
   },
   {
@@ -5473,8 +5892,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/02/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220117/stoltenberg-rivela-il-motivo-dellespansione-della-nato-ad-est-14654499.html",
     "Debunking": ""
   },
   {
@@ -5486,8 +5906,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/128816-russlands-aussenminister-im-rt-interview-zu-oft-betrogen-worden-wollen-darum-verbindliche-garantien/",
     "Debunking": ""
   },
   {
@@ -5499,8 +5920,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/128621-eu-verlangert-wirtschaftssanktionen-gegen-russland/",
     "Debunking": ""
   },
   {
@@ -5512,8 +5934,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/la-crimea-e-calma-il-che-sconvolge-la-nato-perche-preferisce-il-confronto/",
     "Debunking": ""
   },
   {
@@ -5525,8 +5948,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/09/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Sicurezza Internazionale",
+    "Link": "https://sicurezzainternazionale.luiss.it/2021/09/03/russia-ucraina-kiev-si-svincola-dagli-accordi-minsk-sul-donbass/",
     "Debunking": ""
   },
   {
@@ -5538,8 +5962,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/08/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-ukraine-stirbt-einen-tod-der-deindustrialisierung/",
     "Debunking": ""
   },
   {
@@ -5551,8 +5976,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/03/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20190318/crimea-5-anniversario-russia-7431512.html",
     "Debunking": ""
   },
   {
@@ -5564,8 +5990,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "25/05/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "http://rt.de/",
     "Debunking": ""
   },
   {
@@ -5577,8 +6004,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/08/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "http://rt.de/",
     "Debunking": ""
   },
   {
@@ -5590,8 +6018,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "06/12/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "http://rt.de/",
     "Debunking": ""
   },
   {
@@ -5603,8 +6032,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "01/06/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "http://rt.de/",
     "Debunking": ""
   },
   {
@@ -5616,8 +6046,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/03/2014",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "deutchlandfunk.de",
+    "Link": "http://deutchlandfunk.de/",
     "Debunking": ""
   },
   {
@@ -5629,8 +6060,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "http://sna.de/",
     "Debunking": ""
   },
   {
@@ -5642,8 +6074,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "08/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "http://sna.de/",
     "Debunking": ""
   },
   {
@@ -5655,8 +6088,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "http://sna.de/",
     "Debunking": ""
   },
   {
@@ -5668,8 +6102,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "http://sna.de/",
     "Debunking": ""
   },
   {
@@ -5681,8 +6116,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "27/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "http://sna.de/",
     "Debunking": ""
   },
   {
@@ -5694,8 +6130,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "http://sna.de/",
     "Debunking": ""
   },
   {
@@ -5707,8 +6144,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/3/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "farodiroma.it",
+    "Link": "http://farodiroma.it/",
     "Debunking": ""
   },
   {
@@ -5720,8 +6158,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/3/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Il Primato Nazionale",
+    "Link": "https://www.ilprimatonazionale.it/esteri/mosca-80mila-persone-stadio-putin-video-186258",
     "Debunking": ""
   },
   {
@@ -5733,8 +6172,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/3/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "vietatoparlare.it",
+    "Link": "http://vietatoparlare.it/",
     "Debunking": ""
   },
   {
@@ -5746,8 +6186,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/3/2014",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "avvenire.it",
+    "Link": "http://avvenire.it/",
     "Debunking": ""
   },
   {
@@ -5762,9 +6203,10 @@ export const dataEdited = [
     "Disinfo_cases_de": "",
     "Disinfo_cases_it": "",
     "Disinfo_cases _uk": "11/10/2021",
-    "Disinfo_cases_ru": "Італія",
+    "Disinfo_cases_ru": "Italy",
     "Date": "agenparl.eu",
-    "Countries": ""
+    "Countries": "https://agenparl.eu/lunione-europea-ha-ampliato-la-lista-nera-sulla-riunificazione-della-crimea-con-la-russia/",
+    "Media": ""
   },
   {
     "Narrative": "",
@@ -5775,8 +6217,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "25/9/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20190318/crimea-5-anniversario-russia-7431512.html",
     "Debunking": "різні дати а скрізь один лінк"
   },
   {
@@ -5788,8 +6231,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/3/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20190318/crimea-5-anniversario-russia-7431512.html",
     "Debunking": "різні дати а скрізь один лінк"
   },
   {
@@ -5801,8 +6245,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/2/2018",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20190318/crimea-5-anniversario-russia-7431512.html",
     "Debunking": "різні дати а скрізь один лінк"
   },
   {
@@ -5814,8 +6259,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/12/2017",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20190318/crimea-5-anniversario-russia-7431512.html",
     "Debunking": "різні дати а скрізь один лінк"
   },
   {
@@ -5827,8 +6273,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "12/9/2017",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20190318/crimea-5-anniversario-russia-7431512.html",
     "Debunking": "різні дати а скрізь один лінк"
   },
   {
@@ -5840,8 +6287,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "27/8/2017",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20190318/crimea-5-anniversario-russia-7431512.html",
     "Debunking": "різні дати а скрізь один лінк"
   },
   {
@@ -5853,8 +6301,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "3/9/2016",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20190318/crimea-5-anniversario-russia-7431512.html",
     "Debunking": "різні дати а скрізь один лінк"
   },
   {
@@ -5866,8 +6315,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "4/6/2016",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20190318/crimea-5-anniversario-russia-7431512.html",
     "Debunking": "різні дати а скрізь один лінк"
   },
   {
@@ -5879,8 +6329,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "4/6/2016",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20190318/crimea-5-anniversario-russia-7431512.html",
     "Debunking": "різні дати а скрізь один лінк"
   },
   {
@@ -5892,8 +6343,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "4/6/2016",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20190318/crimea-5-anniversario-russia-7431512.html",
     "Debunking": "різні дати а скрізь один лінк"
   },
   {
@@ -5905,8 +6357,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "07/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/warum-draengt-die-biden-administration-die-ukraine-russland-anzugreifen/",
     "Debunking": ""
   },
   {
@@ -5918,8 +6371,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/03/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/2353/international/nato-und-oligarchen-subventionieren-ukrainische-faschisten/",
     "Debunking": ""
   },
   {
@@ -5931,8 +6385,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/03/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/2353/international/nato-und-oligarchen-subventionieren-ukrainische-faschisten/",
     "Debunking": "різні дати а один лінк"
   },
   {
@@ -5944,8 +6399,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "09/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211209/putin-quello-che-accade-nel-donbass-assomiglia-a-un-genocidio-14125613.html",
     "Debunking": ""
   },
   {
@@ -5957,8 +6413,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/08/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/die-ukraine-stirbt-einen-tod-der-deindustrialisierung/",
     "Debunking": ""
   },
   {
@@ -5970,8 +6427,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211203/colloquio-telefonico-putin-erdogan-discusse-elezioni-in-libia-e-situazione-in-ucraina-14036872.html",
     "Debunking": ""
   },
   {
@@ -5983,8 +6441,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/128478-russland-und-china-versus-usa/",
     "Debunking": ""
   },
   {
@@ -5996,8 +6455,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/11/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Piccole Note",
+    "Link": "https://piccolenote.ilgiornale.it/53725/nuova-crisi-in-ucraina-il-summit-biden-putin-a-rischio",
     "Debunking": ""
   },
   {
@@ -6009,8 +6469,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "12/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211212/il-g7-condanna-la-pressione-militare-russa-in-ucraina-usa-e-italia-sostengono-sovranita-kiev-14163529.html",
     "Debunking": ""
   },
   {
@@ -6022,8 +6483,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/11/2016",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/kurzclips/video/43437-3-jahrestag-maidan-proteste-schulden/",
     "Debunking": ""
   },
   {
@@ -6035,8 +6497,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "01/02/2017",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/kurzclips/video/45995-dutzende-tote-ost-ukraine-buergerkrieg/",
     "Debunking": ""
   },
   {
@@ -6048,8 +6511,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211217/i-leader-dei-paesi-dellue-votano-allunanimita-per-il-prolungamento-delle-sanzioni-alla-russia-14222990.html",
     "Debunking": ""
   },
   {
@@ -6061,8 +6525,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "12/09/2014",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/2353/international/nato-und-oligarchen-subventionieren-ukrainische-faschisten/",
     "Debunking": ""
   },
   {
@@ -6074,8 +6539,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "25/06/2015",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20150625/630138.html",
     "Debunking": ""
   },
   {
@@ -6087,8 +6553,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20211222/nato-russland-wiener-geopolitiker-4773615.html",
     "Debunking": ""
   },
   {
@@ -6100,8 +6567,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20211222/geplante-provokation-im-donbass--usa-reagieren-auf-lagebericht-von-shoigu-4769771.html",
     "Debunking": ""
   },
   {
@@ -6113,8 +6581,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "25/06/2015",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20150625/630138.html",
     "Debunking": ""
   },
   {
@@ -6126,8 +6595,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "09/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211209/putin-quello-che-accade-nel-donbass-assomiglia-a-un-genocidio-14125613.html",
     "Debunking": ""
   },
   {
@@ -6139,8 +6609,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/07/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/donetsk-lesercito-ucraino-ha-violato-sei-volte-nelle-ultime-24-ore-il-cessate-il-fuoco-instaurato-nel-donbass-sabato/",
     "Debunking": ""
   },
   {
@@ -6152,8 +6623,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Byoblu",
+    "Link": "https://www.byoblu.com/2021/12/10/putin-il-conflitto-nel-donbass-somiglia-a-un-genocidio/",
     "Debunking": ""
   },
   {
@@ -6165,8 +6637,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/09/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20210926/cremlino-auspica-nella-fedelta-della-germania-del-dopo-merkel-agli-accordi-di-minsk-13058594.html",
     "Debunking": ""
   },
   {
@@ -6178,8 +6651,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/02/2014",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Secolo d'Italia",
+    "Link": "https://www.secoloditalia.it/2014/02/ricordi-da-unaltra-kiev-mentre-oggi-la-capitale-ucraina-muore-e-leuropa-tarda-a-svegliarsi/",
     "Debunking": ""
   },
   {
@@ -6191,8 +6665,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "27/05/2015",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Secolo d'Italia",
+    "Link": "https://www.secoloditalia.it/2014/05/ucraina-affondo-dei-militari-di-kiev-contro-i-separatisti-molti-i-morti-mosca-fermate-il-massacro/",
     "Debunking": ""
   },
   {
@@ -6204,8 +6679,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "27/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20211226/buergerkriegserweiterung-im-donbass-voellig-unzulaessig--kreml-4818628.html",
     "Debunking": ""
   },
   {
@@ -6217,8 +6693,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20211231/lawrow-kritisiert-militaristische-bestrebungen-der-ukraine-4860827.html",
     "Debunking": ""
   },
   {
@@ -6230,8 +6707,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/129862-lebkuchenhexe-im-weissen-haus/",
     "Debunking": ""
   },
   {
@@ -6243,8 +6721,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/126579-bekannter-neonazi-zum-berater-befehlshabers-ukraine/",
     "Debunking": ""
   },
   {
@@ -6256,8 +6735,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "wsws.org",
+    "Link": "https://www.wsws.org/de/articles/2021/04/23/ukra-a23.html",
     "Debunking": ""
   },
   {
@@ -6269,8 +6749,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/117718-ukraine-wie-durch-us-einfluss-aus-maidan-traum-albtraum-wurde/",
     "Debunking": ""
   },
   {
@@ -6282,8 +6763,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/03/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2021/krieg-im-donbass-ukraine-verkuendet-das-ende-des-abkommens-von-minsk/",
     "Debunking": ""
   },
   {
@@ -6295,8 +6777,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/warum-ist-die-ukraine-in-der-nato-nicht-willkommen/",
     "Debunking": ""
   },
   {
@@ -6308,8 +6791,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "04/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/warum-ist-die-ukraine-in-der-nato-nicht-willkommen/",
     "Debunking": ""
   },
   {
@@ -6321,8 +6805,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/03/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Unzensuriert",
+    "Link": "https://www.unzensuriert.at/content/95396-gesundheitsminister-der-ukraine-will-aeltere-menschen-bei-corona-im-stich-lassen/",
     "Debunking": ""
   },
   {
@@ -6334,8 +6819,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/04/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Unzensuriert",
+    "Link": "https://www.unzensuriert.at/content/0029563-ukraine-russischer-staatspraesident-putin-bietet-ukrainern-reisepaesse/",
     "Debunking": ""
   },
   {
@@ -6347,8 +6833,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/09/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20210926/cremlino-auspica-nella-fedelta-della-germania-del-dopo-merkel-agli-accordi-di-minsk-13058594.html",
     "Debunking": ""
   },
   {
@@ -6360,8 +6847,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20211217/eu-verlaengert-sanktionen-gegen-russland-4717699.html",
     "Debunking": ""
   },
   {
@@ -6373,8 +6861,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/07/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/donetsk-lesercito-ucraino-ha-violato-sei-volte-nelle-ultime-24-ore-il-cessate-il-fuoco-instaurato-nel-donbass-sabato/",
     "Debunking": ""
   },
   {
@@ -6386,8 +6875,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211231/14415937.html",
     "Debunking": ""
   },
   {
@@ -6399,8 +6889,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/10/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Info Sperber",
+    "Link": "https://www.infosperber.ch/politik/schweiz/so-will-br-ignazio-cassis-die-ukraine-in-lugano-aufleben-lassen/",
     "Debunking": ""
   },
   {
@@ -6412,8 +6903,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/02/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2021/02/19/un-aktualisierte-daten-zu-opfern-der-ukrainischen-aggression-im-donbass/",
     "Debunking": ""
   },
   {
@@ -6425,8 +6917,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/ryabkov-ha-annunciato-possibili-provocazioni-da-parte-dellucraina/",
     "Debunking": ""
   },
   {
@@ -6438,8 +6931,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/129217-krieg-im-donbass-donezker-und-lugansker-volksrepubliken-melden-fast-hundert-tote-jahr-2021/",
     "Debunking": ""
   },
   {
@@ -6451,8 +6945,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20211217/eu-verlaengert-sanktionen-gegen-russland-4717699.html",
     "Debunking": ""
   },
   {
@@ -6464,8 +6959,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211215/boris-johnson-promette-piu-forze-nato-se-la-russia-invade-lucraina-14198271.html",
     "Debunking": ""
   },
   {
@@ -6477,8 +6973,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/11/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Come Don Chisciotte",
+    "Link": "https://comedonchisciotte.org/chi-vuole-un-po-di-ucraina/",
     "Debunking": ""
   },
   {
@@ -6490,8 +6987,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/04/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "TGCOM 24",
+    "Link": "https://www.tgcom24.mediaset.it/mondo/presidenziali-in-ucraina-la-sfida-tra-poroshenko-e-il-comico-favorito-la-provocazione-di-zelensky-multato_3204285-201902a.shtml",
     "Debunking": ""
   },
   {
@@ -6503,8 +7001,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/03/2015",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "ilgiornale.it",
+    "Link": "https://www.ilgiornale.it/news/politica/ucraina-golpe-targato-obama-1108688.html",
     "Debunking": ""
   },
   {
@@ -6516,8 +7015,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "25/09/2016",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "ilsussidiario.net",
+    "Link": "https://www.ilsussidiario.net/news/esteri/2016/9/25/scenari-ucraina-dietro-l-europa-le-promesse-tradite-degli-usa/725050/",
     "Debunking": ""
   },
   {
@@ -6529,8 +7029,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/08/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/105809-reformpapier-der-weissrussischen-opposition-veroeffentlicht/",
     "Debunking": ""
   },
   {
@@ -6542,8 +7043,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/06/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/103571-nato-sucht-feind-transatlanische-militarbuendnis/",
     "Debunking": ""
   },
   {
@@ -6555,8 +7057,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/03/2015",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/14928/wirtschaft/ukraine-vor-dem-staatsbankrott-allein-im-maerz-schliessen-6-banken-wegen-zahlungsunfaehigkeit/",
     "Debunking": ""
   },
   {
@@ -6568,8 +7071,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/03/2015",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/14928/wirtschaft/ukraine-vor-dem-staatsbankrott-allein-im-maerz-schliessen-6-banken-wegen-zahlungsunfaehigkeit/",
     "Debunking": ""
   },
   {
@@ -6581,8 +7085,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/03/2015",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/14728/wirtschaft/ganze-industriezweige-in-truemmern-ostukraine-beginnt-muehsamen-wiederaufbau/",
     "Debunking": ""
   },
   {
@@ -6594,8 +7099,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/01/2015",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/10035/international/kiew-die-hoffnung-ist-gestorben/",
     "Debunking": ""
   },
   {
@@ -6607,8 +7113,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "12/12/2014",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/8062/international/fuer-den-ukrainischen-praesidenten-zaehlen-tote-zivilisten-nicht/",
     "Debunking": ""
   },
   {
@@ -6620,8 +7127,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/04/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/69131-kiewer-gericht-fuerchtet-unbequeme-zeugen-zum-machtwechsel/",
     "Debunking": ""
   },
   {
@@ -6633,8 +7141,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "12/09/2014",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/2353/international/nato-und-oligarchen-subventionieren-ukrainische-faschisten/",
     "Debunking": ""
   },
   {
@@ -6646,8 +7155,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "01/02/2017",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/kurzclips/video/45995-dutzende-tote-ost-ukraine-buergerkrieg/",
     "Debunking": ""
   },
   {
@@ -6659,8 +7169,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/11/2016",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/kurzclips/video/43437-3-jahrestag-maidan-proteste-schulden/",
     "Debunking": ""
   },
   {
@@ -6672,8 +7183,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/09/2015",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/32437/meinung/die-krim-ein-reisebericht/",
     "Debunking": ""
   },
   {
@@ -6685,8 +7197,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "01/09/2015",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/30475/international/bildungsexodus-in-der-ukraine-zehntausende-studenten-verlassen-ukraine-aus-angst-vor-wehrdienst-und-wirtschaftschaos/",
     "Debunking": ""
   },
   {
@@ -6698,8 +7211,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/08/2015",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/28540/wirtschaft/iwf-lobt-enorme-reformfortschritte-kiews-doch-ukraine-steht-erneut-vor-zahlungungsfaehigkeit-und-fordert-schuldenschnitt-von-40-prozent/",
     "Debunking": ""
   },
   {
@@ -6711,8 +7225,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/07/2015",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/26859/inland/deutschland-will-angola-zum-grossabnehmer-von-ruestungsguetern-aufbauen/",
     "Debunking": ""
   },
   {
@@ -6724,8 +7239,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/01/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20210113/nuland-nominierung-501679.html",
     "Debunking": ""
   },
   {
@@ -6737,8 +7253,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220113/posizioni-russia-e-nato-inconciliabili-ma-dialogo-ripartito-14596029.html",
     "Debunking": ""
   },
   {
@@ -6750,8 +7267,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "05/08/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/neudeutsche-raubzuege-in-der-ukraine/",
     "Debunking": ""
   },
   {
@@ -6763,8 +7281,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/08/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/buergerkrieg-in-der-ukraine-deutschland-scheint-die-geduld-mit-kiew-zu-verlieren/",
     "Debunking": ""
   },
   {
@@ -6776,8 +7295,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Report24",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -6789,8 +7309,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/10/2018",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Vita",
+    "Link": "http://www.vita.it/it/article/2018/10/15/quella-guerra-di-religione-che-si-profila-in-ucraina/149388/",
     "Debunking": ""
   },
   {
@@ -6802,8 +7323,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "09/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Farodiroma",
+    "Link": "https://www.farodiroma.it/putin-la-russofobia-spinge-al-genocidio-il-capo-del-cremlino-dice-la-sua-sulla-crisi-con-lucraina/",
     "Debunking": ""
   },
   {
@@ -6815,8 +7337,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/11/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2018/nord-stream-2-usa-drohen-europa-mit-sanktionen-wer-solche-freunde-hat-braucht-keine-feinde-mehr/",
     "Debunking": ""
   },
   {
@@ -6828,8 +7351,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/11/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/ukraine-selensky-will-das-verfassungsgericht-entmachten-und-der-staat-steht-vor-der-pleite/",
     "Debunking": ""
   },
   {
@@ -6841,8 +7365,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/04/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Come Don Chisciotte",
+    "Link": "https://comedonchisciotte.org/flashpoint-ucraina-non-provocate-lorso/",
     "Debunking": ""
   },
   {
@@ -6854,8 +7379,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "29/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/kurzclips/video/129115-putin-nato-zieht-sich-militarisch/",
     "Debunking": ""
   },
   {
@@ -6867,8 +7393,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/2/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/kurzclips/video/129115-putin-nato-zieht-sich-militarisch/",
     "Debunking": ""
   },
   {
@@ -6880,8 +7407,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "29/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220129/ucraina-si-muovono-francia-e-germania-il-7-8-febbraio-visita-congiunta-dei-ministri-degli-esteri-14827143.html",
     "Debunking": ""
   },
   {
@@ -6893,8 +7421,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20220128/baerbock-nato-beitritt-ukraine-tagesordnung-5160708.html",
     "Debunking": ""
   },
   {
@@ -6906,8 +7435,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "06/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/128075-russlands-plan-zur-invasion-ukraine/",
     "Debunking": ""
   },
   {
@@ -6922,9 +7452,10 @@ export const dataEdited = [
     "Disinfo_cases_de": "",
     "Disinfo_cases_it": "",
     "Disinfo_cases _uk": "13/02/2022",
-    "Disinfo_cases_ru": "Італія",
+    "Disinfo_cases_ru": "Italy",
     "Date": "SNA.IT",
-    "Countries": ""
+    "Countries": "https://it.sputniknews.com/20220213/nato-vicina-al-dispiegamento-di-ununita-da-combattimento-permanente-in-romania-15092381.html",
+    "Media": ""
   },
   {
     "Narrative": "",
@@ -6935,8 +7466,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/1/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/il-personale-statunitense-lascia-lucraina-prima-della-prevista-guerra-del-regime-di-biden/",
     "Debunking": ""
   },
   {
@@ -6948,8 +7480,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/2/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220210/usa-e-gb-evacuano-personale-dalle-ambasciate-in-ucraina-lavrov-forse-hanno-in-mente-qualcosa-15031877.html",
     "Debunking": ""
   },
   {
@@ -6961,8 +7494,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/1/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Come Don Chisciotte",
+    "Link": "https://comedonchisciotte.org/se-blinken-non-vuole-uninvasione-russa-dellucraina-perche-ne-sta-provocando-una/",
     "Debunking": ""
   },
   {
@@ -6976,6 +7510,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -6987,8 +7522,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/01/13/es-wurde-bekannt-dass-ukrainische-spezialdienste-die-aktionen-der-pogromisten-in-kasachstan-koordinierten/",
     "Debunking": ""
   },
   {
@@ -7000,8 +7536,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/01/13/ukrainische-spur-bei-den-protesten-in-kasachstan/",
     "Debunking": ""
   },
   {
@@ -7013,8 +7550,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/03/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/ukraine-update-ausbau-der-diktatur-und-vorbereitung-eines-grossen-krieges-im-donbass/",
     "Debunking": ""
   },
   {
@@ -7026,8 +7564,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20211217/eu-verlaengert-sanktionen-gegen-russland-4717699.html",
     "Debunking": ""
   },
   {
@@ -7039,8 +7578,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "05/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/das-russische-fernsehen-ueber-die-eskalation-in-der-ukraine/",
     "Debunking": ""
   },
   {
@@ -7052,8 +7592,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "31/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/129217-krieg-im-donbass-donezker-und-lugansker-volksrepubliken-melden-fast-hundert-tote-jahr-2021/",
     "Debunking": ""
   },
   {
@@ -7065,8 +7606,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "3/4/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/115364-donbass-unter-artilleriebeschuss-biden-verspricht-ukraine-unterstuetzung/",
     "Debunking": ""
   },
   {
@@ -7078,8 +7620,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "2/2/2017",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/kurzclips/video/46037-ostukraine-leid-tote-beschuss-donezk-makijiwka/",
     "Debunking": ""
   },
   {
@@ -7091,8 +7634,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20211217/eu-verlaengert-sanktionen-gegen-russland-4717699.html",
     "Debunking": ""
   },
   {
@@ -7104,8 +7648,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "01/01/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/nato-land-tuerkei-rekrutiert-dschihadisten-um-sie-dann-in-die-ukraine-zu-schicken/",
     "Debunking": ""
   },
   {
@@ -7117,8 +7662,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "9/1/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/01/09/donbass-ukrainische-milizen-stationieren-gepanzerte-kriegsgerate-in-wohngebieten/",
     "Debunking": ""
   },
   {
@@ -7130,8 +7676,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/das-spiel-mit-dem-feuer-die-ukraine-ist-ein-grosser-nato-militaerstuetzpunkt-geworden/",
     "Debunking": ""
   },
   {
@@ -7143,8 +7690,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "09/10/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2021/10/09/volksrepubliken-von-luhansk-fordern-die-ukraine-auf-den-faktischen-ruckzug-aus-den-minsker-vereinbarungen-anzuerkennen/",
     "Debunking": ""
   },
   {
@@ -7156,8 +7704,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2021/12/22/polnischer-experte-kiew-und-washington-haben-ein-interesse-an-der-aufrechterhaltung-des-spannungszustandes-im-donbass/",
     "Debunking": ""
   },
   {
@@ -7169,8 +7718,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/la-stessa-ucraina-non-crede-in-uninvasione-russa-ma-la-cia-ha-altri-piani/",
     "Debunking": ""
   },
   {
@@ -7182,8 +7732,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/130284-kriegsvorbereitungen-ukraine-verlegt-britische-waffen-in-den-donbass/",
     "Debunking": ""
   },
   {
@@ -7195,8 +7746,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/erwarten-sie-bald-eine-eskalation-des-konflikts-im-donbass-und-in-der-ukraine-sagt-ein-auslandskorrespondent/",
     "Debunking": ""
   },
   {
@@ -7208,8 +7760,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/01/17/ethnische-sauberung-im-donbass-kiew-bereitet-republiken-auf-kroatischen-sturm-vor/",
     "Debunking": ""
   },
   {
@@ -7221,8 +7774,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "04/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2022/saebelrasseln-und-verhandlungen-russland-und-die-usa-ringen-um-sicherheitsgarantien/",
     "Debunking": ""
   },
   {
@@ -7234,8 +7788,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/08/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/polen-und-die-ukraine-nicht-afghanistan-waren-die-ersten-us-verbuendeten-die-von-biden-im-stich-gelassen-wurden/",
     "Debunking": ""
   },
   {
@@ -7247,8 +7802,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/erwarten-sie-bald-eine-eskalation-des-konflikts-im-donbass-und-in-der-ukraine-sagt-ein-auslandskorrespondent/",
     "Debunking": ""
   },
   {
@@ -7260,8 +7816,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211210/diplomazia-russa-una-provocazione-le-azioni-della-nave-militare-ucraina-nello-stretto-di-kerch-14135886.html",
     "Debunking": ""
   },
   {
@@ -7273,8 +7830,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/11/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Come Don Chisciotte",
+    "Link": "https://comedonchisciotte.org/chi-vuole-un-po-di-ucraina/",
     "Debunking": ""
   },
   {
@@ -7286,8 +7844,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/02/20/kiew-bereitete-im-voraus-falschungen-fur-den-beginn-einer-militaroperation-gegen-die-donezker-und-lugansker-volksrepubliken-vor/",
     "Debunking": ""
   },
   {
@@ -7299,8 +7858,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/02/21/feuer-der-ukrainischen-streitkrafte-beschadigt-zwei-schulen-in-donezk/",
     "Debunking": ""
   },
   {
@@ -7312,8 +7872,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20220219/plan-ukrainischer-offensive-im-donbass-5427526.html",
     "Debunking": ""
   },
   {
@@ -7325,8 +7886,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20220219/einschaetzungen-zur-ukraine-krise-5423528.html",
     "Debunking": ""
   },
   {
@@ -7338,8 +7900,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/04/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20210410/lucraina-di-cui-nessuno-ha-bisogno-russia-in-primis-10393882.html",
     "Debunking": ""
   },
   {
@@ -7351,8 +7914,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/02/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220218/donbass-lnr-denuncia-altri-due-bombardamenti-delle-forze-armate-ucraine-15179263.html",
     "Debunking": ""
   },
   {
@@ -7364,8 +7928,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/erwarten-sie-bald-eine-eskalation-des-konflikts-im-donbass-und-in-der-ukraine-sagt-ein-auslandskorrespondent/",
     "Debunking": ""
   },
   {
@@ -7377,8 +7942,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "7/3/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/113877-ukraine-feuerwerk-nach-sieben-jahren-krieg-gegen-donbass/",
     "Debunking": ""
   },
   {
@@ -7390,8 +7956,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Report24",
+    "Link": "https://report24.news/situation-im-donbass-eskaliert-wie-wird-putin-reagieren/",
     "Debunking": ""
   },
   {
@@ -7403,8 +7970,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "12/04/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Come Don Chisciotte",
+    "Link": "https://comedonchisciotte.org/ucraina-redux-russofobia-e-la-guerra-del-gasdotto/",
     "Debunking": ""
   },
   {
@@ -7416,8 +7984,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2021/12/15/die-franzosen-werfen-kiew-vor-die-invasion-des-donbass-vorbereitet-zu-haben/",
     "Debunking": ""
   },
   {
@@ -7429,8 +7998,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "09/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211209/putin-quello-che-accade-nel-donbass-assomiglia-a-un-genocidio-14125613.html",
     "Debunking": ""
   },
   {
@@ -7442,8 +8012,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211215/boris-johnson-promette-piu-forze-nato-se-la-russia-invade-lucraina-14198271.html",
     "Debunking": ""
   },
   {
@@ -7455,8 +8026,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Report24",
+    "Link": "https://report24.news/situation-im-donbass-eskaliert-wie-wird-putin-reagieren/",
     "Debunking": ""
   },
   {
@@ -7468,8 +8040,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220102/donbass-milizie-autonomiste-denunciano-preparativi-bellici-dellesercito-ucraino-14448361.html",
     "Debunking": ""
   },
   {
@@ -7481,8 +8054,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "huffingtonpost.itt",
+    "Link": "http://huffingtonpost.it/",
     "Debunking": ""
   },
   {
@@ -7494,8 +8068,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "huffingtonpost.it",
+    "Link": "http://huffingtonpost.it/",
     "Debunking": ""
   },
   {
@@ -7507,8 +8082,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "30/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/129201-vorbote-krieges-us-aufklarungsflugzeug-uberfliegt-erstmals-ostukraine/",
     "Debunking": ""
   },
   {
@@ -7520,8 +8096,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/128523-ukraine-als-aufmarschplatz-nato-schon-10000-soldaten-der-westlichen-allianz-land/",
     "Debunking": ""
   },
   {
@@ -7533,8 +8110,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "28/11/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Come Don Chisciotte",
+    "Link": "https://comedonchisciotte.org/chi-vuole-un-po-di-ucraina/",
     "Debunking": ""
   },
   {
@@ -7546,8 +8124,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220102/donbass-milizie-autonomiste-denunciano-preparativi-bellici-dellesercito-ucraino-14448361.html",
     "Debunking": ""
   },
   {
@@ -7559,8 +8138,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20220102/ukrainische-streitkraefte-besetzen-schule-4878426.html",
     "Debunking": ""
   },
   {
@@ -7572,8 +8152,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220102/donbass-milizie-autonomiste-denunciano-preparativi-bellici-dellesercito-ucraino-14448361.html",
     "Debunking": ""
   },
   {
@@ -7585,8 +8166,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "08/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/usa-geheimdienste-offiziere-und-diplomaten-im-ruhestand-schreiben-offenen-brief-an-joe-biden-um-den-krieg-in-der-ukraine-zu-verhindern/",
     "Debunking": ""
   },
   {
@@ -7598,8 +8180,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "http://sna.de/",
     "Debunking": ""
   },
   {
@@ -7611,8 +8194,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "12/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/128523-ukraine-als-aufmarschplatz-nato-schon-10000-soldaten-der-westlichen-allianz-land/",
     "Debunking": ""
   },
   {
@@ -7624,8 +8208,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "09/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/02/09/wenn-die-ukraine-den-Donbas-angreift-konnte-die-situation-ahnlich-wie-in-syrien-werden-dscharichin/",
     "Debunking": ""
   },
   {
@@ -7637,8 +8222,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "07/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/02/07/afu-kommando-fuhrt-aufklarungsmasnahmen-im-Donbas-zur-vorbereitung-einer-offensive-durch/",
     "Debunking": ""
   },
   {
@@ -7650,8 +8236,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "07/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/02/07/kiew-entsandte-die-ukrainischen-radikale-an-die-beruhrungslinie-im-Donbas/",
     "Debunking": ""
   },
   {
@@ -7663,8 +8250,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/02/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/messaggio-di-emergenza-dalla-dpr-le-forze-di-sicurezza-ucraine-hanno-iniziato-a-bombardare-gli-insediamenti/",
     "Debunking": ""
   },
   {
@@ -7676,8 +8264,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/02/21/bewaffnete-formationen-der-ukraine-blockieren-die-wiederherstellung-der-stromversorgung-in-den-siedlungen-der-lugansker-volksrepublik/",
     "Debunking": ""
   },
   {
@@ -7689,8 +8278,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/05/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/ukraine-begeht-drohnenmord-an-spielendem-kind/",
     "Debunking": ""
   },
   {
@@ -7702,8 +8292,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "29/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Linkezeitung.de",
+    "Link": "https://linkezeitung.de/2021/04/29/ukraine-begeht-drohnenmord-an-spielendem-kind/",
     "Debunking": ""
   },
   {
@@ -7715,8 +8306,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2021/12/18/ukrainische-streitkrafte-eroffnen-morserfeuer-auf-dorf-in-lnr/",
     "Debunking": ""
   },
   {
@@ -7728,8 +8320,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/02/21/donbass-am-vormittag-nahmen-ukrainische-bestrafer-den-vorort-des-dorfes-horlowka-unter-beschuss/",
     "Debunking": ""
   },
   {
@@ -7741,8 +8334,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/02/21/feuer-der-ukrainischen-streitkrafte-beschadigt-zwei-schulen-in-donezk/",
     "Debunking": ""
   },
   {
@@ -7754,8 +8348,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/02/20/die-ukrainischen-streitkrafte-fuhren-die-artillerievorbereitung-fur-die-offensive-entlang-der-gesamten-frontlinie-durch/",
     "Debunking": ""
   },
   {
@@ -7767,8 +8362,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/02/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220221/15226624.html",
     "Debunking": ""
   },
   {
@@ -7780,8 +8376,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2021/04/13/nato-fordert-dass-russland-sich-nicht-in-die-ukrainische-strafaktion-im-donbass-einmischt/",
     "Debunking": ""
   },
   {
@@ -7793,8 +8390,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "25/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2021/12/25/afu-zieht-gepanzerte-fahrzeuge-zu-siedlungen-in-der-nahe-der-lnr-grenzlinie/",
     "Debunking": ""
   },
   {
@@ -7806,8 +8404,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/11/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2021/11/23/die-ukraine-behindert-die-arbeit-der-osze-drohnen-9/",
     "Debunking": ""
   },
   {
@@ -7819,8 +8418,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/09/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2021/09/19/ukrainische-straftater-stellen-minen-schilder-auf-um-zu-verhindern-dass-die-osze-orte-mit-ausrustung-betritt/",
     "Debunking": ""
   },
   {
@@ -7832,8 +8432,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2021/12/15/ukrainische-streitkrafte-storen-osze-drohnen-im-donbass/",
     "Debunking": ""
   },
   {
@@ -7845,8 +8446,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20211226/buergerkriegserweiterung-im-donbass-voellig-unzulaessig--kreml-4818628.html",
     "Debunking": ""
   },
   {
@@ -7858,8 +8460,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/07/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/donetsk-lesercito-ucraino-ha-violato-sei-volte-nelle-ultime-24-ore-il-cessate-il-fuoco-instaurato-nel-donbass-sabato/",
     "Debunking": ""
   },
   {
@@ -7871,8 +8474,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "10/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Byoblu",
+    "Link": "https://www.byoblu.com/2021/12/10/putin-il-conflitto-nel-donbass-somiglia-a-un-genocidio/?__cf_chl_f_tk=qkfbbB7MjkC60S4T.GQr1C1SF7rTUzLNx1rJD19va7k-1642462477-0-gaNycGzNCL0",
     "Debunking": ""
   },
   {
@@ -7884,8 +8488,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "06/03/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2021/03/06/was-wird-die-ukraine-mit-einem-neuen-krieg-im-donbass-erreichen/",
     "Debunking": ""
   },
   {
@@ -7897,8 +8502,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/09/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Sicurezza Internazionale",
+    "Link": "https://sicurezzainternazionale.luiss.it/2021/09/03/russia-ucraina-kiev-si-svincola-dagli-accordi-minsk-sul-donbass/",
     "Debunking": ""
   },
   {
@@ -7910,8 +8516,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "29/09/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2021/09/29/ukraine-weigert-sich-endgultig-die-minsker-vereinbarungen-umzusetzen-miroschnik/",
     "Debunking": ""
   },
   {
@@ -7923,8 +8530,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/02/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/steht-die-ukraine-wieder-mal-am-rande-eines-krieges/",
     "Debunking": ""
   },
   {
@@ -7936,8 +8544,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/03/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Uncutnews",
+    "Link": "https://uncutnews.ch/ukraine-update-ausbau-der-diktatur-und-vorbereitung-eines-grossen-krieges-im-donbass/",
     "Debunking": ""
   },
   {
@@ -7949,8 +8558,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/01/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/63861-neues-donbass-reintegrationsgesetz-kiew-wirft-minsker-friedensprozess-ueber-bord/",
     "Debunking": ""
   },
   {
@@ -7962,8 +8572,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/06/2020",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/lucraina-dichiara-laccordo-di-minsk-non-vincolante-e-sbilanciato-a-favore-del-donbass/",
     "Debunking": ""
   },
   {
@@ -7975,8 +8586,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/03/2020",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/il-presidente-ucraino-zelensky-pronto-a-lasciare-gli-accordi-di-minsk-la-risposta-del-ministro-degli-esteri-della-dnr-nikonorova/",
     "Debunking": ""
   },
   {
@@ -7988,8 +8600,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/02/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "http://sna.it/",
     "Debunking": ""
   },
   {
@@ -8001,8 +8614,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/08/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2020/buergerkrieg-in-der-ukraine-deutschland-scheint-die-geduld-mit-kiew-zu-verlieren/",
     "Debunking": ""
   },
   {
@@ -8014,8 +8628,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "27/04/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/18129/international/aendern-berlin-und-bruessel-ihre-lageeinschaetzug-deutschland-und-die-eu-mahnen-kiew-zur-umsetzung-der-minsker-vereinbarung/",
     "Debunking": ""
   },
   {
@@ -8027,8 +8642,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/2/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220221/missile-sparato-dallucraina-distrugge-un-checkpoint-di-confine-sul-territorio-russo---video-15228148.html",
     "Debunking": ""
   },
   {
@@ -8040,8 +8656,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/2/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220221/le-forze-di-kiev-continuano-i-bombardamenti-riferiscono-lpr-e-dpr---aggiornamenti-15220460.html",
     "Debunking": ""
   },
   {
@@ -8053,8 +8670,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/2/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220220/evacuazione-da-donetsk-in-corso-tra-i-bombardamenti-delle-forze-ucraine-rapporti-15205887.html",
     "Debunking": ""
   },
   {
@@ -8066,8 +8684,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/10/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/93544-ukraine-treffen-im-normandie-format-gefaehrdet/",
     "Debunking": ""
   },
   {
@@ -8079,8 +8698,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "14/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/128470-krieg-ist-abgesagt-aber-deutschen/",
     "Debunking": ""
   },
   {
@@ -8092,8 +8712,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "02/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20220102/ukrainische-streitkraefte-besetzen-schule-4878426.html",
     "Debunking": ""
   },
   {
@@ -8105,8 +8726,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "22/07/2020",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/di-notte-le-forze-armate-ucraine-hanno-sparato-sul-territorio-del-dpr-donbass-4-edifici-civili-e-una-parte-del-gasdotto-sono-stati-danneggiati/",
     "Debunking": ""
   },
   {
@@ -8118,8 +8740,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/02/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20220211/auslaendische-soeldner-trennlinie-donbass-volksabwehr-5319896.html",
     "Debunking": ""
   },
   {
@@ -8131,8 +8754,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/12/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/lucraina-cerca-di-cambiare-a-suo-favore-gli-accordi-di-minsk/",
     "Debunking": ""
   },
   {
@@ -8144,8 +8768,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "27/04/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/87582-putins-schachzuege-in-ukraine/",
     "Debunking": ""
   },
   {
@@ -8157,8 +8782,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/02/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220220/per-ex-eurodeputato-accordi-di-minsk-e-pace-in-ucraina-sono-lultima-cosa-che-vogliono-usa-e-gb-15200645.html",
     "Debunking": ""
   },
   {
@@ -8170,8 +8796,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "21/06/2017",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/kurzclips/video/52753-absurd-poroschenko-minsk-sanktionen/",
     "Debunking": ""
   },
   {
@@ -8183,8 +8810,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "06/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/il-capo-della-dpr-visto-laccumulo-di-forze-nato-in-ucraina-dovremo-richiedere-assistenza-militare-alla-russia-e-alla-bielorussia/",
     "Debunking": ""
   },
   {
@@ -8196,8 +8824,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20211226/buergerkriegserweiterung-im-donbass-voellig-unzulaessig--kreml-4818628.html",
     "Debunking": ""
   },
   {
@@ -8209,8 +8838,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/12/2021",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20211213/telefonata-putin-johnson-le-azioni-della-nato-in-ucraina-minaccia-alla-russia-14173556.html",
     "Debunking": ""
   },
   {
@@ -8224,6 +8854,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -8235,8 +8866,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/12/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antikrieg",
+    "Link": "http://www.antikrieg.com/aktuell/2018_12_17_ukrainische.htm",
     "Debunking": ""
   },
   {
@@ -8248,8 +8880,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "08/11/2018",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "comedonchisciotte.org",
+    "Link": "https://comedonchisciotte.org/mosca-costantinopoli-scisma-nella-chiesa-ortodossa-lopinione-di-aleksandr-dugin/",
     "Debunking": ""
   },
   {
@@ -8261,8 +8894,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "13/07/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Antispiegel",
+    "Link": "https://www.anti-spiegel.ru/2020/die-hagia-sophia-wird-eine-moschee-wie-in-russland-auf-den-tuerkischen-schritt-reagiert-wird/",
     "Debunking": ""
   },
   {
@@ -8274,8 +8908,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "07/04/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/86860-rote-karte-fuer-krieg-und-nationalismus-warum-die-ukraine-poroschenko-abwaehlt/",
     "Debunking": ""
   },
   {
@@ -8287,8 +8922,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "14/02/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/84265-jw-timoschenko-vs-jw-timoschenko-kandidatin-wahlen-manipupation/",
     "Debunking": ""
   },
   {
@@ -8300,8 +8936,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "14/02/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/81112-patriarch-kirill-appelliert-an-merkel-verfolgung-kirche-ukraine/",
     "Debunking": ""
   },
   {
@@ -8313,8 +8950,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/01/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "unzensuriert.at",
+    "Link": "https://www.unzensuriert.at/content/0027590-ukraine-praesident-poroschenko-moechte-orthodoxe-kirche-spalten/",
     "Debunking": ""
   },
   {
@@ -8326,8 +8964,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/12/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "unzensuriert.at",
+    "Link": "https://www.unzensuriert.at/content/0028528-kirche-unabhaengige-ukrainisch-orthodoxe-kirche-spaltet-glaeubige/",
     "Debunking": ""
   },
   {
@@ -8339,8 +8978,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/09/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/76061-orthodoxie-ist-kurz-vor-spaltung-patriarch-bartholomeos-will-kiew-autokephalie-gew%C3%A4hren/",
     "Debunking": ""
   },
   {
@@ -8352,8 +8992,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/10/2018",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Vita",
+    "Link": "http://www.vita.it/it/article/2018/10/15/quella-guerra-di-religione-che-si-profila-in-ucraina/149388/",
     "Debunking": ""
   },
   {
@@ -8365,8 +9006,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/2/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Notiziegeopolitiche",
+    "Link": "https://www.notiziegeopolitiche.net/ucraina-elezioni-e-nuovo-scisma-tra-chiese-ortodosse/",
     "Debunking": ""
   },
   {
@@ -8378,8 +9020,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "24/01/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "unzensuriert.at",
+    "Link": "http://unzensuriert.at/",
     "Debunking": ""
   },
   {
@@ -8391,8 +9034,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/12/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/81218-ukraine-poroschenko-grundet-ukrainische-nationalkirche-mithilfe-cia/",
     "Debunking": ""
   },
   {
@@ -8404,8 +9048,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "08/01/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/82140-us-diplomat-abspaltung-ukraine-kirche-poroschenko-usa-schw%C3%A4chung-russlands/",
     "Debunking": ""
   },
   {
@@ -8417,8 +9062,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "04/10/2018",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/washington-dirige-una-attacco-contro-la-chiesa-ortodossa/",
     "Debunking": ""
   },
   {
@@ -8430,8 +9076,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/11/2018",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/fonte-il-dipartimento-di-stato-usa-ha-pagato-una-tangente-da-25-mil-al-patriarca-di-costantinopoli-per-fomentare-il-caos-religioso-in-ucraina/",
     "Debunking": ""
   },
   {
@@ -8445,6 +9092,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -8459,9 +9107,10 @@ export const dataEdited = [
     "Disinfo_cases_de": "",
     "Disinfo_cases_it": "",
     "Disinfo_cases _uk": "13/05/2021",
-    "Disinfo_cases_ru": "Німеччина",
+    "Disinfo_cases_ru": "Germany",
     "Date": "RT.DE",
-    "Countries": ""
+    "Countries": "https://de.rt.com/meinung/117472-investigative-kakophonie-bellingcat-und-tschechisch/",
+    "Media": ""
   },
   {
     "Narrative": "",
@@ -8475,9 +9124,10 @@ export const dataEdited = [
     "Disinfo_cases_de": "",
     "Disinfo_cases_it": "",
     "Disinfo_cases _uk": "16/10/2020",
-    "Disinfo_cases_ru": "Німеччина",
+    "Disinfo_cases_ru": "Germany",
     "Date": "RT.DE",
-    "Countries": ""
+    "Countries": "https://de.rt.com/meinung/107857-russland-verlasst-mh17-gremium-logisches/",
+    "Media": ""
   },
   {
     "Narrative": "",
@@ -8488,8 +9138,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/10/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/106908-fall-nawalny-und-nowitschok-nebel/",
     "Debunking": ""
   },
   {
@@ -8501,8 +9152,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/11/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/95837-investigativer-murks-fall-changoschwili-und/",
     "Debunking": ""
   },
   {
@@ -8514,8 +9166,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "01/06/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/88772-malaysia-untersuchungen-zum-mh17-abschuss/",
     "Debunking": ""
   },
   {
@@ -8527,8 +9180,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/09/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/76655-neue-details-im-britischen-agententhriller-bilderbuch-agenten-identitaet/",
     "Debunking": ""
   },
   {
@@ -8540,8 +9194,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/07/2015",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/26265/international/ein-jahr-mh17-voreilige-schuldzuweisungen-und-politisierung-eines-ungluecks/",
     "Debunking": ""
   },
   {
@@ -8553,8 +9208,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "07/04/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/86860-rote-karte-fuer-krieg-und-nationalismus-warum-die-ukraine-poroschenko-abwaehlt/",
     "Debunking": ""
   },
   {
@@ -8566,8 +9222,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/10/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/107869-deutsche-aussenpolitik-anspruch-und-wirklichkeit/",
     "Debunking": ""
   },
   {
@@ -8579,8 +9236,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/10/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/107819-moskau-weitere-trilaterale-gesprache-zu-mh17-absturz-unmoeglich/",
     "Debunking": ""
   },
   {
@@ -8592,8 +9250,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/01/2020",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/96761-die-vergessenen-angriffe-auf-iranische-und-russische-passagiermaschinen/",
     "Debunking": ""
   },
   {
@@ -8605,8 +9264,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/08/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/91349-mh17-ruf-nach-gerechtigkeit-neue/",
     "Debunking": ""
   },
   {
@@ -8618,8 +9278,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "25/07/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/90596-doku-fechtet-offizielle-version-zu/",
     "Debunking": ""
   },
   {
@@ -8631,8 +9292,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "20/06/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/89377-abschuss-mh17-untersuchung-ist-politische/",
     "Debunking": ""
   },
   {
@@ -8644,8 +9306,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/03/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/kurzclips/video/86401-ehemaliger-ukrainischer-geheimdienstler-ueber-mh-17-cia-mi6-ukraine/",
     "Debunking": ""
   },
   {
@@ -8657,8 +9320,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/03/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/europa/86352-kiew-in-mh17-absturz-verwickelt-ukrainischer-ex-gheimdienstler-packt-aus/",
     "Debunking": ""
   },
   {
@@ -8670,8 +9334,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/09/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/76303-russland-liefert-belege-flug-mh17-wurde-mit-ukrainischer-rakete-abgeschossen/",
     "Debunking": ""
   },
   {
@@ -8683,8 +9348,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "06/02/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2021/02/06/mh17-absturz-die-niederlande-weigerten-sich-den-entscheidenden-faktor-zu-untersuchen/",
     "Debunking": ""
   },
   {
@@ -8696,8 +9362,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "08/07/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20210708/mh17-absturz-gericht-den-haag-antrag-verhoerung-experten-2767470.html",
     "Debunking": ""
   },
   {
@@ -8709,8 +9376,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "17/09/2018",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/76154-russisches-verteidigugnsministerium-identifiziert-buk-rakete/",
     "Debunking": ""
   },
   {
@@ -8722,8 +9390,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/07/2019",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20190703/tragedia-mh17-discussa-a-osaka-da-premier-dei-paesi-bassi-e-putin-7840331.html",
     "Debunking": ""
   },
   {
@@ -8735,8 +9404,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "05/12/2014",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Imolaoggi",
+    "Link": "https://www.imolaoggi.it/2014/12/05/la-denuncia-dalla-relazione-sul-volo-mh17-mancano-i-dati-che-compromettono-lucraina/",
     "Debunking": ""
   },
   {
@@ -8748,8 +9418,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "03/05/2015",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Imolaoggi",
+    "Link": "https://www.imolaoggi.it/2015/06/03/russia-volo-mh17-fu-colpito-da-missile-9m38m1-buk-m1-delle-forze-armate-di-kiev/",
     "Debunking": ""
   },
   {
@@ -8761,8 +9432,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "19/08/2014",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/gli-accordi-segreti-del-governo-di-kiev-con-la-shell-e-labbattimento-del-volo-mh17-malaysia-airlines/",
     "Debunking": ""
   },
   {
@@ -8774,8 +9446,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220126/russia-aperta-allinchiesta-sul-disastro-aereo-del-volo-mh17-nel-donbass-14788644.html",
     "Debunking": ""
   },
   {
@@ -8787,8 +9460,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20220126/rappresentante-russo-presso-cedu-chiede-di-respingere-denunce-di-paesi-bassi-e-ucraina-su-mh17-14783460.html",
     "Debunking": ""
   },
   {
@@ -8800,8 +9474,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "11/03/2020",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20200311/al-via-in-olanda-il-processo-per-labbattimento-dellmh17-8846103.html",
     "Debunking": ""
   },
   {
@@ -8813,8 +9488,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/02/2020",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "SNA.IT",
+    "Link": "https://it.sputniknews.com/20200218/mh17-documenti-leakati-escluderebbero-la-presenza-di-missili-buk-nellarea-dello-schianto-8744970.html",
     "Debunking": ""
   },
   {
@@ -8828,6 +9504,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -8841,6 +9518,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -8854,6 +9532,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -8867,6 +9546,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -8880,6 +9560,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -8893,6 +9574,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -8906,6 +9588,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -8919,6 +9602,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -8932,6 +9616,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -8945,6 +9630,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -8956,8 +9642,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "23/03/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "http://rt.de/",
     "Debunking": "https://de.rt.com/meinung/114802-schandung-prasidentensitzes-ist-ukraine-gescheiterter-staat/ "
   },
   {
@@ -8971,6 +9658,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -8982,8 +9670,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "SNA.DE",
+    "Link": "https://snanews.de/20220116/cdu-chef-merz-swift-ausschluss-russlands-5027286.html",
     "Debunking": ""
   },
   {
@@ -8995,8 +9684,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/130031-todlich-fur-internationalen-zahlungsverkehr-merz/",
     "Debunking": ""
   },
   {
@@ -9008,8 +9698,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "15/01/2022",
-    "Countries": "Італія",
+    "Countries": "Italy",
     "Media": "Controinformazione",
+    "Link": "https://www.controinformazione.info/leuropa-passa-sotto-il-totale-controllo-di-washington-grazie-alla-crisi-ucraina/",
     "Debunking": ""
   },
   {
@@ -9021,8 +9712,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/04/2019",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://deutsch.rt.com/europa/87320-westen-funktioniert-nach-vassalenprinzip-russischer-politologe-gespraech/",
     "Debunking": ""
   },
   {
@@ -9036,6 +9728,7 @@ export const dataEdited = [
     "Date": "",
     "Countries": "",
     "Media": "",
+    "Link": "",
     "Debunking": ""
   },
   {
@@ -9047,8 +9740,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "26/10/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/international/126160-nato-beitritt-der-ukraine-giftpille-fuer-das-buendnis/",
     "Debunking": ""
   },
   {
@@ -9060,8 +9754,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "18/12/2021",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "RT.DE",
+    "Link": "https://de.rt.com/meinung/128616-wie-krieg-in-ukraine-verhindert-werden-kann/",
     "Debunking": ""
   },
   {
@@ -9073,8 +9768,9 @@ export const dataEdited = [
     "Disinfo_cases _uk": "",
     "Disinfo_cases_ru": "",
     "Date": "16/01/2022",
-    "Countries": "Німеччина",
+    "Countries": "Germany",
     "Media": "Newsfront",
+    "Link": "https://de.news-front.info/2022/01/16/um-donbass-zuruckzugeben-muss-die-ukraine-den-nato-beitritt-aufgeben/",
     "Debunking": ""
   }
 ]

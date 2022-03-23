@@ -1,6 +1,6 @@
-import Head from 'next/head'
-import FakeList from '../components/FakeList/FakeList'
-import styles from '../styles/Home.module.css'
+import Head from "next/head";
+import FakeList from "../components/FakeList/FakeList";
+import styles from "../styles/Home.module.css";
 
 export default function Home() {
   return (
@@ -18,9 +18,8 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           Powered by Vox Ukraine
-          
         </a>
       </footer>
     </div>
-  )
+  );
 }

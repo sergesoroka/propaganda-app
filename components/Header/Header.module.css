@@ -1,45 +1,51 @@
 .mainMenu {
-    background-color: #056A1F;
-    color: #fff;
-    display: flex;
-    justify-content: flex-end;
-    padding: .5rem 1rem;
-    font-size: .9rem;
-} 
+  background-color: #056a1f;
+  color: #fff;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+}
 
 .headerWrap {
-    width: 100%;
+  width: 100%;
 }
 
 .langMenu {
-    display: flex;
-    justify-content: flex-end;
-    margin: 0.5rem 1rem;
-    font-size: .9rem;
+  display: flex;
+  justify-content: flex-end;
+  margin: 0.5rem 1rem;
+  font-size: 0.9rem;
 }
 .mainMenuList {
-    display: flex;
-    margin: 0;
+  display: flex;
+  margin: 0;
 }
 .mainMenuListItem {
-    list-style: none;
-    margin-left: .6rem;
-    text-transform: uppercase;
-    opacity: .8;
-    cursor: pointer;
+  list-style: none;
+  margin-left: 0.6rem;
+  text-transform: uppercase;
+  opacity: 0.8;
+  cursor: pointer;
 }
 
 .mainMenuListItem:hover {
-    list-style: none;
-    margin-left: .6rem;
-    text-transform: uppercase;
-    opacity: 1;
-    cursor: pointer;
+  list-style: none;
+  margin-left: 0.6rem;
+  text-transform: uppercase;
+  opacity: 1;
+  cursor: pointer;
+}
+.activeLink {
+  font-weight: 500;
+  color: #056a1f;
+  margin-left: 0.6rem;
+  list-style: none;
 }
 
-@media (max-width: 600px) {Ї
-    .mainMenuListItem, 
-    .mainMenuListItem:hover {
-        margin-left: 0 !important;
-    }
+@media (max-width: 600px) {
+  Ї .mainMenuListItem,
+  .mainMenuListItem:hover {
+    margin-left: 0 !important;
+  }
 }

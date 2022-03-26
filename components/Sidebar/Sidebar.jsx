@@ -2,12 +2,39 @@ import { useState } from "react";
 import Link from "next/link";
 import styles from "./Sidebar.module.css";
 
+import { dataEdited } from "../../data/dataSample";
+
 export default function Sidebar() {
   const [diary, setDiary] = useState(false);
   const [whiteList, setWhiteList] = useState(false);
   const [blackList, setBlackList] = useState(false);
   const [naratives, setNaratives] = useState(false);
 
+  const uniqueNarratives = [];
+  dataEdited.map((c) => {
+    if (!uniqueNarratives.includes(c.Narrative)) {
+      uniqueNarratives.push(c.Narrative);
+    }
+    return c;
+  });
+
+  const uniqueFakes = [];
+  dataEdited.map((c) => {
+    if (!uniqueFakes.includes(c.Fakes)) {
+      uniqueFakes.push(c.Fakes);
+    }
+    return c;
+  });
+
+  const uniqueMedias = [];
+  dataEdited.map((c) => {
+    if (!uniqueMedias.includes(c.Media)) {
+      uniqueMedias.push(c.Media);
+    }
+    return c;
+  });
+
+  console.log(uniqueFakes);
   return (
     <>
       <h1 className={styles.projectName}>
@@ -18,13 +45,16 @@ export default function Sidebar() {
       <div className={styles.sidebar}>
         <ul className={styles.statisticWrap}>
           <li className={styles.statisticListItem}>
-            256 <span className={styles.statisticListName}>Narratives</span>
+            {uniqueNarratives.length + 1}{" "}
+            <span className={styles.statisticListName}>Narratives</span>
           </li>
           <li className={styles.statisticListItem}>
-            432 <span className={styles.statisticListName}>Fakes</span>
+            {uniqueFakes.length + 1}{" "}
+            <span className={styles.statisticListName}>Fakes</span>
           </li>
           <li className={styles.statisticListItem}>
-            351 <span className={styles.statisticListName}>Sources</span>
+            {uniqueMedias.length + 1}{" "}
+            <span className={styles.statisticListName}>Sources</span>
           </li>
         </ul>
         <div className={styles.sidebarItem}>

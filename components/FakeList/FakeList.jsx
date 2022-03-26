@@ -7,13 +7,7 @@ import { fakeData } from "../../data/data";
 import { dataEdited } from "../../data/dataSample";
 
 export default function FakeList() {
-  // const uniqueNarratives = [];
-  // const dataForNarrative = fakeData.map((c) => {
-  //   if (!uniqueNarratives.includes(c.Narrative)) {
-  //     uniqueNarratives.push(c.Narrative);
-  //   }
-  //   return c;
-  // });
+  
 
   const narrative = dataEdited.map((n, i) => (
     <Link key={i} href={`/narratives/${n.Narrative}`}>
@@ -22,6 +16,8 @@ export default function FakeList() {
       </a>
     </Link>
   ));
+
+
 
   return <div className={styles.fakeListWrap}>{narrative}</div>;
 }

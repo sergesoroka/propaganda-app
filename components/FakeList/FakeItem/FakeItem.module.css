@@ -34,4 +34,9 @@
     color: #fff;
     width: fit-content;
     margin: .6rem 0;
+    transition-duration: .3s;
+}
+
+.fakeHeading:hover {
+    background-color: #034e16;
 }

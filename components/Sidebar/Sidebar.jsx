@@ -34,7 +34,7 @@ export default function Sidebar() {
     return c;
   });
 
-  console.log(uniqueFakes);
+  
   return (
     <>
       <h1 className={styles.projectName}>

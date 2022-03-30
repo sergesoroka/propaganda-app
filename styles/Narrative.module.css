@@ -107,10 +107,10 @@
 }
 
 .media>a {
-  color:#056a1f;
+  color: #dd0000;
 }
 
 .media>a:hover {
-  color:#00330d;
+  color: #be0000;
   text-decoration: underline;
 }

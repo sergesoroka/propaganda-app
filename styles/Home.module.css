@@ -113,6 +113,14 @@
   width: 100%;
 }
 
+.aboutPageWrap {
+  font-weight: 400;
+}
+.aboutPageWrap a {
+  color: #dd0000 ;
+  font-weight: 400;
+
+}
 @media (max-width: 600px) {
   .grid {
     width: 100%;

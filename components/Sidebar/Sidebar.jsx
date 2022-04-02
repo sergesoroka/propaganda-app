@@ -45,15 +45,15 @@ export default function Sidebar() {
       <div className={styles.sidebar}>
         <ul className={styles.statisticWrap}>
           <li className={styles.statisticListItem}>
-            {uniqueNarratives.length + 1}{" "}
+            {'# ' + uniqueNarratives.length + 1}{" "}
             <span className={styles.statisticListName}>Narratives</span>
           </li>
           <li className={styles.statisticListItem}>
-            {uniqueFakes.length + 1}{" "}
+            {'# ' + uniqueFakes.length + 1}{" "}
             <span className={styles.statisticListName}>Fakes</span>
           </li>
           <li className={styles.statisticListItem}>
-            {uniqueMedias.length + 1}{" "}
+            {'# ' + uniqueMedias.length + 1}{" "}
             <span className={styles.statisticListName}>Sources</span>
           </li>
         </ul>

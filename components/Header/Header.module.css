@@ -22,26 +22,38 @@
   margin: 0;
 }
 .mainMenuListItem {
+  font-weight: 600;
   list-style: none;
-  margin-left: 0.6rem;
+  margin-left: 1rem;
   text-transform: uppercase;
-  opacity: 0.8;
+  opacity: 0.46;
   cursor: pointer;
 }
 
 .mainMenuListItem:hover {
   list-style: none;
-  margin-left: 0.6rem;
+  margin-left: 1rem;
   text-transform: uppercase;
   opacity: 1;
   cursor: pointer;
 }
 .activeLink {
-  font-weight: 500;
+  font-weight: 600;
   color: #056a1f;
-  margin-left: 0.6rem;
+  margin-left: 1rem;
   list-style: none;
 }
+
+.activeLinkMain {
+  font-weight: 600;
+  color: #ffffff !important;
+  text-transform: uppercase;
+  margin-left: 1rem;
+  list-style: none;
+  cursor: none;
+}
+
+
 
 @media (max-width: 600px) {
   Ї .mainMenuListItem,

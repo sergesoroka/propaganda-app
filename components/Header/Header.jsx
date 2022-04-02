@@ -5,52 +5,65 @@ import styles from "./Header.module.css";
 
 export default function Header() {
   const router = useRouter();
+  const { pathname } = router;
+
   return (
     <div className={styles.headerWrap}>
       <div className={styles.langMenu}>
         <ul className={styles.mainMenuList}>
           <li
             className={
-              router.pathname == "/lang/it"
+              pathname == "/it" || pathname == "/it/about"
                 ? styles.activeLink
                 : styles.mainMenuListItem
             }
           >
-            <Link href="/lang/it">
+            <Link href="/it">
               <a>IT</a>
             </Link>
           </li>
           <li
             className={
-              router.pathname == "/lang/de"
+              router.pathname == "/de"  || pathname == "/de/about"
                 ? styles.activeLink
                 : styles.mainMenuListItem
             }
           >
-            <Link href="/lang/de">
+            <Link href="/de">
               <a>DE</a>
             </Link>
           </li>
           <li
             className={
-              router.pathname == "/lang/en"
+              router.pathname == "/"
                 ? styles.activeLink
                 : styles.mainMenuListItem
             }
           >
-            <Link href="/lang/en">
+            <Link href="/">
               <a>ENG</a>
             </Link>
           </li>
           <li
             className={
-              router.pathname == "/lang/ru"
+              router.pathname == "/ru"  || pathname == "/ru/about"
                 ? styles.activeLink
                 : styles.mainMenuListItem
             }
           >
-            <Link href="/lang/ru">
+            <Link href="/ru">
               <a>RU</a>
+            </Link>
+          </li>
+          <li
+            className={
+              router.pathname == "/uk"  || pathname == "/uk/about"
+                ? styles.activeLink
+                : styles.mainMenuListItem
+            }
+          >
+            <Link href="/uk">
+              <a>UKR</a>
             </Link>
           </li>
         </ul>
@@ -63,23 +76,43 @@ export default function Header() {
             </Link>
           </li>
 
-          <li className={styles.mainMenuListItem}>
-            <Link href="/about">
+          <li
+            className={
+              pathname === "/it/about" ||
+              pathname === "/de/about" ||
+              pathname === "/ru/about" ||
+              pathname === "/uk/about"
+                ? styles.activeLinkMain
+                : styles.mainMenuListItem
+            }
+          >
+            {pathname === "/it/about" ||
+            pathname === "/de/about" ||
+            pathname === "/ru/about" ||
+            pathname === "/uk/about" ? (
               <a># About</a>
-            </Link>
+            ) : (
+              <Link href={`${pathname}/about`}>
+                <a># About</a>
+              </Link>
+            )}
           </li>
           <li className={styles.mainMenuListItem}>
-            <Link href="/how">
-              <a># How</a>
-            </Link>
+            {pathname == `${pathname}/how` ? (
+              <Link href={`${pathname}/how`}>
+                <a># How</a>
+              </Link>
+            ) : (
+              "# How "
+            )}
           </li>
           <li className={styles.mainMenuListItem}>
-            <Link href="/addfake">
+            <Link href={`${pathname}/addfake`}>
               <a># Add Fake</a>
             </Link>
           </li>
           <li className={styles.mainMenuListItem}>
-            <Link href="/download">
+            <Link href={`${pathname}/download`}>
               <a># Download</a>
             </Link>
           </li>

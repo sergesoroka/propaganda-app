@@ -1,0 +1,14 @@
+.MediaList {
+  padding-left: 1rem;
+}
+
+.MediaListItem {
+  list-style: none;
+  font-size: .9rem;
+  opacity: .8;
+  line-height: 1.6rem;
+}
+
+.MediaListItem a:hover {
+  opacity: .8;
+}

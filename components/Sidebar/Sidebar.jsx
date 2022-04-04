@@ -1,13 +1,17 @@
 import { useState } from "react";
 import Link from "next/link";
+import MediaList from "../MediaList/MediaList";
 import styles from "./Sidebar.module.css";
 
 import { dataEdited } from "../../data/dataSample";
+import { black_list_germany } from '../../data/black_list_germany'
+import { black_list_italy } from '../../data/black_list_italy'
+
 
 export default function Sidebar() {
   const [diary, setDiary] = useState(false);
   const [whiteList, setWhiteList] = useState(false);
-  const [blackList, setBlackList] = useState(false);
+  const [blackList, setBlackList] = useState(true);
   const [naratives, setNaratives] = useState(false);
 
   const uniqueNarratives = [];
@@ -101,9 +105,12 @@ console.log(uniqueNarratives.length)
             # Black List
           </h3>
           {blackList ? (
-            <ul className={styles.list}>
-              <li className={styles.listItem}>RT</li>
-            </ul>
+            <>
+            <h4 className={styles.countryMedia}>GERMANY</h4>
+            <MediaList data={black_list_germany} />
+            <h4 className={styles.countryMedia}>ITALY</h4>
+            <MediaList data={black_list_italy} />
+            </>
           ) : null}
         </div>
         <div className={styles.sidebarItem}>

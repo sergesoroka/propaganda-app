@@ -105,11 +105,11 @@
 }
 
 .sidebar {
-  position: fixed;
+  position: inherit;
   top: 0;
 } 
 .contentArea {
-  margin-left: 260px;
+  
   width: 100%;
 }
 

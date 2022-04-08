@@ -16,10 +16,11 @@ export default function NarrativeItem() {
 
 
   const fake = dataEdited.map((n, i) => {
+   
     return (
       <>
         {/* <Link key={i} href={`/narratives/${n}/fakes/${n}`}> */}
-          {n.Fakes ? <h3 className={styles.fakeLink}>{n.Fakes}</h3> : null}
+          {n.Fakes && n.Narrative  ? <h3 className={styles.fakeLink}>{n.Fakes}</h3> : null}
         {/* </Link> */}
         <Media key={i} data={n}/>
       </>

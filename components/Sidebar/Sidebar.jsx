@@ -37,7 +37,7 @@ export default function Sidebar() {
     }
     return c;
   });
-console.log(uniqueNarratives.length)
+
   
   return (
     <>
@@ -49,7 +49,7 @@ console.log(uniqueNarratives.length)
       <div className={styles.sidebar}>
         <ul className={styles.statisticWrap}>
           <li className={styles.statisticListItem}>
-            {'# ' + uniqueNarratives.length }{" "}
+            {'# ' + (uniqueNarratives.length - 1)}{" "}
             <span className={styles.statisticListName}>Narratives</span>
           </li>
           <li className={styles.statisticListItem}>

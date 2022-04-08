@@ -1847,9 +1847,7 @@ export const dataEdited = [
     "Fakes": "",
     "Disinfo_cases_en": "Since the 2014 coup, Ukraine has always been a convenient tool for the West for provoking Russia, which could be kept sharp with military aid. So the same people now made it a bargaining chip in the light of the negotiations with Russia on mutual security guarantees."
   },
-  {
-    "Narrative": " According to him, the United States is using Ukrainian President Zelensky to escalate the situation. However, the main goal of Washington is not the fate of the former Soviet republic, but the escalation of tension around Russia."
-  },
+  
   {
     "Narrative": "",
     "Fakes": "16/01/2022",

@@ -4,6 +4,7 @@ import MediaList from "../MediaList/MediaList";
 import styles from "./Sidebar.module.css";
 
 import { dataEdited } from "../../data/dataSample";
+import { dataUkr } from "../../data/dataUkr";
 import { black_list_germany } from '../../data/black_list_germany'
 import { black_list_italy } from '../../data/black_list_italy'
 
@@ -15,7 +16,7 @@ export default function Sidebar() {
   const [naratives, setNaratives] = useState(false);
 
   const uniqueNarratives = [];
-  dataEdited.map((c) => {
+  dataUkr.map((c) => {
     if (!uniqueNarratives.includes(c.Narrative)) {
       uniqueNarratives.push(c.Narrative);
     }
@@ -23,7 +24,7 @@ export default function Sidebar() {
   });
 
   const uniqueFakes = [];
-  dataEdited.map((c) => {
+  dataUkr.map((c) => {
     if (!uniqueFakes.includes(c.Fakes)) {
       uniqueFakes.push(c.Fakes);
     }
@@ -31,7 +32,7 @@ export default function Sidebar() {
   });
 
   const uniqueMedias = [];
-  dataEdited.map((c) => {
+  dataUkr.map((c) => {
     if (!uniqueMedias.includes(c.Media)) {
       uniqueMedias.push(c.Media);
     }

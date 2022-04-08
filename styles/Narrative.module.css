@@ -1,6 +1,9 @@
 .container {
   padding: 1.6rem;
 }
+.boldFont {
+  font-weight: 700;
+}
 
 .fakeItemWrap > td {
   padding: 0.6rem 1.2rem 0.6rem 0.6rem;

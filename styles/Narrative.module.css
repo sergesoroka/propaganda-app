@@ -54,16 +54,17 @@
   margin: 2rem 0;
 }
 .fakeLink {
-  border-bottom: 1px solid rgb(233, 233, 233);
-  padding: 1rem 0;
+  /* border-bottom: 1px solid rgb(233, 233, 233); */
+  padding: 1.4rem 0;
   font-weight: 400;
   font-size: 1.2rem;
-  margin: 2rem 0 0 0;
+  margin: 1rem 0 0 0;
+  cursor: pointer;
 }
 
-/* .fakeLink:hover {
-  background-color: beige;
-} */
+.fakeLink:hover {
+  color:#056a1f;
+}
 
 .fakeWord {
   font-weight: 600;

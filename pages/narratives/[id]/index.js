@@ -11,6 +11,8 @@ import { useRouter } from "next/router";
 export default function NarrativeItem() {
   const router = useRouter();
   const { id } = router.query;
+  const data = router.query;
+  console.log('DATA', data)
 
   const fake = dataUkr.map((n, i) => {
     return <Media key={i} data={n} />;

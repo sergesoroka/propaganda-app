@@ -3,14 +3,12 @@ import Link from "next/link";
 import FakeItem from "./FakeItem/FakeItem";
 import styles from "./FakeList.module.css";
 
-import { dataUkr } from "../../data/dataUkr";
-import { dataEdited } from "../../data/dataSample";
-
-export default function FakeList() {
-  const narrative = dataUkr.map((n, i) => (
-    <Link key={i} href={`/narratives/${n.Narrative}`}>
+export default function FakeList({data}) {
+  console.log('Fake List', data)
+  const narrative = data.map((n, i) => (
+    <Link key={i} href={{pathname: `/narratives/${n.Narrative}`, query: n}}>
       <a>
-        <FakeItem data={dataUkr} narrative={n.Narrative} />
+        <FakeItem data={data} narrative={n.Narrative} />
       </a>
     </Link>
   ));

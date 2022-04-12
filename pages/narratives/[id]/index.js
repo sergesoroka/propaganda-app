@@ -3,7 +3,7 @@ import Link from "next/link";
 import { BsArrowLeft } from "react-icons/bs";
 
 import Media from "../../../components/Media/Media";
-import { dataUkr } from "../../../data/dataUkr";
+import { dataEng } from "../../../data/dataEng";
 
 import styles from "../../../styles/Narrative.module.css";
 import { useRouter } from "next/router";
@@ -11,12 +11,30 @@ import { useRouter } from "next/router";
 export default function NarrativeItem() {
   const router = useRouter();
   const { id } = router.query;
-  const data = router.query;
-  console.log('DATA', data)
+  
+  const unique = [
+    ...new Set(
+      dataEng.map((item) => {
+        if (item.Narrative == id) {
+          return item.Fakes;
+        }
+      })
+    ),
+  ];
 
-  const fake = dataUkr.map((n, i) => {
-    return <Media key={i} data={n} />;
-  });
+//   const media = 
+//       dataEng.map((item) => {
+//         if (item.Narrative == id) {
+//           return item;
+//         }
+//       }
+//     )
+  
+// console.log(media)
+
+  const listOfFakes = unique.map((fake, i) => (
+    <Media key={i} fake={fake} narrative={id}/>
+  ));
 
   return (
     <div className={styles.container}>
@@ -32,7 +50,7 @@ export default function NarrativeItem() {
       </div>
       <h2 className={styles.fakeHeading}># {id} </h2>
 
-      {fake}
+      {listOfFakes}
     </div>
   );
 }

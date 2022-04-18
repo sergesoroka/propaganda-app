@@ -15,6 +15,8 @@ export default function Sidebar() {
   const [blackList, setBlackList] = useState(true);
   const [naratives, setNaratives] = useState(false);
 
+  console.log(module)
+
   const uniqueNarratives = [];
   dataUkr.map((c) => {
     if (!uniqueNarratives.includes(c.Narrative)) {

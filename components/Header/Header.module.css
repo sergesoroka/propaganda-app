@@ -56,8 +56,20 @@
 
 
 @media (max-width: 600px) {
-  Ї .mainMenuListItem,
+  .mainMenuListItem,
   .mainMenuListItem:hover {
     margin-left: 0 !important;
+  }
+  .mainMenuListItem {
+    font-weight: 600;
+    list-style: none;
+    margin-left: .6rem !important;
+    text-transform: uppercase;
+    opacity: 0.46;
+    cursor: pointer;
+    font-size: .7rem;
+  }
+  .activeLink {
+    font-size: .7rem;
   }
 }

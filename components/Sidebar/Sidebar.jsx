@@ -1,21 +1,12 @@
 import { useState } from "react";
 import Link from "next/link";
-import MediaList from "../MediaList/MediaList";
 import styles from "./Sidebar.module.css";
-
-import { dataEdited } from "../../data/dataSample";
 import { dataUkr } from "../../data/dataUkr";
-import { black_list_germany } from '../../data/black_list_germany'
-import { black_list_italy } from '../../data/black_list_italy'
-
 
 export default function Sidebar() {
   const [diary, setDiary] = useState(false);
   const [whiteList, setWhiteList] = useState(false);
-  const [blackList, setBlackList] = useState(true);
   const [naratives, setNaratives] = useState(false);
-
-  console.log(module)
 
   const uniqueNarratives = [];
   dataUkr.map((c) => {
@@ -41,7 +32,6 @@ export default function Sidebar() {
     return c;
   });
 
-  
   return (
     <>
       <h1 className={styles.projectName}>
@@ -52,15 +42,15 @@ export default function Sidebar() {
       <div className={styles.sidebar}>
         <ul className={styles.statisticWrap}>
           <li className={styles.statisticListItem}>
-            {'# ' + (uniqueNarratives.length - 1)}{" "}
+            {"# " + (uniqueNarratives.length - 1)}{" "}
             <span className={styles.statisticListName}>Narratives</span>
           </li>
           <li className={styles.statisticListItem}>
-            {'# ' + uniqueFakes.length }{" "}
+            {"# " + uniqueFakes.length}{" "}
             <span className={styles.statisticListName}>Fakes</span>
           </li>
           <li className={styles.statisticListItem}>
-            {'# ' + uniqueMedias.length }{" "}
+            {"# " + uniqueMedias.length}{" "}
             <span className={styles.statisticListName}>Sources</span>
           </li>
         </ul>
@@ -99,22 +89,11 @@ export default function Sidebar() {
           ) : null}
         </div>
         <div className={styles.sidebarItem}>
-          <h3
-            className={
-              blackList ? styles.sidebarTitlesActive : styles.sidebarTitles
-            }
-            onClick={() => setBlackList(!blackList)}
-          >
-            # Black List
+          <h3 className={styles.sidebarTitles}>
+            <Link href="/blacklist">
+              <a># Black List</a>
+            </Link>
           </h3>
-          {blackList ? (
-            <>
-            <h4 className={styles.countryMedia}>GERMANY</h4>
-            <MediaList data={black_list_germany} />
-            <h4 className={styles.countryMedia}>ITALY</h4>
-            <MediaList data={black_list_italy} />
-            </>
-          ) : null}
         </div>
         <div className={styles.sidebarItem}>
           <h3

@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { v4 as uuidv4 } from "uuid";
 import styles from "../../styles/Narrative.module.css";
 
 import { dataEng } from "../../data/dataEng";
@@ -11,13 +12,13 @@ export default function Media({ fake, narrative }) {
       return (
         <>
           {item.Debunking && toggle ? (
-            <p>
+            <p key={uuidv4()}>
               <span className={styles.boldFont}>Debunking: </span>
               {item.Debunking}
             </p>
           ) : null}
           {toggle ? (
-            <div style={{ display: "flex", marginTop: ".4rem" }}>
+            <div key={uuidv4()} style={{ display: "flex", marginTop: ".4rem" }}>
               <div className={styles.country}>{item.Countries}</div>
               <div className={styles.media}>
                 <a target="_blank" rel="noreferrer" href={item.Link}>

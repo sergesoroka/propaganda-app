@@ -72,21 +72,11 @@ export default function Sidebar() {
           ) : null}
         </div>
         <div className={styles.sidebarItem}>
-          <h3
-            className={
-              whiteList ? styles.sidebarTitlesActive : styles.sidebarTitles
-            }
-            onClick={() => setWhiteList(!whiteList)}
-          >
-            # White List
+          <h3 className={styles.sidebarTitles}>
+            <Link href="/whitelist">
+              <a># White List</a>
+            </Link>
           </h3>
-          {whiteList ? (
-            <ul className={styles.list}>
-              <li className={styles.listItem}>BBC</li>
-              <li className={styles.listItem}>New Yorker</li>
-              <li className={styles.listItem}>24 News</li>
-            </ul>
-          ) : null}
         </div>
         <div className={styles.sidebarItem}>
           <h3 className={styles.sidebarTitles}>

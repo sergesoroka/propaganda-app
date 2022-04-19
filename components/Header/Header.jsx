@@ -24,7 +24,7 @@ export default function Header() {
           </li>
           <li
             className={
-              router.pathname == "/de"  || pathname == "/de/about"
+              router.pathname == "/de" || pathname == "/de/about"
                 ? styles.activeLink
                 : styles.mainMenuListItem
             }
@@ -46,7 +46,7 @@ export default function Header() {
           </li>
           <li
             className={
-              router.pathname == "/ru"  || pathname == "/ru/about"
+              router.pathname == "/ru" || pathname == "/ru/about"
                 ? styles.activeLink
                 : styles.mainMenuListItem
             }
@@ -57,7 +57,7 @@ export default function Header() {
           </li>
           <li
             className={
-              router.pathname == "/uk"  || pathname == "/uk/about"
+              router.pathname == "/uk" || pathname == "/uk/about"
                 ? styles.activeLink
                 : styles.mainMenuListItem
             }
@@ -92,14 +92,14 @@ export default function Header() {
             pathname === "/uk/about" ? (
               <a># About</a>
             ) : (
-              <Link href={`${pathname}/about`} passHref>
+              <Link href={`${pathname}about`} passHref>
                 <a># About</a>
               </Link>
             )}
           </li>
           <li className={styles.mainMenuListItem}>
-            {pathname == `${pathname}/how` ? (
-              <Link href={`${pathname}/how`} passHref>
+            {pathname == `${pathname}how` ? (
+              <Link href={`${pathname}how`} passHref>
                 <a># How</a>
               </Link>
             ) : (
@@ -107,12 +107,12 @@ export default function Header() {
             )}
           </li>
           <li className={styles.mainMenuListItem}>
-            <Link href={`${pathname}/addfake`} passHref>
+            <Link href={`${pathname}addfake`} passHref>
               <a># Add Fake</a>
             </Link>
           </li>
           <li className={styles.mainMenuListItem}>
-            <Link href={`${pathname}/download`} passHref>
+            <Link href={`${pathname}download`} passHref>
               <a># Download</a>
             </Link>
           </li>

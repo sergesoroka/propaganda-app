@@ -4,7 +4,7 @@
 
 .main {
   min-height: 100vh;
-  display: flex; 
+  display: flex;
 }
 
 .footer {
@@ -33,7 +33,6 @@
 .title a:active {
   text-decoration: underline;
 }
-
 
 .title {
   margin: 0;
@@ -108,7 +107,7 @@
   position: fixed;
   left: 0;
   top: 0;
-} 
+}
 .contentArea {
   margin-left: 260px;
   width: 100%;
@@ -118,10 +117,17 @@
   font-weight: 400;
 }
 .aboutPageWrap a {
-  color: #dd0000 ;
+  color: #dd0000;
   font-weight: 400;
-
 }
+.statisticMobile {
+  display: none;
+}
+
+.statisticMobile ul li {
+  text-align: left;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
@@ -133,6 +139,24 @@
   .contentArea {
     margin-left: 0;
   }
-  
-}
 
+  .statisticWrap,
+  .statisticMobile {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+  }
+  .statisticMobile ul {
+    margin-bottom: 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  .statisticMobile ul li {
+    text-align: center;
+    font-size: 1rem;
+    font-size: 1.2rem;
+    margin: 0 0.6rem;
+    color: #056a1f;
+  }
+}

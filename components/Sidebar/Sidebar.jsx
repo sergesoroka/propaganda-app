@@ -1,36 +1,25 @@
 import { useState } from "react";
 import Link from "next/link";
+import { useRouter } from "next/router";
+
+import Statistic from "../Statistic/Statistic";
 import styles from "./Sidebar.module.css";
-import { dataUkr } from "../../data/dataUkr";
+
+import {
+  uniqueNarrativesUKR,
+  uniqueFakesUKR,
+  uniqueMediasUKR,
+  uniqueNarrativesENG,
+  uniqueFakesENG,
+  uniqueMediasENG,
+} from "../../utils/statisticCalculate";
 
 export default function Sidebar() {
   const [diary, setDiary] = useState(false);
-  const [whiteList, setWhiteList] = useState(false);
   const [naratives, setNaratives] = useState(false);
 
-  const uniqueNarratives = [];
-  dataUkr.map((c) => {
-    if (!uniqueNarratives.includes(c.Narrative)) {
-      uniqueNarratives.push(c.Narrative);
-    }
-    return c;
-  });
-
-  const uniqueFakes = [];
-  dataUkr.map((c) => {
-    if (!uniqueFakes.includes(c.Fakes)) {
-      uniqueFakes.push(c.Fakes);
-    }
-    return c;
-  });
-
-  const uniqueMedias = [];
-  dataUkr.map((c) => {
-    if (!uniqueMedias.includes(c.Media)) {
-      uniqueMedias.push(c.Media);
-    }
-    return c;
-  });
+  const router = useRouter();
+  const { pathname } = router;
 
   return (
     <>
@@ -40,20 +29,19 @@ export default function Sidebar() {
         </Link>
       </h1>
       <div className={styles.sidebar}>
-        <ul className={styles.statisticWrap}>
-          <li className={styles.statisticListItem}>
-            {"# " + (uniqueNarratives.length - 1)}{" "}
-            <span className={styles.statisticListName}>Narratives</span>
-          </li>
-          <li className={styles.statisticListItem}>
-            {"# " + uniqueFakes.length}{" "}
-            <span className={styles.statisticListName}>Fakes</span>
-          </li>
-          <li className={styles.statisticListItem}>
-            {"# " + uniqueMedias.length}{" "}
-            <span className={styles.statisticListName}>Sources</span>
-          </li>
-        </ul>
+        {pathname == "/uk" ? (
+          <Statistic
+            uniqueNarratives={uniqueNarrativesUKR}
+            uniqueFakes={uniqueFakesUKR}
+            uniqueMedias={uniqueMediasUKR}
+          />
+        ) : null}
+        {pathname !== "/uk" ? (
+        <Statistic
+          uniqueNarratives={uniqueNarrativesENG}
+          uniqueFakes={uniqueFakesENG}
+          uniqueMedias={uniqueMediasENG}
+        /> ) : null}
         <div className={styles.sidebarItem}>
           <h3
             className={

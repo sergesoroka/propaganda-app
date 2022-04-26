@@ -118,6 +118,18 @@ export default function Header() {
           </li>
         </ul>
       </div>
+      <ul className={styles.listMenu}>
+        <li className={styles.mainMenuListItem}>
+          <Link href={`${pathname}blacklist`} passHref>
+            <a># Black List</a>
+          </Link>
+        </li>
+        <li className={styles.mainMenuListItem}>
+          <Link href={`${pathname}whitelist`} passHref>
+            <a># White List</a>
+          </Link>
+        </li>
+      </ul>
     </div>
   );
 }

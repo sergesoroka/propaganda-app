@@ -40,3 +40,10 @@
 .fakeHeading:hover {
     background-color: #034e16;
 }
+
+@media (max-width: 600px) {
+    .fakeHeading {
+     font-size: .8rem;
+     padding: 0.4rem;
+    }
+}

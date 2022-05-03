@@ -67,6 +67,7 @@
   .mainMenuListItem,
   .mainMenuListItem:hover {
     margin-left: 0 !important;
+    font-size: .6rem !important;
   }
   .mainMenuListItem {
     font-weight: 600;
@@ -75,10 +76,10 @@
     text-transform: uppercase;
     opacity: 0.46;
     cursor: pointer;
-    font-size: .7rem;
+    font-size: .6rem !important;
   }
   .activeLink {
-    font-size: .7rem;
+    font-size: .6rem;
   }
 
   .listMenu {

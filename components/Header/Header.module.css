@@ -14,7 +14,7 @@
 .langMenu {
   display: flex;
   justify-content: flex-end;
-  margin: 0.5rem 1rem;
+  margin: 0.5rem 1rem 0.3rem 1.5rem;
   font-size: 0.9rem;
 }
 .mainMenuList {
@@ -57,6 +57,12 @@
 .listMenu {
   display: none;
 }
+
+.logoMobile {
+  display: none;
+}
+
+
 @media (max-width: 600px) {
   .mainMenuListItem,
   .mainMenuListItem:hover {
@@ -79,5 +85,14 @@
     display: flex;
     justify-content: flex-end;
     margin-right: 1rem;
+  }
+  .logoMobile {
+    display: inline;
+    color: #056a1f;
+    font-weight: 600;
+    margin: 0;
+  }
+  .langMenu {
+    justify-content: space-between;
   }
 }

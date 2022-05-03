@@ -10,6 +10,7 @@ export default function Header() {
   return (
     <div className={styles.headerWrap}>
       <div className={styles.langMenu}>
+        <p className={styles.logoMobile}>PROPAGANDA DIARY</p>
         <ul className={styles.mainMenuList}>
           <li
             className={
@@ -120,12 +121,12 @@ export default function Header() {
       </div>
       <ul className={styles.listMenu}>
         <li className={styles.mainMenuListItem}>
-          <Link href={`${pathname}blacklist`} passHref>
+          <Link href={`/blacklist`} passHref>
             <a># Black List</a>
           </Link>
         </li>
         <li className={styles.mainMenuListItem}>
-          <Link href={`${pathname}whitelist`} passHref>
+          <Link href={`/whitelist`} passHref>
             <a># White List</a>
           </Link>
         </li>

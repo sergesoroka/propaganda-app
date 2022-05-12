@@ -2,10 +2,10 @@ import Head from "next/head";
 import Link from "next/link";
 import { BsArrowLeft } from "react-icons/bs";
 
-import Media from "../../../components/Media/Media";
-import { dataEng } from "../../../data/dataEng";
+import Media from "../../../../components/Media/Media";
+import { dataUkr } from "../../../../data/dataUkr";
 
-import styles from "../../../styles/Narrative.module.css";
+import styles from "../../../../styles/Narrative.module.css";
 import { useRouter } from "next/router";
 
 export default function NarrativeItem() {
@@ -14,7 +14,7 @@ export default function NarrativeItem() {
 
   const unique = [
     ...new Set(
-      dataEng.map((item) => {
+      dataUkr.map((item) => {
         if (item.Narrative == id) {
           return item.Fakes;
         }
@@ -32,14 +32,13 @@ export default function NarrativeItem() {
         <title>Propaganda Diary | {id}</title>
       </Head>
       <div className={styles.fakeItemArrow}>
-        <Link href="/">
+        <Link href="/uk">
           <a style={{ justifyContent: "flex-end" }}>
             <BsArrowLeft />
           </a>
         </Link>
       </div>
       <h2 className={styles.fakeHeading}># {id} </h2>
-
       {listOfFakes}
     </div>
   );

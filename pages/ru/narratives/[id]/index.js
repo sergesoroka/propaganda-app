@@ -3,7 +3,7 @@ import Link from "next/link";
 import { BsArrowLeft } from "react-icons/bs";
 
 import Media from "../../../../components/Media/Media";
-import { dataUkr } from "../../../../data/dataUkr";
+import { dataRu } from "../../../../data/dataRu";
 
 import styles from "../../../../styles/Narrative.module.css";
 import { useRouter } from "next/router";
@@ -14,7 +14,7 @@ export default function NarrativeItem() {
 
   const unique = [
     ...new Set(
-      dataUkr.map((item) => {
+      dataRu.map((item) => {
         if (item.Narrative == id) {
           return item.Fakes;
         }
@@ -23,7 +23,7 @@ export default function NarrativeItem() {
   ];
 
   const listOfFakes = unique.map((fake, i) => (
-    <Media key={i} fake={fake} narrative={id} data={dataUkr}/>
+    <Media key={i} fake={fake} narrative={id} data={dataRu}/>
  
   ));
 

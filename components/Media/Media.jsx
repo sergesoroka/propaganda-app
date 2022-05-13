@@ -1,16 +1,23 @@
 import { useState } from "react";
-import { v4 as uuidv4 } from "uuid";
 import styles from "../../styles/Narrative.module.css";
 
 export default function Media({ fake, narrative, data }) {
   const [toggle, setToggle] = useState(false);
 
-  const unique = [...new Set(data.map((item) => item))];
-  const debunkingItem = unique.map((item, i) => {
+  // const uniqueDebunking = [];
+  // data.map((c) => {
+  //   if (!uniqueDebunking.includes(c.Debunking)) {
+  //     uniqueDebunking.push(c.Debunking);
+  //   }
+  //   return c;
+  // });
+
+  const debunkingItem = data.map((item, i) => {
+    
     if (item.Fakes == fake) {
       return (
-        <div key={i}>
-          <span dangerouslySetInnerHTML={{ __html: item.Debunking_eng }}></span>
+        <div key={i} className={styles.Debunking}>
+          <span dangerouslySetInnerHTML={{ __html:  item.Debunking }}></span>
         </div>
       );
     }

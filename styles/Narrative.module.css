@@ -98,7 +98,9 @@
 .debunkingHeading {
   margin: 0 0 .4rem 0;
 }
-
+.Debunking a {
+  color: #dd0000 !important;
+}
 .country, .media, .date {
   margin: 0 2rem 0 0;
   font-size: .8rem;

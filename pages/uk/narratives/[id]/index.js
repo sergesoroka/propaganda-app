@@ -23,7 +23,8 @@ export default function NarrativeItem() {
   ];
 
   const listOfFakes = unique.map((fake, i) => (
-    <Media key={i} fake={fake} narrative={id} />
+    // <Media key={i} fake={fake} narrative={id} />
+    <></>
   ));
 
   return (

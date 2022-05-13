@@ -2,23 +2,26 @@ import { useState } from "react";
 import { v4 as uuidv4 } from "uuid";
 import styles from "../../styles/Narrative.module.css";
 
-import { dataEng } from "../../data/dataEng";
-
-export default function Media({ fake, narrative }) {
+export default function Media({ fake, narrative, data }) {
   const [toggle, setToggle] = useState(false);
 
-  const renderMedia = dataEng.map((item, i) => {
+  const unique = [...new Set(data.map((item) => item))];
+  const debunkingItem = unique.map((item, i) => {
+    if (item.Fakes == fake) {
+      return (
+        <div key={i}>
+          <span dangerouslySetInnerHTML={{ __html: item.Debunking_eng }}></span>
+        </div>
+      );
+    }
+  });
+
+  const renderMedia = data.map((item, i) => {
     if (narrative == item.Narrative && fake == item.Fakes) {
       return (
-        <>
-          {item.Debunking && toggle ? (
-            <p key={uuidv4()}>
-              <span className={styles.boldFont}>Debunking: </span>
-              {item.Debunking}
-            </p>
-          ) : null}
+        <div key={i} style={{ display: "flex", marginTop: ".4rem" }}>
           {toggle ? (
-            <div key={uuidv4()} style={{ display: "flex", marginTop: ".4rem" }}>
+            <>
               <div className={styles.country}>{item.Countries}</div>
               <div className={styles.media}>
                 <a target="_blank" rel="noreferrer" href={item.Link}>
@@ -26,9 +29,9 @@ export default function Media({ fake, narrative }) {
                 </a>
               </div>
               <div className={styles.date}>{item.Date}</div>
-            </div>
-          ) : null}{" "}
-        </>
+            </>
+          ) : null}
+        </div>
       );
     }
   });
@@ -39,7 +42,18 @@ export default function Media({ fake, narrative }) {
           {fake}
         </h3>
       ) : null}
-      {toggle ? renderMedia : null}
+
+      {toggle ? (
+        <>
+          <span className={styles.boldFont}>Debunking: </span> {debunkingItem}
+        </>
+      ) : null}
+
+      {toggle ? (
+        <>
+          <span className={styles.boldFont}>Media: </span> {renderMedia}
+        </>
+      ) : null}
     </>
   );
 }

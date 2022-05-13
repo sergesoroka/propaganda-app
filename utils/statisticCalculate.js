@@ -23,7 +23,7 @@ dataEng.map((c) => {
     uniqueMediasUKR.push(c.Media);
   }
   return c;
-});
+}); 
 
 export const uniqueNarrativesENG = [];
 dataEng.map((c) => {

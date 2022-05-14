@@ -14,7 +14,9 @@ export default function Header() {
         <ul className={styles.mainMenuList}>
           <li
             className={
-              pathname == "/it" || pathname == "/it/about"
+              pathname == "/it" ||
+              pathname == "/it/about" ||
+              pathname == "/it/narratives/[id]"
                 ? styles.activeLink
                 : styles.mainMenuListItem
             }
@@ -25,7 +27,9 @@ export default function Header() {
           </li>
           <li
             className={
-              router.pathname == "/de" || pathname == "/de/about"
+              router.pathname == "/de" ||
+              pathname == "/de/about" ||
+              pathname == "/de/narratives/[id]"
                 ? styles.activeLink
                 : styles.mainMenuListItem
             }
@@ -47,7 +51,9 @@ export default function Header() {
           </li>
           <li
             className={
-              router.pathname == "/ru" || pathname == "/ru/about"
+              router.pathname == "/ru" ||
+              pathname == "/ru/about" ||
+              pathname == "/ru/narratives/[id]"
                 ? styles.activeLink
                 : styles.mainMenuListItem
             }
@@ -58,7 +64,9 @@ export default function Header() {
           </li>
           <li
             className={
-              router.pathname == "/uk" || pathname == "/uk/about"
+              router.pathname == "/uk" ||
+              pathname == "/uk/about" ||
+              pathname == "/uk/narratives/[id]"
                 ? styles.activeLink
                 : styles.mainMenuListItem
             }
@@ -93,7 +101,21 @@ export default function Header() {
             pathname === "/uk/about" ? (
               <a># About</a>
             ) : (
-              <Link href={`${pathname}about`} passHref>
+              //access = firstCheck ? "Доступ запрещён" : secondCheck ? "Доступ запрещён" : "Доступ разрешён";
+              <Link
+                href={
+                  pathname === "/it"
+                    ? "/it/about"
+                    : pathname === "/de"
+                    ? "/de/about"
+                    : pathname === "/uk"
+                    ? "/uk/about"
+                    : pathname === "/ru"
+                    ? "/ru/about"
+                    : "/"
+                }
+                passHref
+              >
                 <a># About</a>
               </Link>
             )}

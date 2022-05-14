@@ -24,7 +24,7 @@ export default function Sidebar() {
   return (
     <>
       <h1 className={styles.projectName}>
-        <Link href="/">
+        <Link href='/'>
           <a>Propaganda Diary</a>
         </Link>
       </h1>
@@ -37,11 +37,12 @@ export default function Sidebar() {
           />
         ) : null}
         {pathname !== "/uk" ? (
-        <Statistic
-          uniqueNarratives={uniqueNarrativesENG}
-          uniqueFakes={uniqueFakesENG}
-          uniqueMedias={uniqueMediasENG}
-        /> ) : null}
+          <Statistic
+            uniqueNarratives={uniqueNarrativesENG}
+            uniqueFakes={uniqueFakesENG}
+            uniqueMedias={uniqueMediasENG}
+          />
+        ) : null}
         <div className={styles.sidebarItem}>
           <h3
             className={

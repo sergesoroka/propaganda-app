@@ -4,13 +4,6 @@ import styles from "../../styles/Narrative.module.css";
 export default function Media({ fake, narrative, data }) {
   const [toggle, setToggle] = useState(false);
 
-  // const uniqueDebunking = [];
-  // data.map((c) => {
-  //   if (!uniqueDebunking.includes(c.Debunking)) {
-  //     uniqueDebunking.push(c.Debunking);
-  //   }
-  //   return c;
-  // });
 
   const debunkingItem = data.map((item, i) => {
     

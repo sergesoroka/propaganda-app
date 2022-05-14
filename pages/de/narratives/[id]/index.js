@@ -32,7 +32,7 @@ export default function NarrativeItem() {
         <title>Propaganda Diary | {id}</title>
       </Head>
       <div className={styles.fakeItemArrow}>
-        <Link href="/ru">
+        <Link href="/de">
           <a style={{ justifyContent: "flex-end" }}>
             <BsArrowLeft />
           </a>

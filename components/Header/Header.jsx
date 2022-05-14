@@ -101,7 +101,7 @@ export default function Header() {
             pathname === "/uk/about" ? (
               <a># About</a>
             ) : (
-              //access = firstCheck ? "Доступ запрещён" : secondCheck ? "Доступ запрещён" : "Доступ разрешён";
+            
               <Link
                 href={
                   pathname === "/it"

@@ -4,16 +4,21 @@ import styles from "../../styles/Narrative.module.css";
 export default function Media({ fake, narrative, data }) {
   const [toggle, setToggle] = useState(false);
 
+  // const companyWorkers = users.filter((i) => i.company === "IBM");
 
-  const debunkingItem = data.map((item, i) => {
-    
-    if (item.Fakes == fake) {
-      return (
-        <div key={i} className={styles.Debunking}>
-          <span dangerouslySetInnerHTML={{ __html:  item.Debunking }}></span>
-        </div>
-      );
-    }
+  // const result = [...new Set(companyWorkers.map((i) => i.skill))];
+
+  const fakeFiltered = data.filter((item) => item.Fakes == fake);
+  const debunkigsUnique = [
+    ...new Set(fakeFiltered.map((item) => item.Debunking)),
+  ];
+
+  const debunkingItem = debunkigsUnique.map((item, i) => {
+    return (
+      <div key={i} className={styles.Debunking}>
+        <span dangerouslySetInnerHTML={{ __html: item }}></span>
+      </div>
+    );
   });
 
   const renderMedia = data.map((item, i) => {

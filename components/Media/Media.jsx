@@ -4,10 +4,6 @@ import styles from "../../styles/Narrative.module.css";
 export default function Media({ fake, narrative, data }) {
   const [toggle, setToggle] = useState(false);
 
-  // const companyWorkers = users.filter((i) => i.company === "IBM");
-
-  // const result = [...new Set(companyWorkers.map((i) => i.skill))];
-
   const fakeFiltered = data.filter((item) => item.Fakes == fake);
   const debunkigsUnique = [
     ...new Set(fakeFiltered.map((item) => item.Debunking)),

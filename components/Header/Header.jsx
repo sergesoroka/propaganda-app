@@ -7,6 +7,7 @@ export default function Header() {
   const router = useRouter();
   const { pathname } = router;
 
+  console.log(pathname);
   return (
     <div className={styles.headerWrap}>
       <div className={styles.langMenu}>
@@ -21,7 +22,17 @@ export default function Header() {
                 : styles.mainMenuListItem
             }
           >
-            <Link href="/it">
+            <Link href={
+                pathname === "/de/about"
+                  ? "/it/about"
+                  : pathname === "/ru/about"
+                  ? "/it/about"
+                  : pathname === "/uk/about"
+                  ? "/it/about"
+                  : pathname === "/about"
+                  ? "/it/about"
+                  : "/it"
+              }>
               <a>IT</a>
             </Link>
           </li>
@@ -34,7 +45,19 @@ export default function Header() {
                 : styles.mainMenuListItem
             }
           >
-            <Link href="/de">
+            <Link
+              href={
+                pathname === "/it/about"
+                  ? "/de/about"
+                  : pathname === "/ru/about"
+                  ? "/de/about"
+                  : pathname === "/uk/about"
+                  ? "/de/about"
+                  : pathname === "/about"
+                  ? "/de/about"
+                  : "/de"
+              }
+            >
               <a>DE</a>
             </Link>
           </li>
@@ -45,7 +68,17 @@ export default function Header() {
                 : styles.mainMenuListItem
             }
           >
-            <Link href="/">
+            <Link href={
+                pathname === "/it/about"
+                  ? "/about"
+                  : pathname === "/ru/about"
+                  ? "/about"
+                  : pathname === "/uk/about"
+                  ? "/about"
+                  : pathname === "/de/about"
+                  ? "/about"
+                  : "/"
+              }>
               <a>ENG</a>
             </Link>
           </li>
@@ -58,7 +91,17 @@ export default function Header() {
                 : styles.mainMenuListItem
             }
           >
-            <Link href="/ru">
+            <Link href={
+                pathname === "/it/about"
+                  ? "/de/about"
+                  : pathname === "/de/about"
+                  ? "/de/about"
+                  : pathname === "/uk/about"
+                  ? "/de/about"
+                  : pathname === "/about"
+                  ? "/de/about"
+                  : "/ru"
+              }>
               <a>RU</a>
             </Link>
           </li>
@@ -71,7 +114,17 @@ export default function Header() {
                 : styles.mainMenuListItem
             }
           >
-            <Link href="/uk">
+            <Link href={
+                pathname === "/it/about"
+                  ? "/uk/about"
+                  : pathname === "/ru/about"
+                  ? "/uk/about"
+                  : pathname === "/de/about"
+                  ? "/uk/about"
+                  : pathname === "/about"
+                  ? "/uk/about"
+                  : "/uk"
+              }>
               <a>UKR</a>
             </Link>
           </li>
@@ -101,7 +154,6 @@ export default function Header() {
             pathname === "/uk/about" ? (
               <a># About</a>
             ) : (
-            
               <Link
                 href={
                   pathname === "/it"
@@ -112,7 +164,9 @@ export default function Header() {
                     ? "/uk/about"
                     : pathname === "/ru"
                     ? "/ru/about"
-                    : "/"
+                    : pathname === "/"
+                    ? "/about"
+                    : ""
                 }
                 passHref
               >

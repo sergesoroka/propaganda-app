@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/router";
+import Image from "next/image";
 
 import Statistic from "../Statistic/Statistic";
 import styles from "./Sidebar.module.css";
@@ -14,6 +15,8 @@ import {
   uniqueMediasENG,
 } from "../../utils/statisticCalculate";
 
+
+
 export default function Sidebar() {
   const [diary, setDiary] = useState(false);
   const [naratives, setNaratives] = useState(false);
@@ -25,7 +28,8 @@ export default function Sidebar() {
     <>
       <h1 className={styles.projectName}>
         <Link href='/'>
-          <a>Propaganda Diary</a>
+          <a><Image src='/logo.svg' alt='logo' width='200' height='43'/></a>
+          
         </Link>
       </h1>
       <div className={styles.sidebar}>
@@ -43,7 +47,7 @@ export default function Sidebar() {
             uniqueMedias={uniqueMediasENG}
           />
         ) : null}
-        <div className={styles.sidebarItem}>
+        {/* <div className={styles.sidebarItem}>
           <h3
             className={
               diary ? styles.sidebarTitlesActive : styles.sidebarTitles
@@ -59,7 +63,7 @@ export default function Sidebar() {
               <li className={styles.listItem}>Report24 News</li>
             </ul>
           ) : null}
-        </div>
+        </div> */}
         <div className={styles.sidebarItem}>
           <h3 className={styles.sidebarTitles}>
             <Link href="/whitelist">
@@ -74,7 +78,7 @@ export default function Sidebar() {
             </Link>
           </h3>
         </div>
-        <div className={styles.sidebarItem}>
+        {/* <div className={styles.sidebarItem}>
           <h3
             className={
               naratives ? styles.sidebarTitlesActive : styles.sidebarTitles
@@ -94,7 +98,7 @@ export default function Sidebar() {
               </li>
             </ul>
           ) : null}
-        </div>
+        </div> */}
       </div>
     </>
   );

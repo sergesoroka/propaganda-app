@@ -1,5 +1,6 @@
 .container {
   padding: 1.6rem;
+  height: 100%;
 }
 .boldFont {
   font-weight: 700;

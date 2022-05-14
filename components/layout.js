@@ -1,6 +1,7 @@
 import Header from "./Header/Header";
 import Statistic from "./Statistic/Statistic";
 import Sidebar from "./Sidebar/Sidebar";
+import Footer from "./Footer/Footer";
 
 import {
   uniqueNarrativesUKR,
@@ -16,14 +17,13 @@ import styles from "../styles/Home.module.css";
 export default function Layout({ children }) {
   return (
     <main className={styles.main}>
-      
       <div className={styles.sidebar}>
         <Sidebar />
       </div>
       <div className={styles.contentArea}>
         <Header />
         <div className={styles.statisticMobile}>
-        <Statistic
+          <Statistic
             uniqueNarratives={uniqueNarrativesUKR}
             uniqueFakes={uniqueFakesUKR}
             uniqueMedias={uniqueMediasUKR}
@@ -31,7 +31,9 @@ export default function Layout({ children }) {
         </div>
 
         {children}
+        <Footer />
       </div>
+     
     </main>
   );
 }

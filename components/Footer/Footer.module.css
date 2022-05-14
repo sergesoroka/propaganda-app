@@ -1,0 +1,31 @@
+.footerWrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid #056A1F;
+  padding: 0 26px;
+}
+
+.footerText {
+  font-size: .86rem;
+  color: #056A1F;
+}
+
+.footerTextBold {
+  font-weight: 600;
+}
+
+.socialWrap {
+  display: flex;
+  justify-content: space-around;
+  width: 160px;
+  margin: 0 1rem;
+}
+
+.socialWrap>a>svg {
+  fill: #056A1F;
+}
+
+.socialWrap>a>svg:hover {
+  fill:#025317
+}

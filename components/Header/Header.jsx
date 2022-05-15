@@ -132,8 +132,8 @@ export default function Header() {
         </ul>
       </div>
       <div className={styles.mainMenu}>
-        <ul className={styles.mainMenuList}>
         <p className={styles.logoMobile}><Image  src='/logo.svg' alt='logoMobile' width='117' height='25'/></p>
+        <ul className={styles.mainMenuList}>
           {/* <li className={styles.mainMenuListItem}>
             <Link href="/">
               <a># Fakes</a>

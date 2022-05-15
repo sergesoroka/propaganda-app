@@ -68,7 +68,7 @@
 justify-content: space-around;
   } 
   .mainMenuList {
-    padding-left: 0.26rem !important;
+    padding-left: 0 !important;
   }
   .mainMenuListItem,
   .mainMenuListItem:hover {

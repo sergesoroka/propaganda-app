@@ -217,8 +217,8 @@ export default function How() {
             <span className="c13">
               There are also subtypes of disinformation narratives. These
               subtypes specify the general narrative. For example, “The U.S.
-              organized coup d'état in Ukraine in 2014” is a subtype of the
-              narrative “Maidan in 2014 was a coup d'état”.
+              organized coup d&apos;état in Ukraine in 2014” is a subtype of the
+              narrative “Maidan in 2014 was a coup d&apos;état”.
             </span>
           </p>
           <p className="c4">
@@ -364,7 +364,7 @@ export default function How() {
               detail so that readers can reproduce our work, except when the
               personal security of the source may be compromised. In such cases,
               we provide the most detailed information. The quality of
-              fact-checking is ensured by the project's editorial board.{" "}
+              fact-checking is ensured by the project&apos;s editorial board.{" "}
             </span>
           </p>
           <p className="c4">
@@ -890,7 +890,7 @@ export default function How() {
                     <span className="c12">
                       The National Bank of Ukraine is a government body
                       responsible for unified state policy in the field of
-                      country's monetary circulation, including strengthening of
+                      country&apos;s monetary circulation, including strengthening of
                       the national currency unit. Its mission is to ensure price
                       and financial stability, with the goal of contributing to
                       Ukraine’s sustainable economic development.
@@ -1152,7 +1152,7 @@ export default function How() {
                       The Ministry of Social Policy of Ukraine is the Ukrainian
                       government department responsible for instituting labor
                       relations, family and children, immigration and
-                      trafficking, women's rights, children's rights, and
+                      trafficking, women&apos;s rights, children&apos;s rights, and
                       humanitarian aid.
                     </span>
                   </p>
@@ -1531,7 +1531,7 @@ export default function How() {
                     <span className="c12">
                       The Ministry of Culture and Information Policy is the main
                       state authority in the system of central government of
-                      Ukraine responsible for country's cultural development and
+                      Ukraine responsible for country&apos;s cultural development and
                       history preservation.
                     </span>
                   </p>
@@ -1823,14 +1823,14 @@ export default function How() {
                 <td className="c9" colspan="1" rowspan="1">
                   <p className="c3 c6">
                     <span className="c12">
-                      Specialized Anti-Corruption Prosecutor's Office
+                      Specialized Anti-Corruption Prosecutor&apos;s Office
                     </span>
                   </p>
                 </td>
                 <td className="c2" colspan="1" rowspan="1">
                   <p className="c3">
                     <span className="c12">
-                      The Specialized Anti-Corruption Prosecutor's Offic is an
+                      The Specialized Anti-Corruption Prosecutor&apos;s Offic is an
                       independent structural unit of the General Prosecutor of
                       Ukraine, and is primarily responsible for supporting and
                       overseeing criminal investigations launched by the

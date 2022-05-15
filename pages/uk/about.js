@@ -61,7 +61,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/rashyzm-abo-chomu-rosiyany-novi-natsysty/&amp;sa=D&amp;source=editors&amp;ust=1652630915866123&amp;usg=AOvVaw2r3cpIzOmEQchVn2K6NVnF"
+                  href="https://voxukraine.org/rashyzm-abo-chomu-rosiyany-novi-natsysty/"
                 >
                   Рашизм, або чому росіяни - нові нацисти{" "}
                 </a>
@@ -71,7 +71,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/oglyad-provokatsij-ta-dezinformatsiyi-rf/&amp;sa=D&amp;source=editors&amp;ust=1652630915866555&amp;usg=AOvVaw3XPSXFjwTRy9wA6iwg2XqC"
+                  href="https://voxukraine.org/oglyad-provokatsij-ta-dezinformatsiyi-rf/"
                 >
                   Огляд провокацій та дезінформації РФ{" "}
                 </a>
@@ -81,7 +81,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/faq-on-the-russian-war-in-ukraine-what-are-we-fighting-for/&amp;sa=D&amp;source=editors&amp;ust=1652630915866995&amp;usg=AOvVaw2anbLk2RRsa9nyXDlSNVtR"
+                  href="https://voxukraine.org/en/faq-on-the-russian-war-in-ukraine-what-are-we-fighting-for/"
                 >
                   FAQ про російсько-українську війну: за що ми боремося?{" "}
                 </a>
@@ -91,7 +91,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/p-yat-prorahunkiv-blits-krygu-putina-v-ukrayini/&amp;sa=D&amp;source=editors&amp;ust=1652630915867228&amp;usg=AOvVaw0aFX9smog3UPdOqpg1pjt3"
+                  href="https://voxukraine.org/p-yat-prorahunkiv-blits-krygu-putina-v-ukrayini/"
                 >
                   П’ять провалів бліцкригу Путіна в Україні{" "}
                 </a>
@@ -101,7 +101,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/try-rosijski-mify-vid-yakyh-treba-pozbutysya-negajno/&amp;sa=D&amp;source=editors&amp;ust=1652630915867455&amp;usg=AOvVaw1vlpB_28JcQNJgvuZae1DV"
+                  href="https://voxukraine.org/try-rosijski-mify-vid-yakyh-treba-pozbutysya-negajno/"
                 >
                   Три російські міфи, від яких треба позбутися негайно
                 </a>
@@ -111,7 +111,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/najkrashha-makroekonomichna-polityka-dlya-rosiyi/&amp;sa=D&amp;source=editors&amp;ust=1652630915867818&amp;usg=AOvVaw1Qtuv6vQCwAMRb6Txx91HI"
+                  href="https://voxukraine.org/najkrashha-makroekonomichna-polityka-dlya-rosiyi/"
                 >
                   Найкраща макроекономічна політика для Росії{" "}
                 </a>
@@ -121,7 +121,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/chym-my-ukrayintsi-vidriznyayemosya-vid-rosiyan-pragnennya-do-svobody-liberalnoyi-demokratiyi-ta-inklyuzyvnogo-suspilstva-yak-osnovni-markery-ukrayinsko-rosijskogo-rozryvu/&amp;sa=D&amp;source=editors&amp;ust=1652630915868254&amp;usg=AOvVaw0d2_Uxk8iqBE9MuIxquvG-"
+                  href="https://voxukraine.org/chym-my-ukrayintsi-vidriznyayemosya-vid-rosiyan-pragnennya-do-svobody-liberalnoyi-demokratiyi-ta-inklyuzyvnogo-suspilstva-yak-osnovni-markery-ukrayinsko-rosijskogo-rozryvu/"
                 >
                   Чим ми, УКРАЇНЦІ, відрізняємося від росіян? Прагнення до
                   свободи, ліберальної демократії та інклюзивного суспільства як
@@ -133,7 +133,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/gaazkyj-trybunal-za-shho-i-yak-sudytymut-rosiyu-poyasnyuye-voxcheck/&amp;sa=D&amp;source=editors&amp;ust=1652630915868755&amp;usg=AOvVaw0WVpR64kBvyiVQAz3fIYKj"
+                  href="https://voxukraine.org/gaazkyj-trybunal-za-shho-i-yak-sudytymut-rosiyu-poyasnyuye-voxcheck/"
                 >
                   Гаазький трибунал. За що і як судитимуть росію? Пояснює
                   VoxCheck
@@ -144,7 +144,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/zhenevski-konventsiyi-yak-yih-porushuye-rosiya-a-zvynuvachuye-v-tsomu-ukrayinu/&amp;sa=D&amp;source=editors&amp;ust=1652630915869166&amp;usg=AOvVaw2lTP2xim7jnNSWR9AzFxep"
+                  href="https://voxukraine.org/zhenevski-konventsiyi-yak-yih-porushuye-rosiya-a-zvynuvachuye-v-tsomu-ukrayinu/"
                 >
                   Женевські конвенції: як їх порушує росія, а звинувачує в цьому
                   Україну? Пояснює VoxCheck
@@ -155,7 +155,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/demokratiya-pid-bombamy/&amp;sa=D&amp;source=editors&amp;ust=1652630915869388&amp;usg=AOvVaw1qkQWaxvkjytiWpzT7K7kU"
+                  href="https://voxukraine.org/demokratiya-pid-bombamy/"
                 >
                   Демократія під бомбами
                 </a>
@@ -165,7 +165,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/tse-ne-putin-tse-rosiya/&amp;sa=D&amp;source=editors&amp;ust=1652630915869758&amp;usg=AOvVaw2tOmAndy3Zf7wsPnXhUp2A"
+                  href="https://voxukraine.org/tse-ne-putin-tse-rosiya/"
                 >
                   Це не Путін, це Росія{" "}
                 </a>
@@ -175,7 +175,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/sanktsiyi-na-rosijsku-naftu-budut-bolyuchymy-dlya-rosiyi-ale-ne-nadto-bolyuchymy-dlya-yes/&amp;sa=D&amp;source=editors&amp;ust=1652630915870020&amp;usg=AOvVaw1GZguTj3B9FMyZ9MAPMh3a"
+                  href="https://voxukraine.org/sanktsiyi-na-rosijsku-naftu-budut-bolyuchymy-dlya-rosiyi-ale-ne-nadto-bolyuchymy-dlya-yes/"
                 >
                   Санкції на російську нафту будуть болючими для Росії, але не
                   надто болючими – для ЄС
@@ -186,7 +186,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/finansovi-ta-ekonomichni-sanktsiyi-koly-bude-dostatno/&amp;sa=D&amp;source=editors&amp;ust=1652630915870258&amp;usg=AOvVaw3ucJf5hqQB9AM7Uuz2qqSl"
+                  href="https://voxukraine.org/finansovi-ta-ekonomichni-sanktsiyi-koly-bude-dostatno/"
                 >
                   Фінансові та економічні санкції: коли буде достатньо?
                 </a>
@@ -196,7 +196,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/zupynit-rosijski-koruptsijni-groshi/&amp;sa=D&amp;source=editors&amp;ust=1652630915870636&amp;usg=AOvVaw0ds4FwycjHCY0Wo_eVBbf7"
+                  href="https://voxukraine.org/zupynit-rosijski-koruptsijni-groshi/"
                 >
                   Зупиніть російські корупційні гроші
                 </a>
@@ -206,7 +206,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/bezpolotna-zona-nad-ukrayinoyu-ne-potrebuye-rezolyutsiyi-nato-chy-rady-bezpeky-oon-neobhidno-spivpratsyuvaty-ta-ne-dopustyty-shhob-zlo-znyshhylo-nashu-planetu/&amp;sa=D&amp;source=editors&amp;ust=1652630915871110&amp;usg=AOvVaw2m-WRZ1rMuv0Qlx3YlHceI"
+                  href="https://voxukraine.org/bezpolotna-zona-nad-ukrayinoyu-ne-potrebuye-rezolyutsiyi-nato-chy-rady-bezpeky-oon-neobhidno-spivpratsyuvaty-ta-ne-dopustyty-shhob-zlo-znyshhylo-nashu-planetu/"
                 >
                   Безпольотна зона над Україною не потребує резолюції НАТО чи
                   Ради Безпеки ООН: необхідно співпрацювати та не допустити, щоб
@@ -218,7 +218,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/moralne-bankrutstvo-kupivli-rosijskyh-energonosiyiv/&amp;sa=D&amp;source=editors&amp;ust=1652630915871690&amp;usg=AOvVaw2ULxIhfjEhNWw-hgvLWHLQ"
+                  href="https://voxukraine.org/moralne-bankrutstvo-kupivli-rosijskyh-energonosiyiv/&amp;sa=D&amp;source=editors&amp;ust=1652630915871690&amp;usg=AOvVaw2ULxIhfjEhNWw-hgvLWHLQ"
                 >
                   Моральне банкрутство купівлі російських енергоносіїв
                 </a>
@@ -228,7 +228,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/tsina-myru-bez-reformovanoyi-rosiyi-dlya-svitu-milyardy-shhorichno-vprodovzh-bagatoh-pokolin/&amp;sa=D&amp;source=editors&amp;ust=1652630915872036&amp;usg=AOvVaw1jeia3CKVXdiNGm_FqYaSf"
+                  href="https://voxukraine.org/tsina-myru-bez-reformovanoyi-rosiyi-dlya-svitu-milyardy-shhorichno-vprodovzh-bagatoh-pokolin/"
                 >
                   Ціна «миру» без реформованої Росії для світу – мільярди
                   щорічно впродовж багатьох поколінь
@@ -239,7 +239,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/zhorstka-pravda-pro-jmovirni-naslidky-napadu-rosiyi-na-ukrayinu/&amp;sa=D&amp;source=editors&amp;ust=1652630915872309&amp;usg=AOvVaw035BmYAaj7ow35fqFk0c0L"
+                  href="https://voxukraine.org/zhorstka-pravda-pro-jmovirni-naslidky-napadu-rosiyi-na-ukrayinu/"
                 >
                   Жорстка правда про ймовірні наслідки нападу Росії на Україну{" "}
                 </a>
@@ -249,7 +249,7 @@ export default function AboutUkr() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/shho-bude-z-peremozhenoyu-rosijskoyu-imperiyeyu/&amp;sa=D&amp;source=editors&amp;ust=1652630915872704&amp;usg=AOvVaw0osbHWBr1HRdN3MqsGU9ua"
+                  href="https://voxukraine.org/shho-bude-z-peremozhenoyu-rosijskoyu-imperiyeyu/"
                 >
                   Що буде з переможеною російською імперією?
                 </a>

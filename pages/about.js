@@ -10,7 +10,7 @@ export default function About() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className={styles.container + " " + styles.aboutPageWrap}>
-        <body className="c9">
+      <body className="c9">
           {/* <h2 className="c10" id="h.gbabkuuanz0">
             <span className="c11">Eng, It, De </span>
           </h2> */}
@@ -63,7 +63,7 @@ export default function About() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/rashism-or-why-russians-are-the-new-nazi/&amp;sa=D&amp;source=editors&amp;ust=1652630915860952&amp;usg=AOvVaw3McBqhMHJDqJh8BO4eILWl"
+                  href="https://voxukraine.org/en/rashism-or-why-russians-are-the-new-nazi/"
                 >
                   Rashism or why russians are the new Nazi
                 </a>
@@ -73,7 +73,7 @@ export default function About() {
               <span className="c1">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/provocation-and-disinformation-overview/&amp;sa=D&amp;source=editors&amp;ust=1652630915861328&amp;usg=AOvVaw0tZR3rTlRIEfzlOpv31dm5"
+                  href="https://voxukraine.org/en/provocation-and-disinformation-overview/"
                 >
                   UPDATED. Provocation and Disinformation Overview
                 </a>
@@ -83,7 +83,7 @@ export default function About() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/faq-on-the-russian-war-in-ukraine-what-are-we-fighting-for/&amp;sa=D&amp;source=editors&amp;ust=1652630915861536&amp;usg=AOvVaw3wbR7rlpE64yxSaJUHfg62"
+                  href="https://voxukraine.org/en/faq-on-the-russian-war-in-ukraine-what-are-we-fighting-for/"
                 >
                   FAQ on the Russian war in Ukraine: what are we fighting for?
                 </a>
@@ -93,7 +93,7 @@ export default function About() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/five-failures-of-putin-s-blitzkrieg-in-ukraine/&amp;sa=D&amp;source=editors&amp;ust=1652630915861774&amp;usg=AOvVaw2MVC-18zZM0t1LrNTW5mHv"
+                  href="https://voxukraine.org/en/five-failures-of-putin-s-blitzkrieg-in-ukraine/"
                 >
                   Five failures of putin’s blitzkrieg in Ukraine
                 </a>
@@ -103,7 +103,7 @@ export default function About() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/three-russian-myths-that-you-should-abandon-right-away/&amp;sa=D&amp;source=editors&amp;ust=1652630915861999&amp;usg=AOvVaw0tn4XRBouJ-3CFfT_ukyDx"
+                  href="https://voxukraine.org/en/three-russian-myths-that-you-should-abandon-right-away/"
                 >
                   Three Russian myths that you should abandon right away
                 </a>
@@ -113,7 +113,7 @@ export default function About() {
               <span className="c1">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/the-best-macroeconomic-policy-for-russia/&amp;sa=D&amp;source=editors&amp;ust=1652630915862380&amp;usg=AOvVaw3FcIz1d50Ts7tMCLNb8PDL"
+                  href="https://voxukraine.org/en/the-best-macroeconomic-policy-for-russia/"
                 >
                   The best macroeconomic policy for Russia
                 </a>
@@ -123,7 +123,7 @@ export default function About() {
               <span className="c1">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/what-makes-us-ukrainians-different-from-russians-aspirations-for-freedom-liberal-democracy-and-inclusive-society-as-the-primary-markers-for-the-ukrainian-russian-divide/&amp;sa=D&amp;source=editors&amp;ust=1652630915862664&amp;usg=AOvVaw0tQILk3j8rK7mA82XIN2b9"
+                  href="https://voxukraine.org/en/what-makes-us-ukrainians-different-from-russians-aspirations-for-freedom-liberal-democracy-and-inclusive-society-as-the-primary-markers-for-the-ukrainian-russian-divide/"
                 >
                   What makes us, Ukrainians, different from Russians?
                   Aspirations for freedom, liberal democracy, and inclusive
@@ -136,7 +136,7 @@ export default function About() {
               <span className="c1">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/the-hague-tribunal-what-will-russia-be-tried-for-and-how-voxcheck-explains/&amp;sa=D&amp;source=editors&amp;ust=1652630915862891&amp;usg=AOvVaw3ZSJ8p7dVrIFAWYINdyVET"
+                  href="https://voxukraine.org/en/the-hague-tribunal-what-will-russia-be-tried-for-and-how-voxcheck-explains/"
                 >
                   The Hague Tribunal: What will russia be tried for and how?
                   VoxCheck explains
@@ -147,7 +147,7 @@ export default function About() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/the-geneva-conventions-how-russia-breaches-them-and-blames-ukraine-for-it-voxcheck-explains/&amp;sa=D&amp;source=editors&amp;ust=1652630915863120&amp;usg=AOvVaw3FAf0TQ1h05HBYKZCcN1Xi"
+                  href="https://voxukraine.org/en/the-geneva-conventions-how-russia-breaches-them-and-blames-ukraine-for-it-voxcheck-explains/&amp;sa=D&amp;source=editors&amp;ust=1652630915863120&amp;usg=AOvVaw3FAf0TQ1h05HBYKZCcN1Xi"
                 >
                   The Geneva Conventions: How Russia breaches them and blames
                   Ukraine for it. VoxCheck explains
@@ -158,7 +158,7 @@ export default function About() {
               <span className="c1">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/democracy-under-the-bombs/&amp;sa=D&amp;source=editors&amp;ust=1652630915863347&amp;usg=AOvVaw3VGFdZ9_A4aAJjNcjua_S8"
+                  href="https://voxukraine.org/en/democracy-under-the-bombs/"
                 >
                   Democracy under the bombs
                 </a>
@@ -168,7 +168,7 @@ export default function About() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/it-s-not-putin-it-s-russia/&amp;sa=D&amp;source=editors&amp;ust=1652630915863579&amp;usg=AOvVaw16aPwqjuBpIs72okBwgdLe"
+                  href="https://voxukraine.org/en/it-s-not-putin-it-s-russia/"
                 >
                   It’s not Putin, it’s Russia
                 </a>
@@ -178,7 +178,7 @@ export default function About() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/sanctions-on-russian-oil-have-a-bite/&amp;sa=D&amp;source=editors&amp;ust=1652630915863795&amp;usg=AOvVaw3lzz_mPx8CPXI5uVsEbPRZ"
+                  href="https://voxukraine.org/en/sanctions-on-russian-oil-have-a-bite/"
                 >
                   Sanctions on Russian oil have a bite
                 </a>
@@ -188,7 +188,7 @@ export default function About() {
               <span className="c1">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/financial-and-economic-sanctions-when-enough-is-enough/&amp;sa=D&amp;source=editors&amp;ust=1652630915864030&amp;usg=AOvVaw3Ny_fUmyl1is_N5xTHFvtv"
+                  href="https://voxukraine.org/en/financial-and-economic-sanctions-when-enough-is-enough/"
                 >
                   Financial and economic sanctions: When enough is enough?
                 </a>
@@ -198,7 +198,7 @@ export default function About() {
               <span className="c1">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/stop-the-corruption-of-russian-money/&amp;sa=D&amp;source=editors&amp;ust=1652630915864227&amp;usg=AOvVaw1R3m37I6EsM9Cn70xfR6X0"
+                  href="https://voxukraine.org/en/stop-the-corruption-of-russian-money/"
                 >
                   Stop the corruption of Russian money
                 </a>
@@ -208,7 +208,7 @@ export default function About() {
               <span className="c1">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/ukraine-s-no-fly-zone-does-not-require-nato-nor-a-un-security-council-resolution-it-needs-good-to-cooperate-prevent-evil-from-destroying-our-planet/&amp;sa=D&amp;source=editors&amp;ust=1652630915864496&amp;usg=AOvVaw0ZQavluSMgyDfWuIFe7Yrw"
+                  href="https://voxukraine.org/en/ukraine-s-no-fly-zone-does-not-require-nato-nor-a-un-security-council-resolution-it-needs-good-to-cooperate-prevent-evil-from-destroying-our-planet/"
                 >
                   Ukraine’s no-fly zone does not require NATO nor a UN Security
                   Council Resolution: it needs good to cooperate &amp; prevent
@@ -220,7 +220,7 @@ export default function About() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/the-moral-bankruptcy-of-buying-russian-energy/&amp;sa=D&amp;source=editors&amp;ust=1652630915864690&amp;usg=AOvVaw1eORjLUziLZ50eHZxZJvmn"
+                  href="https://voxukraine.org/en/the-moral-bankruptcy-of-buying-russian-energy/"
                 >
                   The Moral Bankruptcy of Buying Russian Energy
                 </a>
@@ -230,7 +230,7 @@ export default function About() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/the-cost-of-peace-without-a-reformed-russia-will-weigh-on-the-world-for-generations/&amp;sa=D&amp;source=editors&amp;ust=1652630915864936&amp;usg=AOvVaw0UKk8mpFIo3zd8t9EH1XVS"
+                  href="https://voxukraine.org/en/the-cost-of-peace-without-a-reformed-russia-will-weigh-on-the-world-for-generations/"
                 >
                   The Cost of “Peace” without a reformed Russia will weigh on
                   the world for generations
@@ -241,7 +241,7 @@ export default function About() {
               <span className="c1">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/hard-truths-about-likely-outcomes-of-russia-s-attack-on-ukraine/&amp;sa=D&amp;source=editors&amp;ust=1652630915865184&amp;usg=AOvVaw2aJw5tJP4ztI6J8rDmudTk"
+                  href="https://voxukraine.org/en/hard-truths-about-likely-outcomes-of-russia-s-attack-on-ukraine/"
                 >
                   Hard truths about likely outcomes of Russia’s attack on
                   Ukraine
@@ -252,7 +252,7 @@ export default function About() {
               <span className="c3">
                 <a
                   className="c2"
-                  href="https://www.google.com/url?q=https://voxukraine.org/en/what-will-happen-to-a-defeated-russian-empire/&amp;sa=D&amp;source=editors&amp;ust=1652630915865375&amp;usg=AOvVaw1oR2cX2kMGe96q0qE36qBV"
+                  href="https://voxukraine.org/en/what-will-happen-to-a-defeated-russian-empire/"
                 >
                   What will happen to a defeated russian empire?
                 </a>
@@ -262,8 +262,6 @@ export default function About() {
           <p className="c7">
             <span className="c4"></span>
           </p>
-          
-          
         </body>
       </div>
     </div>

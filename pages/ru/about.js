@@ -10,11 +10,257 @@ export default function AboutRu() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className={styles.container + ' ' + styles.aboutPageWrap}>
-        <body className="c12">
-        <p className="c8"><span className="c1">В основе проекта по исследованию дезинформации об Украине в немецких и итальянских СМИ лежит методология. Вот наши правила и методы.</span></p><p className="c4"><span className="c1"></span></p>
-        <h2 className="c8"><span className="c3">Белые и черные списки СМИ</span></h2>
-        
-        <p className="c8"><span className="c11">Во-</span><span className="c1">первых, для формирования базы данных по дезинформации необходимо было определить ключевые СМИ в соответствующих странах и отличить заслуживающие доверия источники от сомнительных. Таким образом, мы создали белые и черные списки СМИ в Германии и Италии. </span></p><p className="c4"><span className="c1"></span></p><p className="c8"><span className="c1">СМИ в белом списке – это качественные СМИ, предоставляющие достоверную информацию о внешней и внутренней политике Украины. Напротив, источники из черного списка регулярно распространяют фейки об Украине.</span></p><p className="c4"><span className="c1"></span></p><p className="c8"><span className="c1">Чтобы различать источники и создавать эти списки, мы использовали следующие критерии:</span></p><p className="c4"><span className="c1"></span></p><ul className="c6 lst-kix_f6a3t5dc9e1v-0 start"><li className="c0 li-bullet-0"><span className="c5">Содержание</span><span className="c1">. Все СМИ, как в белом, так и в черном списке, регулярно сообщают новости и публикуют аналитические статьи о политике, международных отношениях, Украине в частности.</span></li><li className="c0 li-bullet-0"><span className="c5">Профессиональные стандарты</span><span className="c1">. Качественные СМИ из белого списка должны соответствовать журналистским стандартам: полнота и беспристрастность освещения новостей; объективность и эмоциональная нейтральность; баланс мнений; доступность и надежность источников информации; разделение фактов и комментариев. СМИ из черного списка постоянно пренебрегают этими стандартами, рассказывая об Украине.</span></li><li className="c0 li-bullet-0"><span className="c5">Собственность и прозрачность</span><span className="c1">. СМИ должны публично сообщать о своем владельце, финансировании и возможном конфликте интересов. Например, некоторые итальянские и немецкие СМИ напрямую связаны с российскими государственными информационными агентствами. Таким образом, такие СМИ, скорее всего, будут распространять дезинформацию об Украине.</span></li><li className="c0 li-bullet-0"><span className="c5">Результаты мониторинга СМИ от Media Bias/Fact Check</span><span className="c11">. Мы выбрали некоторые СМИ в соответствии с ресурсом </span><span className="c2"><a className="c7" href="https://www.google.com/url?q=https://mediabiasfactcheck.com/&amp;sa=D&amp;source=editors&amp;ust=1648822603717268&amp;usg=AOvVaw2PwRRqrV42QirD4Vj2WwTv">Media Bias/Fact Check</a></span><span className="c1">, независимым веб-сайтом, который оценивает предвзятость, фактическую точность и достоверность источников. По данным этого ресурса, выбранные СМИ в черном списке имеют очень низкий или смешанный уровень фактического освещения. СМИ в белом списке оцениваются как наименее предвзятые источники и имеют высокий уровень фактического освещения.</span></li><li className="c0 li-bullet-0"><span className="c5">Результаты мониторинга СМИ от EUvsDisinfo</span><span className="c11">. Кроме того, мы использовали базы данных EUvsDisinfo по </span><span className="c2"><a className="c7" href="https://www.google.com/url?q=https://euvsdisinfo.eu/disinformation-cases/?text%3D%26date%3D%26disinfo_language%255B%255D%3DGerman%26disinfo_countries%255B%255D%3D77554%26per_page%3D&amp;sa=D&amp;source=editors&amp;ust=1648822603717782&amp;usg=AOvVaw3CuTDJm-2ALIIXJ60nyRc8">Германии</a></span><span className="c11">&nbsp;и </span><span className="c2"><a className="c7" href="https://www.google.com/url?q=https://euvsdisinfo.eu/disinformation-cases/?text%3D%26date%3D%26disinfo_language%255B%255D%3DItalian%26disinfo_countries%255B%255D%3D77582%26per_page%3D&amp;sa=D&amp;source=editors&amp;ust=1648822603718059&amp;usg=AOvVaw3lI-sgLP4oPgBFDDICIJA5">Италии</a></span><span className="c11">, а также случаи распространения фейков, зафиксированные немецкими и итальянскими фактчекерами, подписавшими Кодекс принципов IFCN. </span><span className="c2"><a className="c7" href="https://www.google.com/url?q=https://euvsdisinfo.eu/about/&amp;sa=D&amp;source=editors&amp;ust=1648822603718286&amp;usg=AOvVaw36XYAxi040gh0GVh902bYF">EUvsDisinfo</a></span><span className="c1">&nbsp;— это проект рабочей группы East StratCom Task Force Европейской службы внешних действий. Он был создан специально для мониторинга и противодействия российским дезинформационным кампаниям в Европе.</span></li><li className="c0 li-bullet-0"><span className="c5">Результаты нашего медиа-мониторинга. </span><span className="c1">При выборе СМИ для мониторинга мы ориентировались на качество освещения Украины. Источники, ранее публиковавшие российскую дезинформацию, были добавлены в черный список.</span></li><li className="c0 li-bullet-0"><span className="c5">Консультации с немецкими и итальянскими фактчекерами и журналистами. </span><span className="c1">Мы также обратились за советом к коллегам, работающим в Германии и Италии. Представители различных организаций посоветовали нам обратить внимание на некоторые СМИ, которые ранее распространяли фейковые новости.</span></li></ul><p className="c4"><span className="c1"></span></p><p className="c8"><span className="c3">Дезинформационные нарративы</span></p><p className="c4"><span className="c1"></span></p><p className="c8"><span className="c1">База данных состоит из сотен манипулятивных новостных сообщений из немецких и итальянских СМИ. Чтобы классифицировать этот набор данных, мы разделили новостные сообщения на опасные и дестабилизирующие нарративы российской дезинформационной кампании.</span></p><p className="c4"><span className="c1"></span></p><p className="c8"><span className="c1">Различные новостные сообщения являются примерами единого дезинформационного повествования, когда они передают одно и то же сообщение, прямое или скрытое, с целью повлиять на общественное мнение в соответствующих странах путем искажения картины реальности. Все нарративы в базе данных являются типичными посланиями российской дезинформационной кампании против Украины. Например, «Украина продолжает наращивание военной мощи на Донбассе» и «Украина нарушает режим прекращения огня» могут быть яркими примерами нарратива «Украина не выполняет обязательства по Минским соглашениям», так как имеют одинаковый смысл и цель с точки зрения дезинформации.</span></p><p className="c4"><span className="c1"></span></p><p className="c8"><span className="c1">Существуют также подтипы дезинформационных нарративов. Эти подтипы определяют общее повествование. Например, «США организовали государственный переворот в Украине в 2014 году» является подтипом нарратива «Майдан 2014 года был государственным переворотом».</span></p><p className="c4"><span className="c1"></span></p><p className="c8"><span className="c1">Однако зачастую невозможно установить точные мотивы авторов, участвовавших в распространении фейковых новостей. Поэтому мы не можем утверждать, что все эти авторы и СМИ намеренно распространяют дезинформацию об Украине. В то же время нарративы в этих СМИ аналогичны или почти идентичны нарративам, распространяемым официальными лицами Российской Федерации.</span></p><p className="c4"><span className="c1"></span></p><p className="c8"><span className="c3">Виды дезинформации</span></p><p className="c4"><span className="c1"></span></p><p className="c8"><span className="c1">Дезинформация – это ложная или вводящая в заблуждение информация, распространяемая с целью повлиять на общественное мнение и/или скрыть правду. Он часто преднамеренно используется как инструмент информационной войны. В случае украинско-российского конфликта дезинформация используется для искажения фактов о внешней и внутренней политике Украины и создания негативного образа Украины в СМИ и международной политике.</span></p><p className="c4"><span className="c1"></span></p><p className="c8"><span className="c1">В ходе оценки немецких и итальянских СМИ из черного списка мы выносим следующие вердикты по каждому дезинформационному материалу:</span></p><p className="c4"><span className="c1"></span></p><ul className="c6 lst-kix_rjlda8yf3zfp-0 start"><li className="c0 li-bullet-0"><span className="c5">Фейк</span><span className="c1">: информация полностью ложная и основана на сомнительных источниках.</span></li><li className="c0 li-bullet-0"><span className="c5">Манипуляция</span><span className="c1">: информация частично правдива, но представлена ​​в искаженном контексте или не полностью. Автор манипуляции пытается донести ложный посыл.</span></li><li className="c0 li-bullet-0"><span className="c5">Теория заговора: </span><span className="c1">информация ложная, но она основана на совершенно не поддающихся проверке утверждениях, то есть на некоторых теориях, объясняющих события результатом тайного заговора.</span></li></ul><p className="c4"><span className="c1"></span></p><p className="c8"><span className="c1">Эти виды дезинформации являются обычными методами российских кампаний против Украины. Среди его дезинформационных нарративов наиболее распространенными темами являются:</span></p><p className="c4"><span className="c1"></span></p><ul className="c6 lst-kix_3j55d85lsur5-0 start"><li className="c0 li-bullet-0"><span className="c1">Евромайдан/Революция Достоинства в Украине;</span></li><li className="c0 li-bullet-0"><span className="c1">аннексия Крыма;</span></li><li className="c0 li-bullet-0"><span className="c1">продолжающаяся украинско-российская война на Донбассе;</span></li><li className="c0 li-bullet-0"><span className="c1">исторические события, особенно связанные с историей украинско-российских отношений;</span></li><li className="c0 li-bullet-0"><span className="c1">отношения Украины с США, НАТО, ЕС и другими партнерами;</span></li><li className="c0 li-bullet-0"><span className="c1">реформы в Украине;</span></li><li className="c0 li-bullet-0"><span className="c1">экономика Украины;</span></li><li className="c0 li-bullet-0"><span className="c1">«нацисты и ультранационалисты» в Украине;</span></li><li className="c0 li-bullet-0"><span className="c1">теории заговора о «внешнем управлении» в Украине, то есть о влиянии Запада на внешнюю и внутреннюю политику Украины.</span></li></ul><p className="c4"><span className="c1"></span></p><p className="c8"><span className="c3">Процесс проверки фактов</span></p><p className="c4"><span className="c1"></span></p><p className="c8"><span className="c1">Авторы VoxCheck придерживаются прозрачной политики при проверке фактов и развенчании российской дезинформации об Украине. В наших статьях мы достаточно подробно предоставляем все источники для ознакомления, чтобы читатели могли воспроизвести нашу работу, за исключением случаев, когда личная безопасность источника может быть скомпрометирована. В таких случаях мы предоставляем максимально подробную информацию. Качество фактчекинга обеспечивает редакция проекта. </span></p><p className="c4"><span className="c1"></span></p><p className="c8"><span className="c11">VoxCheck </span><span className="c2"><a className="c7" href="https://www.google.com/url?q=https://ifcncodeofprinciples.poynter.org/signatories&amp;sa=D&amp;source=editors&amp;ust=1648822603722590&amp;usg=AOvVaw1JrVYEKgTv0-VI9Rgy15y8">, подписавшая</a></span><span className="c11">&nbsp;Кодекс принципов IFCN, соблюдает </span><span className="c2"><a className="c7" href="https://www.google.com/url?q=https://www.ifcncodeofprinciples.poynter.org/know-more/the-commitments-of-the-code-of-principles&amp;sa=D&amp;source=editors&amp;ust=1648822603722928&amp;usg=AOvVaw1X1ZVZq9rW6QJ6xtpW-fTc">обязательства</a></span><span className="c1">:</span></p><p className="c4"><span className="c1"></span></p><ul className="c6 lst-kix_swpaqy9nkgqt-0 start"><li className="c0 li-bullet-0"><span className="c1">беспристрастность и справедливость;</span></li><li className="c0 li-bullet-0"><span className="c1">стандарты и прозрачность источников;</span></li><li className="c0 li-bullet-0"><span className="c1">прозрачность финансирования и организации;</span></li><li className="c0 li-bullet-0"><span className="c1">стандарты и прозрачность методологии;</span></li><li className="c0 li-bullet-0"><span className="c1">политика открытых и честных исправлений.</span></li></ul><p className="c4"><span className="c1"></span></p><p className="c8"><span className="c11">Вы можете найти дополнительную информацию о наших политиках и принципах на нашем </span><span className="c2"><a className="c7" href="https://www.google.com/url?q=https://voxcheck.voxukraine.org/&amp;sa=D&amp;source=editors&amp;ust=1648822603723885&amp;usg=AOvVaw1djMxbuqf6X7oj7DmQ-qUW">официальном сайте</a></span><span className="c1">.</span></p><p className="c4 c10"><span className="c9"></span></p><p className="c13"><span className="c9"></span></p></body>
+      
+          <p className="c7">
+            <span className="c6"></span>
+          </p>
+          <p className="c8">
+            <span className="c4">
+              Российская информационная стратегия использует существующую
+              напряженность, преувеличивая споры и разногласия между людьми и
+              усугубляя народные беспорядки, когда это возможно (например,
+              Россия пыталась усилить социальные беспорядки во время протестов
+              «желтых жилетов» во Франции). Внутренняя напряженность и
+              столкновение подрывают развитые демократии и заставляют эти страны
+              сосредоточиться на своей внутренней повестке, а не пытаться
+              продвигать свои ценности и поддерживать прогресс в развивающихся
+              странах. Это негативно влияет на такие страны, как Украина,
+              которые ищут политическую поддержку со стороны Запада.
+            </span>
+          </p>
+          <p className="c7">
+            <span className="c4"></span>
+          </p>
+          <p className="c8">
+            <span className="c4">
+              Методы, используемые российской пропагандой, хорошо известны –
+              манипуляции (размывание фактов неправильным толкованием),
+              представление лжи как «альтернативных точек зрения» и
+              высокоэмоциональная откровенная ложь, в которую трудно поверить,
+              но легко запомнить. Знание их методов и нарративов может помочь
+              ограничить потребление фейков и других деструктивных заявлений
+              России. Поэтому VoxCheck создал базу российских фейков,
+              дезинформации и пропаганды в двух европейских странах – Италии и
+              Германии.
+            </span>
+          </p>
+          <p className="c7">
+            <span className="c4"></span>
+          </p>
+          <p className="c8">
+            <span className="c4">
+              Также рекомендуем прочитать дополнительную информацию об Украине,
+              российско-украинской войне и российской пропаганде в следующих
+              статьях:
+            </span>
+          </p>
+          <p className="c7">
+            <span className="c6"></span>
+          </p>
+          <ol className="c5 lst-kix_lgpdao1segwj-0 start" start="1">
+            <li className="c0 li-bullet-0">
+              <span className="c3">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/ru/rashyzm-yly-pochemu-rossyyane-novye-natsysty/&amp;sa=D&amp;source=editors&amp;ust=1652630915873556&amp;usg=AOvVaw3Mm4XB0CsIAdQk8QyJ6prz"
+                >
+                  Рашизм, или почему россияне – новые нацисты
+                </a>
+              </span>
+            </li>
+            <li className="c0 li-bullet-0">
+              <span className="c3">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/ru/obzor-provokatsyj-y-dezynformatsyy-rf/&amp;sa=D&amp;source=editors&amp;ust=1652630915873782&amp;usg=AOvVaw3xJGb-bJmKZ6uJ5rIciFNI"
+                >
+                  ОБНОВЛЯЕТСЯ. Обзор провокаций и дезинформации РФ
+                </a>
+              </span>
+            </li>
+            <li className="c0 li-bullet-0">
+              <span className="c3">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/en/faq-on-the-russian-war-in-ukraine-what-are-we-fighting-for/&amp;sa=D&amp;source=editors&amp;ust=1652630915874150&amp;usg=AOvVaw1zK69D2fCSHNnBD48PvYsm"
+                >
+                  FAQ о российско-украинской войне: за что мы боремся?
+                </a>
+              </span>
+            </li>
+            <li className="c0 li-bullet-0">
+              <span className="c3">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/en/five-failures-of-putin-s-blitzkrieg-in-ukraine/&amp;sa=D&amp;source=editors&amp;ust=1652630915874393&amp;usg=AOvVaw3NsD8YGd7_6BMexaZXH_K2"
+                >
+                  5 провалов путинского блицкрига в Украине
+                </a>
+              </span>
+            </li>
+            <li className="c0 li-bullet-0">
+              <span className="c3">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/ru/try-rossyjskyh-myfa-ot-kotoryh-stoyt-yzbavytsya-nemedlenno/&amp;sa=D&amp;source=editors&amp;ust=1652630915874619&amp;usg=AOvVaw0763vOQ9tzE7E7-twmORrW"
+                >
+                  Три российских мифа, от которых стоит избавиться немедленно
+                </a>
+              </span>
+            </li>
+            <li className="c0 li-bullet-0">
+              <span className="c1">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/en/the-best-macroeconomic-policy-for-russia/&amp;sa=D&amp;source=editors&amp;ust=1652630915875051&amp;usg=AOvVaw3IZbym9Q0iAjbo9ruLaOLJ"
+                >
+                  Лучшая макроэкономическая политика для России{" "}
+                </a>
+              </span>
+            </li>
+            <li className="c0 li-bullet-0">
+              <span className="c3">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/chym-my-ukrayintsi-vidriznyayemosya-vid-rosiyan-pragnennya-do-svobody-liberalnoyi-demokratiyi-ta-inklyuzyvnogo-suspilstva-yak-osnovni-markery-ukrayinsko-rosijskogo-rozryvu/&amp;sa=D&amp;source=editors&amp;ust=1652630915875320&amp;usg=AOvVaw3rwY_7eANabD9foINKAL6A"
+                >
+                  Чем мы, украинцы, отличаемся от россиян? Желание свободы,
+                  либеральной демократии и инклюзивного общества как основные
+                  маркеры украинско-российского разрыва.{" "}
+                </a>
+              </span>
+            </li>
+            <li className="c0 li-bullet-0">
+              <span className="c3">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/ru/gaagskyj-trybunal-za-chto-y-kak-budut-sudyt-rossyyu-obyasnyaet-voxcheck/&amp;sa=D&amp;source=editors&amp;ust=1652630915875779&amp;usg=AOvVaw3HR5Z-QeIGHxxMk_HV_Gjn"
+                >
+                  Гаагский трибунал. За что и как будут судить россию? Объясняет
+                  VoxCheck
+                </a>
+              </span>
+            </li>
+            <li className="c0 li-bullet-0">
+              <span className="c3">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/ru/zhenevskye-konventsyy-kak-yh-narushaet-rossyya-a-obvynyaet-v-etom-ukrayne-obyasnyaet-voxcheck/&amp;sa=D&amp;source=editors&amp;ust=1652630915876189&amp;usg=AOvVaw0mlX8TNqkc7YiE22PmEvkg"
+                >
+                  Женевские конвенции: как их нарушает россия, а обвиняет в этом
+                  Украине? Объясняет VoxCheck
+                </a>
+              </span>
+            </li>
+            <li className="c0 li-bullet-0">
+              <span className="c1">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/en/democracy-under-the-bombs/&amp;sa=D&amp;source=editors&amp;ust=1652630915876410&amp;usg=AOvVaw21F3SB4dbuNICsCmjZqkN9"
+                >
+                  Демократия под бомбами{" "}
+                </a>
+              </span>
+            </li>
+            <li className="c0 li-bullet-0">
+              <span className="c3">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/en/it-s-not-putin-it-s-russia/&amp;sa=D&amp;source=editors&amp;ust=1652630915876601&amp;usg=AOvVaw1DHBZIKAm88vOEN3L96KHh"
+                >
+                  Это не Путин, это Россия
+                </a>
+              </span>
+            </li>
+            <li className="c0 li-bullet-0">
+              <span className="c3">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/en/sanctions-on-russian-oil-have-a-bite/&amp;sa=D&amp;source=editors&amp;ust=1652630915876823&amp;usg=AOvVaw1sIpHtWP2n7Qi6ifd5fLvU"
+                >
+                  Санкциии на нефть будут болючими для России, но не достаточно
+                  болючими для ЕС{" "}
+                </a>
+              </span>
+            </li>
+            <li className="c0 li-bullet-0">
+              <span className="c3">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/ru/fynansovye-y-ekonomycheskye-sanktsyy-kogda-budet-dostatochno/&amp;sa=D&amp;source=editors&amp;ust=1652630915877057&amp;usg=AOvVaw1IXb8gH52MBIJ4EEcVXLtM"
+                >
+                  Финансовые и экономические санкции: когда будет достаточно?
+                </a>
+              </span>
+            </li>
+            <li className="c0 li-bullet-0">
+              <span className="c3">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/ru/ostanovyte-russkye-korruptsyonnye-dengy/&amp;sa=D&amp;source=editors&amp;ust=1652630915877407&amp;usg=AOvVaw38YZPhxElEOZEnBGlukOb9"
+                >
+                  Остановите русские коррупционные деньги
+                </a>
+              </span>
+            </li>
+            <li className="c0 li-bullet-0">
+              <span className="c3">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/ru/bespoletnaya-zona-nad-ukraynoj-ne-trebuet-ny-rezolyutsyy-nato-ny-soveta-bezopasnosty-oon-neobhodyma-volya-k-sotrudnychestvu-y-ne-dopustyt-chtoby-zlo-unychtozhylo-nashu-planetu/&amp;sa=D&amp;source=editors&amp;ust=1652630915877845&amp;usg=AOvVaw297yx6_r2MKASpUgacqQMq"
+                >
+                  Бесполетная зона над Украиной не требует ни резолюции НАТО, ни
+                  Совета Безопасности ООН: необходима воля к сотрудничеству и не
+                  допустить, чтобы зло уничтожило нашу планету
+                </a>
+              </span>
+            </li>
+            <li className="c0 li-bullet-0">
+              <span className="c3">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/en/the-moral-bankruptcy-of-buying-russian-energy/&amp;sa=D&amp;source=editors&amp;ust=1652630915878258&amp;usg=AOvVaw2jpZqHzMLGDv7rCXt0RBl9"
+                >
+                  Моральное банкрутство покупки российских энергоносителей{" "}
+                </a>
+              </span>
+            </li>
+            <li className="c0 li-bullet-0">
+              <span className="c3">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/en/the-cost-of-peace-without-a-reformed-russia-will-weigh-on-the-world-for-generations/&amp;sa=D&amp;source=editors&amp;ust=1652630915878501&amp;usg=AOvVaw29IDl-3Dvw2HkiEbEZW9fm"
+                >
+                  Цена мира без реформированной России - будет стоить миллиарды
+                  многим следующим поколениям{" "}
+                </a>
+              </span>
+            </li>
+            <li className="c0 li-bullet-0">
+              <span className="c1">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/en/hard-truths-about-likely-outcomes-of-russia-s-attack-on-ukraine/&amp;sa=D&amp;source=editors&amp;ust=1652630915878737&amp;usg=AOvVaw3PcIFeRgU_x8nfrly-ErWx"
+                >
+                  Жестокая правда о вероятных последствиях нападения России на
+                  Украину{" "}
+                </a>
+              </span>
+            </li>
+            <li className="c0 li-bullet-0">
+              <span className="c3">
+                <a
+                  className="c2"
+                  href="https://www.google.com/url?q=https://voxukraine.org/ru/chto-budet-s-pobezhdennoj-rossyjskoj-ymperyej/&amp;sa=D&amp;source=editors&amp;ust=1652630915878933&amp;usg=AOvVaw1pAZdYSTh4bcuVxtOEfta3"
+                >
+                  Что будет с побежденной российской империей?
+                </a>
+              </span>
+            </li>
+          </ol>
+          <p className="c7">
+            <span className="c6"></span>
+          </p>
     </div>
     </div>
   )

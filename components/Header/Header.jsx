@@ -32,6 +32,15 @@ export default function Header() {
                   ? "/it/about"
                   : pathname === "/about"
                   ? "/it/about"
+                  :
+                  pathname === "/ru/method"
+                  ? "/it/method"
+                  : pathname === "/de/method"
+                  ? "/it/method"
+                  : pathname === "/uk/method"
+                  ? "/it/method"
+                  : pathname === "/method"
+                  ? "/it/method"
                   : "/it"
               }>
               <a>IT</a>
@@ -56,6 +65,15 @@ export default function Header() {
                   ? "/de/about"
                   : pathname === "/about"
                   ? "/de/about"
+                  :
+                  pathname === "/it/method"
+                  ? "/de/method"
+                  : pathname === "/ru/method"
+                  ? "/de/method"
+                  : pathname === "/uk/method"
+                  ? "/de/method"
+                  : pathname === "/method"
+                  ? "/de/method"
                   : "/de"
               }
             >
@@ -78,6 +96,15 @@ export default function Header() {
                   ? "/about"
                   : pathname === "/de/about"
                   ? "/about"
+                  :
+                  pathname === "/it/method"
+                  ? "//method"
+                  : pathname === "/de/method"
+                  ? "//method"
+                  : pathname === "/uk/method"
+                  ? "//method"
+                  : pathname === "/ru/method"
+                  ? "//method"
                   : "/"
               }>
               <a>ENG</a>
@@ -94,13 +121,23 @@ export default function Header() {
           >
             <Link href={
                 pathname === "/it/about"
-                  ? "/de/about"
+                  ? "/ru/about"
                   : pathname === "/de/about"
-                  ? "/de/about"
+                  ? "/ru/about"
                   : pathname === "/uk/about"
-                  ? "/de/about"
+                  ? "/ru/about"
                   : pathname === "/about"
-                  ? "/de/about"
+                  ? "/ru/about"
+
+                  :
+                  pathname === "/it/method"
+                  ? "/ru/method"
+                  : pathname === "/de/method"
+                  ? "/ru/method"
+                  : pathname === "/uk/method"
+                  ? "/ru/method"
+                  : pathname === "/method"
+                  ? "/ru/method"
                   : "/ru"
               }>
               <a>RU</a>
@@ -124,6 +161,15 @@ export default function Header() {
                   ? "/uk/about"
                   : pathname === "/about"
                   ? "/uk/about"
+                  :
+                  pathname === "/it/method"
+                  ? "/uk/method"
+                  : pathname === "/de/method"
+                  ? "/uk/method"
+                  : pathname === "/ru/method"
+                  ? "/uk/method"
+                  : pathname === "/method"
+                  ? "/uk/method"
                   : "/uk"
               }>
               <a>UKR</a>
@@ -134,12 +180,6 @@ export default function Header() {
       <div className={styles.mainMenu}>
         <p className={styles.logoMobile}><Image  src='/logo.svg' alt='logoMobile' width='117' height='25'/></p>
         <ul className={styles.mainMenuList}>
-          {/* <li className={styles.mainMenuListItem}>
-            <Link href="/">
-              <a># Fakes</a>
-            </Link>
-          </li> */}
-
           <li
             className={
               pathname === "/it/about" ||
@@ -176,13 +216,40 @@ export default function Header() {
               </Link>
             )}
           </li>
-          <li className={styles.mainMenuListItem}>
-            {pathname == `${pathname}how` ? (
-              <Link href={`${pathname}how`} passHref>
-                <a># How</a>
-              </Link>
+          <li
+            className={
+              pathname === "/it/method" ||
+              pathname === "/de/method" ||
+              pathname === "/ru/method" ||
+              pathname === "/uk/method"
+                ? styles.activeLinkMain
+                : styles.mainMenuListItem
+            }
+          >
+            {pathname === "/it/method" ||
+            pathname === "/de/method" ||
+            pathname === "/ru/method" ||
+            pathname === "/uk/method" ? (
+              <a># Method</a>
             ) : (
-              "# How "
+              <Link
+                href={
+                  pathname === "/it"
+                    ? "/it/method"
+                    : pathname === "/de"
+                    ? "/de/method"
+                    : pathname === "/uk"
+                    ? "/uk/method"
+                    : pathname === "/ru"
+                    ? "/ru/method"
+                    : pathname === "/"
+                    ? "/method"
+                    : ""
+                }
+                passHref
+              >
+                <a># Method</a>
+              </Link>
             )}
           </li>
           <li className={styles.mainMenuListItem}>

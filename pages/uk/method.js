@@ -583,39 +583,39 @@ export default function HowUkr() {
           <table className="c46">
             <tbody>
               <tr className="c42">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c38 c20">№</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c38 c20">Джерело</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c38 c20">Опис</span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c20 c38">Посилання на сайт UK</span>
                   </p>
                 </td>
               </tr>
               <tr className="c16">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">1</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Державна служба статистики України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Державна служба статистики України (Держстат) є спеціально
@@ -627,7 +627,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -641,17 +641,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c17">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">2</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Офіс Президента України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       В обов’язки ОПУ входить надання адміністративно-правової,
@@ -660,7 +660,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -674,17 +674,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c23">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">3</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Служба Безпеки України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Служба безпеки України є головним органом безпеки України.
@@ -697,7 +697,7 @@ export default function HowUkr() {
                     <span className="c1">&nbsp;</span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -711,19 +711,19 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c30">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">4</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Рада національної безпеки і оборони України
                     </span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Рада національної безпеки і оборони України є координуючим
@@ -732,7 +732,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -746,17 +746,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c23">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">5</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Центр протидії дезінформації</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Центр протидії дезінформації є робочим органом Ради
@@ -767,24 +767,24 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">-</span>
                   </p>
                 </td>
               </tr>
               <tr className="c13">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">6</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Уряд України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Уряд України або Кабінет Міністрів України є вищим органом
@@ -795,7 +795,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -809,17 +809,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c35">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">7</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c5">
                     <span className="c1">Верховна Рада України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Верховна Рада є парламентом України. Є єдиним органом
@@ -828,7 +828,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -842,17 +842,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c16">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">8</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c5">
                     <span className="c1">Державна казначейська служба України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Державна казначейська служба України є центральним органом
@@ -863,7 +863,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -877,17 +877,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c36">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c5">
                     <span className="c1">9</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Державна податкова служба України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Державна податкова служба України є центральним органом
@@ -904,7 +904,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -918,17 +918,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c32">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c5">
                     <span className="c1">10</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Митна служба України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Державна митна служба України є центральним органом
@@ -941,7 +941,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -955,17 +955,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c41">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">11</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Державна прикордонна служба України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c31">
                       Державна прикордонна служба України є правоохоронним
@@ -976,7 +976,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -990,17 +990,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c15">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">12</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Національний банк України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Національний банк України є державним органом,
@@ -1012,7 +1012,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1026,19 +1026,19 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c23">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">13</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство цифрової трансформації України
                     </span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство цифрової трансформації України є державним
@@ -1049,24 +1049,24 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">-</span>
                   </p>
                 </td>
               </tr>
               <tr className="c45">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">14</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Міністерство фінансів України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство фінансів України відповідає за формування та
@@ -1080,7 +1080,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1094,17 +1094,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c36">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">15</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Міністерство оборони України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство оборони України є головним (провідним)
@@ -1117,7 +1117,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1131,12 +1131,12 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c30">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">16</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Розвідка оборони</span>
                   </p>
@@ -1144,7 +1144,7 @@ export default function HowUkr() {
                     <span className="c1">Міністерства оборони України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c19">
                       Розвідка оборони України здійснює розвідку в сферах
@@ -1153,7 +1153,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1167,12 +1167,12 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c15">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">17</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство з питань реінтеграції тимчасово окупованих
@@ -1180,7 +1180,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство з реінтеграції тимчасово окупованих територій
@@ -1192,7 +1192,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1206,17 +1206,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c17">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">18</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Децентралізація в Україні</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Реформа децентралізації є офіційним веб-сайтом для реформ.
@@ -1225,7 +1225,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1239,19 +1239,19 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c13">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">19</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство соціальної політики України
                     </span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство соціальної політики України є державним
@@ -1261,7 +1261,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1275,19 +1275,19 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c36">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">20</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство розвитку громад і територій України
                     </span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Державне регулювання в архітектурі, будівництві та
@@ -1300,7 +1300,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1314,12 +1314,12 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c45">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">21</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство екології та охорони навколишнього природного
@@ -1327,7 +1327,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство екології та природних ресурсів України є
@@ -1341,7 +1341,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1355,19 +1355,19 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c15">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">22</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство енергетики та вугільної промисловості України
                     </span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міненерговугілля забезпечує формування та реалізує
@@ -1379,24 +1379,24 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">-</span>
                   </p>
                 </td>
               </tr>
               <tr className="c15">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">23</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">МОЗ України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство охорони здоров'я України є основним органом
@@ -1408,7 +1408,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1422,19 +1422,19 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c32">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">24</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       ДП «Центр громадського здоров’я» МОЗ України
                     </span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Державне підприємство «Центр громадського здоров’я» МОЗ
@@ -1447,7 +1447,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1461,17 +1461,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c16">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">25</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Національна служба здоров'я України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Національна служба здоров'я України (НСЗУ) є центральним
@@ -1483,7 +1483,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1497,17 +1497,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c24">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">26</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Міністерство економіки України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство економіки є провідним органом у системі
@@ -1518,7 +1518,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1532,17 +1532,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c23">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">27</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Міністерство освіти і науки України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство освіти і науки України є центральним
@@ -1553,7 +1553,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1568,17 +1568,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c39">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">28</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Міністерство юстиції України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство юстиції є центральним органом державної
@@ -1591,7 +1591,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1605,19 +1605,19 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c17">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">29</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство культури та інформаційної політики України
                     </span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство культури та інформаційної політики є головним
@@ -1627,7 +1627,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1641,17 +1641,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c32">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">30</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Центр стратегічних комунікацій</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Центр стратегічних комунікацій створено при Міністерстві
@@ -1663,7 +1663,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1677,19 +1677,19 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c21">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">31</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство аграрної політики та продовольства України
                     </span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span>
                       Міністерство аграрної політики та продовольства України
@@ -1702,7 +1702,7 @@ export default function HowUkr() {
                     <span className="c47">.</span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1716,19 +1716,19 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c33">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">32</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство внутрішніх справ України
                     </span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c43">
                       Міністерство здійснює державну політику щодо захисту прав
@@ -1740,7 +1740,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1754,17 +1754,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c40">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">33</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Міністерство інфраструктури України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c34">
                       Мінінфраструктури є центральним органом виконавчої влади у
@@ -1773,7 +1773,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1787,19 +1787,19 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c17">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">34</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство закордонних справ України
                     </span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Міністерство закордонних справ України є головним органом
@@ -1809,7 +1809,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1823,17 +1823,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c15">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">35</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Національне антикорупційне бюро</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Національне антикорупційне бюро України є центральним
@@ -1845,7 +1845,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1859,19 +1859,19 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c17">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">36</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Національне агентство з питань запобігання корупції
                     </span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Національне агентство з питань запобігання корупції є
@@ -1881,7 +1881,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1895,19 +1895,19 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c16">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">37</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Спеціалізована антикорупційна прокуратура
                     </span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Спеціалізована антикорупційна прокуратура є самостійним
@@ -1918,24 +1918,24 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">-</span>
                   </p>
                 </td>
               </tr>
               <tr className="c17">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">38</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Укрзалізниця</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Укрзалізниця здійснює централізоване управління перевізним
@@ -1944,7 +1944,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -1958,17 +1958,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c36">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">39</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Пенсійний фонд України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Пенсійний фонд України є центральним органом виконавчої
@@ -1981,24 +1981,24 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">-</span>
                   </p>
                 </td>
               </tr>
               <tr className="c16">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">40</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Нафтогаз</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Нафтогаз – найбільша державна компанія в Україні. Вона
@@ -2009,7 +2009,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -2023,17 +2023,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c18">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">41</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Укрпошта</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       ДП «Укрпошта» — єдиний національний оператор поштового
@@ -2041,7 +2041,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -2055,17 +2055,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c30">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">42</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Офіс Генеральної прокуратури</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Центральним органом у системі прокуратури є Генеральна
@@ -2074,7 +2074,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c3">
                       <a
@@ -2088,17 +2088,17 @@ export default function HowUkr() {
                 </td>
               </tr>
               <tr className="c35">
-                <td className="c7" colspan="1" rowspan="1">
+                <td className="c7" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">43</span>
                   </p>
                 </td>
-                <td className="c10" colspan="1" rowspan="1">
+                <td className="c10" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">Національна гвардія України</span>
                   </p>
                 </td>
-                <td className="c12" colspan="1" rowspan="1">
+                <td className="c12" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">
                       Національна гвардія України. є українською національною
@@ -2108,7 +2108,7 @@ export default function HowUkr() {
                     </span>
                   </p>
                 </td>
-                <td className="c8" colspan="1" rowspan="1">
+                <td className="c8" colSpan="1" rowSpan="1">
                   <p className="c0">
                     <span className="c1">-</span>
                   </p>

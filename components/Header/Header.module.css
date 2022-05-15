@@ -64,6 +64,12 @@
 
 
 @media (max-width: 600px) {
+  .mainMenu {
+justify-content: space-around;
+  } 
+  .mainMenuList {
+    padding-left: 0.26rem !important;
+  }
   .mainMenuListItem,
   .mainMenuListItem:hover {
     margin-left: 0 !important;
@@ -72,7 +78,7 @@
   .mainMenuListItem {
     font-weight: 600;
     list-style: none;
-    margin-left: .6rem !important;
+    margin-left: .22rem !important;
     text-transform: uppercase;
     opacity: 0.46;
     cursor: pointer;
@@ -89,7 +95,7 @@
   }
   .logoMobile {
     display: inline;
-    color: #056a1f;
+    color: #fff;
     font-weight: 600;
     margin: 0;
   }

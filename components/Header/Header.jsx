@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { useRouter } from "next/router";
 import styles from "./Header.module.css";
 
@@ -132,11 +133,12 @@ export default function Header() {
       </div>
       <div className={styles.mainMenu}>
         <ul className={styles.mainMenuList}>
-          <li className={styles.mainMenuListItem}>
+        <p className={styles.logoMobile}><Image  src='/logo.svg' alt='logoMobile' width='117' height='25'/></p>
+          {/* <li className={styles.mainMenuListItem}>
             <Link href="/">
               <a># Fakes</a>
             </Link>
-          </li>
+          </li> */}
 
           <li
             className={

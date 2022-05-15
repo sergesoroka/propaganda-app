@@ -53,7 +53,6 @@
   cursor: none;
 }
 
-
 .listMenu {
   display: none;
 }
@@ -62,30 +61,30 @@
   display: none;
 }
 
-
 @media (max-width: 600px) {
   .mainMenu {
-justify-content: space-around;
-  } 
+    justify-content: space-around;
+    padding: 0.5rem 0;
+  }
   .mainMenuList {
     padding-left: 0 !important;
   }
   .mainMenuListItem,
   .mainMenuListItem:hover {
     margin-left: 0 !important;
-    font-size: .6rem !important;
+    font-size: 0.6rem !important;
   }
   .mainMenuListItem {
     font-weight: 600;
     list-style: none;
-    margin-left: .22rem !important;
+    margin-left: 0.22rem !important;
     text-transform: uppercase;
     opacity: 0.46;
     cursor: pointer;
-    font-size: .6rem !important;
+    font-size: 0.6rem !important;
   }
   .activeLink {
-    font-size: .6rem;
+    font-size: 0.6rem;
   }
 
   .listMenu {

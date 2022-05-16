@@ -4,20 +4,26 @@ import styles from "../styles/Home.module.css";
 
 import { useRouter } from "next/router";
 
-
-
-import { dataEng } from '../data/dataEng'
-import { dataUkr } from '../data/dataUkr'
+import { dataEng } from "../data/dataEng";
+import { dataUkr } from "../data/dataUkr";
 import { dataRu } from "../data/dataRu";
-
+import { dataDe } from "../data/dataDe";
 
 export default function Home() {
-
   const router = useRouter();
   const { locale } = router;
 
-  const data = locale == 'en' ? dataEng : locale == 'uk' ? dataUkr : locale == 'ru' ? dataRu : dataEng
-  
+  const data =
+    locale == "en"
+      ? dataEng
+      : locale == "uk"
+      ? dataUkr
+      : locale == "ru"
+      ? dataRu
+      : locale == "de"
+      ? dataDe
+      : dataEng;
+
   return (
     <div className={styles.container}>
       <Head>

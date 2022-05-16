@@ -8,6 +8,7 @@ import { dataEng } from "../../../data/dataEng";
 import { dataRu } from "../../../data/dataRu";
 
 import { dataUkr } from "../../../data/dataUkr";
+import { dataDe } from "../../../data/dataDe";
 
 import styles from "../../../styles/Narrative.module.css";
 
@@ -23,6 +24,8 @@ export default function NarrativeItem() {
       ? dataUkr
       : locale == "ru"
       ? dataRu
+      : locale == "de"
+      ? dataDe
       : dataEng;
 
   const unique = [

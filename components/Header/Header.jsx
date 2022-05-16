@@ -106,45 +106,25 @@ export default function Header() {
         <ul className={styles.mainMenuList}>
           <li
             className={
-              pathname === "/it/about" ||
-              pathname === "/de/about" ||
-              pathname === "/ru/about" ||
-              pathname === "/uk/about"
+              pathname === "/about"
                 ? styles.activeLinkMain
                 : styles.mainMenuListItem
             }
           >
-            {pathname === "/it/about" ||
-            pathname === "/de/about" ||
-            pathname === "/ru/about" ||
-            pathname === "/uk/about" ? (
+            <Link href="/about">
               <a># About</a>
-            ) : (
-              <Link href="/about">
-                <a># About</a>
-              </Link>
-            )}
+            </Link>
           </li>
           <li
             className={
-              pathname === "/it/method" ||
-              pathname === "/de/method" ||
-              pathname === "/ru/method" ||
-              pathname === "/uk/method"
+              pathname === "/method"
                 ? styles.activeLinkMain
                 : styles.mainMenuListItem
             }
           >
-            {pathname === "/it/method" ||
-            pathname === "/de/method" ||
-            pathname === "/ru/method" ||
-            pathname === "/uk/method" ? (
+            <Link href="/method">
               <a># Method</a>
-            ) : (
-              <Link href="/method">
-                <a># Method</a>
-              </Link>
-            )}
+            </Link>
           </li>
           <li className={styles.mainMenuListItem}>
             <Link href="/addFake" passHref>

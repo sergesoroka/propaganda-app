@@ -5,6 +5,7 @@ import styles from "../../styles/Narrative.module.css";
 import { dataEng } from "../../data/dataEng";
 import { dataUkr } from "../../data/dataUkr";
 import { dataRu } from "../../data/dataRu";
+import { dataDe } from "../../data/dataDe";
 
 export default function Media({ fake, narrative, data }) {
   const [toggle, setToggle] = useState(false);
@@ -18,6 +19,8 @@ export default function Media({ fake, narrative, data }) {
       ? dataUkr
       : locale == "ru"
       ? dataRu
+      : locale == "de"
+      ? dataDe
       : dataEng;
 
   const fakeFiltered = dataLoc.filter((item) => item.Fakes == fake);

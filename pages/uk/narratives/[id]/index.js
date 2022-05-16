@@ -38,6 +38,7 @@ export default function NarrativeItem() {
             <BsArrowLeft />
           </a>
         </Link>
+        111
       </div>
       <h2 className={styles.fakeHeading}># {id} </h2>
       {listOfFakes}

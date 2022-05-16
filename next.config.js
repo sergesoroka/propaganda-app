@@ -1,11 +1,13 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  trailingSlash: true,
 
-  // i18n: {
-  //   locales: ["en", "it", "de", 'ua', 'ru'],
-  //   defaultLocale: "en",
-  // },
+  i18n: {
+    locales: ["en", "it", "de", 'uk', 'ru'],
+    defaultLocale: "en",
+    localeDetection: false,
+  },
 };
 module.exports = {
   webpack(config) {

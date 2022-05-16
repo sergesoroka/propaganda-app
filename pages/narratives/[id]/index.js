@@ -1,20 +1,33 @@
 import Head from "next/head";
 import Link from "next/link";
+import { useRouter } from "next/router";
 import { BsArrowLeft } from "react-icons/bs";
 
 import Media from "../../../components/Media/Media";
 import { dataEng } from "../../../data/dataEng";
+import { dataRu } from "../../../data/dataRu";
+
+import { dataUkr } from "../../../data/dataUkr";
 
 import styles from "../../../styles/Narrative.module.css";
-import { useRouter } from "next/router";
 
 export default function NarrativeItem() {
   const router = useRouter();
   const { id } = router.query;
+  const { locale } = router;
+
+  const dataLocale =
+    locale == "en"
+      ? dataEng
+      : locale == "uk"
+      ? dataUkr
+      : locale == "ru"
+      ? dataRu
+      : dataEng;
 
   const unique = [
     ...new Set(
-      dataEng.map((item) => {
+      dataLocale.map((item) => {
         if (item.Narrative == id) {
           return item.Fakes;
         }
@@ -23,7 +36,7 @@ export default function NarrativeItem() {
   ];
 
   const listOfFakes = unique.map((item, i) => (
-    <Media key={i} fake={item} narrative={id} data={dataEng} />
+    <Media key={i} fake={item} narrative={id} data={dataLocale} />
   ));
 
   return (

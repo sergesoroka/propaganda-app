@@ -18,7 +18,7 @@ export default function FakeList({ data }) {
 
   const narrative = unique.map((n, i) => {
     return (
-      <Link key={i} href={{ pathname: `${pathnameRoute}${n}`, query: n }}>
+      <Link key={i} href={{ pathname: `${pathnameRoute}${n}`, query: data }}>
         <a>
           <FakeItem data={data} narrative={n} />
         </a>

@@ -1,10 +1,26 @@
 import { useState } from "react";
+import { useRouter } from "next/router";
 import styles from "../../styles/Narrative.module.css";
+
+import { dataEng } from "../../data/dataEng";
+import { dataUkr } from "../../data/dataUkr";
+import { dataRu } from "../../data/dataRu";
 
 export default function Media({ fake, narrative, data }) {
   const [toggle, setToggle] = useState(false);
+  const router = useRouter();
+  const { locale } = router;
 
-  const fakeFiltered = data.filter((item) => item.Fakes == fake);
+  const dataLoc =
+    locale == "en"
+      ? dataEng
+      : locale == "uk"
+      ? dataUkr
+      : locale == "ru"
+      ? dataRu
+      : dataEng;
+
+  const fakeFiltered = dataLoc.filter((item) => item.Fakes == fake);
   const debunkigsUnique = [
     ...new Set(fakeFiltered.map((item) => item.Debunking)),
   ];

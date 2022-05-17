@@ -17,7 +17,7 @@ export default function Home() {
   const data =
     locale == "en"
       ? dataEng
-      : locale == "uk"
+      : locale == "ua"
       ? dataUkr
       : locale == "ru"
       ? dataRu

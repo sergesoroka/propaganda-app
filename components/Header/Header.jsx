@@ -80,18 +80,18 @@ export default function Header() {
           </li>
           <li
             className={
-              locale == "uk" ? styles.activeLink : styles.mainMenuListItem
+              locale == "ua" ? styles.activeLink : styles.mainMenuListItem
             }
             onClick={() => {
               router.push(
                 { pathname, query },
                 asPath,
-                { locale: "uk" },
+                { locale: "ua" },
                 { shallow: false }
               );
             }}
           >
-            UKR
+            UA
           </li>
         </ul>
       </div>

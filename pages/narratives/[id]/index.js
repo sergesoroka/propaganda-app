@@ -23,7 +23,7 @@ export default function NarrativeItem() {
   const dataLocale =
     locale == "en"
       ? dataEng
-      : locale == "uk"
+      : locale == "ua"
       ? dataUkr
       : locale == "ru"
       ? dataRu

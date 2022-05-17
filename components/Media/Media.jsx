@@ -16,7 +16,7 @@ export default function Media({ fake, narrative, data }) {
   const dataLoc =
     locale == "en"
       ? dataEng
-      : locale == "uk"
+      : locale == "ua"
       ? dataUkr
       : locale == "ru"
       ? dataRu

@@ -7,7 +7,7 @@ export default function FakeList({ data }) {
   const unique = [...new Set(data.map((item) => item.Narrative))];
 
   const narrative = unique.map((n, i) => {
-    console.log(n)
+    
     return (
       <Link key={i} href={{ pathname: `/narratives/${n}` }}>
         <a>

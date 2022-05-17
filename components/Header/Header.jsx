@@ -8,9 +8,9 @@ export default function Header() {
   const router = useRouter();
   const { pathname, asPath, query, locale } = router;
 
-  console.log(pathname, locale);
+  console.log(pathname, locale, asPath);
   return (
-    <div className={styles.headerWrap}>
+   <div className={styles.headerWrap}>
       <div className={styles.langMenu}>
         <p className={styles.logoMobile}>PROPAGANDA DIARY</p>
         <ul className={styles.mainMenuList}>

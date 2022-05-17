@@ -3,6 +3,8 @@ import Statistic from "./Statistic/Statistic";
 import Sidebar from "./Sidebar/Sidebar";
 import Footer from "./Footer/Footer";
 
+import { useRouter } from "next/router";
+
 import {
   uniqueNarrativesUKR,
   uniqueFakesUKR,
@@ -15,13 +17,15 @@ import {
 import styles from "../styles/Home.module.css";
 
 export default function Layout({ children }) {
+  const router = useRouter();
+  const { pathname } = router;
   return (
     <main className={styles.main}>
       <div className={styles.sidebar}>
         <Sidebar />
       </div>
       <div className={styles.contentArea}>
-        <Header />
+        {pathname !== '/narratives/[id]' && <Header />}
         <div className={styles.statisticMobile}>
           <Statistic
             uniqueNarratives={uniqueNarrativesUKR}

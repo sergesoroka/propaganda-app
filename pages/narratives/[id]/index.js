@@ -17,6 +17,8 @@ export default function NarrativeItem() {
   const { id } = router.query;
   const { locale } = router;
 
+  // console.log('ID: ', router.query)
+
   const dataLocale =
     locale == "en"
       ? dataEng

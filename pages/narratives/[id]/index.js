@@ -9,6 +9,7 @@ import { dataRu } from "../../../data/dataRu";
 
 import { dataUkr } from "../../../data/dataUkr";
 import { dataDe } from "../../../data/dataDe";
+import { dataIt } from "../../../data/dataIt";
 
 import styles from "../../../styles/Narrative.module.css";
 
@@ -28,6 +29,8 @@ export default function NarrativeItem() {
       ? dataRu
       : locale == "de"
       ? dataDe
+      : locale == "it"
+      ? dataIt
       : dataEng;
 
   const unique = [

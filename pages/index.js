@@ -8,6 +8,7 @@ import { dataEng } from "../data/dataEng";
 import { dataUkr } from "../data/dataUkr";
 import { dataRu } from "../data/dataRu";
 import { dataDe } from "../data/dataDe";
+import { dataIt } from "../data/dataIt";
 
 export default function Home() {
   const router = useRouter();
@@ -22,6 +23,8 @@ export default function Home() {
       ? dataRu
       : locale == "de"
       ? dataDe
+      : locale == "it"
+      ? dataIt
       : dataEng;
 
   return (

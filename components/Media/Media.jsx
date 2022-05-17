@@ -6,6 +6,7 @@ import { dataEng } from "../../data/dataEng";
 import { dataUkr } from "../../data/dataUkr";
 import { dataRu } from "../../data/dataRu";
 import { dataDe } from "../../data/dataDe";
+import { dataIt } from "../../data/dataIt";
 
 export default function Media({ fake, narrative, data }) {
   const [toggle, setToggle] = useState(false);
@@ -21,6 +22,8 @@ export default function Media({ fake, narrative, data }) {
       ? dataRu
       : locale == "de"
       ? dataDe
+      : locale == "it"
+      ? dataIt
       : dataEng;
 
   const fakeFiltered = dataLoc.filter((item) => item.Fakes == fake);

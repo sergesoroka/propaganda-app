@@ -25,7 +25,7 @@ export default function Layout({ children }) {
         <Sidebar />
       </div>
       <div className={styles.contentArea}>
-        {pathname !== '/narratives/[id]' && <Header />}
+        {pathname !== "/narratives/[id]" && <Header />}
         <div className={styles.statisticMobile}>
           <Statistic
             uniqueNarratives={uniqueNarrativesUKR}
@@ -37,7 +37,6 @@ export default function Layout({ children }) {
         {children}
         <Footer />
       </div>
-     
     </main>
   );
 }

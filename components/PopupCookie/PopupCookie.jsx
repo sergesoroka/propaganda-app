@@ -9,7 +9,7 @@ export default function PopupCookie() {
         className={styles.CookieConsent}
         disableStyles
         location="none"
-        buttonText="I understant"
+        buttonText="I understand"
         style={{ padding: "2rem 0" }}
         buttonStyle={{
           color: "#fff",

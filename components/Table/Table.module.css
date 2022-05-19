@@ -1,0 +1,31 @@
+.tableRow {
+  text-align: left;
+  vertical-align: top;
+}
+
+.tableCol, .tableHead {
+  padding: 1rem 0.6rem;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.tableNum, .tableHead {
+  font-size: .96rem;
+  font-weight: 600;
+  color: #034e16;
+}
+
+@media (max-width: 600px) { 
+  .tableCol {
+    display: block;
+    padding: .4rem 0.6rem;
+    border: none;
+  }
+  .tableHead {
+    display: none;
+    border: none;
+  }
+  .tableLast {
+    border-bottom: 1px solid #e6e6e6;
+    padding-bottom: 1rem;
+  }
+}

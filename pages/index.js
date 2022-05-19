@@ -7,7 +7,7 @@ import { useRouter } from "next/router";
 
 import { dataEng } from "../data/dataEng";
 import { dataUkr } from "../data/dataUkr";
-import { dataRu } from "../data/dataRu";
+import { dataRu } from "../data/dataRu"; 
 import { dataDe } from "../data/dataDe";
 import { dataIt } from "../data/dataIt";
 

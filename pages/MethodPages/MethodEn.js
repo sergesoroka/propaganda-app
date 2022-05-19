@@ -1,6 +1,10 @@
 import Head from "next/head";
 import styles from "../../styles/Home.module.css";
 
+import Table from "../../components/Table/Table";
+
+import { tableEng } from "../../data/tableEng";
+
 export default function MethodEn() {
   
   return (
@@ -448,9 +452,8 @@ export default function MethodEn() {
         <p className="c6 c22">
           <span className="c12"></span>
         </p>
-        <a id="t.5a5e73bde5096445504d8dfc2a9545de78b5058b"></a>
-        <a id="t.0"></a>
-        <table className="c26">
+        <Table data={tableEng}/>
+        {/* <table className="c26">
           <tbody>
             <tr className="c5">
               <td className={styles.tdMob}   colSpan="1" rowSpan="1">
@@ -2044,7 +2047,7 @@ export default function MethodEn() {
               </td>
             </tr>
           </tbody>
-        </table>
+        </table> */}
         <p className="c22 c6">
           <span className="c12"></span>
         </p>

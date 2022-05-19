@@ -161,4 +161,8 @@
     margin: 0 0.6rem;
     color: #056a1f;
   }
+
+  .tdMob {
+    display: block;
+  }
 }

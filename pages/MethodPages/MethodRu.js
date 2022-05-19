@@ -589,41 +589,41 @@ export default function MethodRu() {
         <table className="c43">
           <tbody>
             <tr className="c48">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c46 c14">№</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c46 c14">Источник</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c46 c14">Описание</span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c14 c46">Ссылка на английский сайт</span>
                 </p>
               </td>
             </tr>
             <tr className="c44">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">1</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Государственная служба статистики Украины
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Государственная служба статистики Украины (Госстат) –
@@ -635,7 +635,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -649,17 +649,17 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c30">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">2</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">Офис Президента Украины</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     В обязанности Аппарата входит оказание
@@ -669,7 +669,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -683,17 +683,17 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c33">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">3</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">Служба безопасности Украины</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Служба безопасности Украины является главным органом
@@ -707,7 +707,7 @@ export default function MethodRu() {
                   <span className="c4">&nbsp;</span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -721,19 +721,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c27">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">4</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Совет национальной безопасности и обороны Украины
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Совет национальной безопасности и обороны Украины является
@@ -742,7 +742,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -756,19 +756,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c40">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">5</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Центр противодействия дезинформации
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Центр противодействия дезинформации является рабочим органом
@@ -779,24 +779,24 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">-</span>
                 </p>
               </td>
             </tr>
             <tr className="c40">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">6</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">Правительство Украины</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Правительство Украины или Кабинет Министров Украины является
@@ -807,7 +807,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -821,17 +821,17 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c21">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">7</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c10">
                   <span className="c4">Верховная Рада Украины</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Верховная Рада — парламент Украины. Это единственный орган
@@ -840,7 +840,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -854,19 +854,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c41">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">8</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c10">
                   <span className="c4">
                     Государственная казначейская служба Украины
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Государственная казначейская служба Украины является
@@ -878,7 +878,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -892,19 +892,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c16">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c10">
                   <span className="c4">9</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Государственная налоговая служба Украины
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Государственная налоговая служба Украины является
@@ -921,7 +921,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -935,17 +935,17 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c8">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c10">
                   <span className="c4">10</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">Таможенная служба Украины</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Государственная таможенная служба Украины является
@@ -958,7 +958,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -972,19 +972,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c34">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">11</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Государственная пограничная служба Украины
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c39">
                     Государственная пограничная служба Украины является
@@ -995,7 +995,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1009,17 +1009,17 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c44">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">12</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">Национальный банк Украины</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Национальный банк Украины является государственным органом,
@@ -1031,7 +1031,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1045,19 +1045,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c45">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">13</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство цифровой трансформации Украины
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство цифровой трансформации Украины является
@@ -1068,24 +1068,24 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">-</span>
                 </p>
               </td>
             </tr>
             <tr className="c38">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">14</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">Министерство финансов Украины</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство финансов Украины отвечает за формирование и
@@ -1100,7 +1100,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1114,17 +1114,17 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c8">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">15</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">Министерство обороны Украины</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство обороны Украины является основным (ведущим)
@@ -1137,7 +1137,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1151,12 +1151,12 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c27">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">16</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">Военная разведка</span>
                 </p>
@@ -1164,7 +1164,7 @@ export default function MethodRu() {
                   <span className="c4">Министерства обороны Украины</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c17 c26">
                     Служба военной разведки Украины ведет разведку в сфере
@@ -1173,7 +1173,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1187,12 +1187,12 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c44">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">17</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство реинтеграции временно оккупированных территорий
@@ -1200,7 +1200,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство реинтеграции временно оккупированных территорий
@@ -1212,7 +1212,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1226,17 +1226,17 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c20">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">18</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">Децентрализация в Украине</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Реформа децентрализации - официальный сайт реформы.
@@ -1246,7 +1246,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1260,19 +1260,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c18">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">19</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство социальной политики Украины
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство социальной политики Украины является
@@ -1283,7 +1283,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1297,19 +1297,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c28">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">20</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство развития громад и территорий Украины
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство развития громад и территорий Украины
@@ -1323,7 +1323,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1337,19 +1337,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c28">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">21</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство экологии и охраны окружающей среды Украины
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство экологии и природных ресурсов Украины является
@@ -1363,7 +1363,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1377,19 +1377,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c32">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">22</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство энергетики и угольной промышленности Украины
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство энергетики и угля обеспечивает формирование и
@@ -1401,26 +1401,26 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">-</span>
                 </p>
               </td>
             </tr>
             <tr className="c32">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">23</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство здравоохранения Украины
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство здравоохранения Украины является главным
@@ -1433,7 +1433,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1447,12 +1447,12 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c28">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">24</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Государственное предприятие «Центр общественного здоровья»
@@ -1460,7 +1460,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Государственное предприятие «Центр общественного здоровья»
@@ -1474,7 +1474,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1488,19 +1488,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c44">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">25</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Национальная служба здравоохранения Украины
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Национальная служба здравоохранения Украины (НСЗУ) является
@@ -1512,7 +1512,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1526,17 +1526,17 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c33">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">26</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">Министерство экономики Украины</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство экономики является ведущим органом в системе
@@ -1547,7 +1547,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1561,19 +1561,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c40">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">27</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство образования и науки Украины
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство образования и науки Украины является
@@ -1584,7 +1584,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1599,17 +1599,17 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c16">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">28</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">Министерство юстиции Украины</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство юстиции является центральным органом
@@ -1623,7 +1623,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1637,19 +1637,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c20">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">29</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство культуры и информационной политики Украины
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство культуры и информационной политики является
@@ -1659,7 +1659,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1673,17 +1673,17 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c44">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">30</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">Центр стратегических коммуникаций</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Центр стратегических коммуникаций создан при Министерстве
@@ -1696,7 +1696,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1710,19 +1710,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c37">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">31</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство аграрной политики и продовольствия Украины
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span>
                     Министерство аграрной политики и продовольствия Украины
@@ -1736,7 +1736,7 @@ export default function MethodRu() {
                   <span className="c24">.</span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1750,19 +1750,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c36">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">32</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство внутренних дел Украины
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c35">
                     Министерство осуществляет государственную политику в области
@@ -1775,7 +1775,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1789,19 +1789,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c19">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">33</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство инфраструктуры Украины
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c42">
                     Министерство инфраструктуры является центральным органом
@@ -1810,7 +1810,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1824,19 +1824,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c30">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">34</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство иностранных дел Украины
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Министерство иностранных дел Украины является головным
@@ -1846,7 +1846,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1860,19 +1860,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c32">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">35</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Национальное антикоррупционное бюро
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Национальное антикоррупционное бюро Украины является
@@ -1884,7 +1884,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1898,19 +1898,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c30">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">36</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Национальное агентство по предупреждению коррупции
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Национальное агентство по предупреждению коррупции является
@@ -1920,7 +1920,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1934,19 +1934,19 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c44">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">37</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Специализированная антикоррупционная прокуратура
                   </span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Специализированная антикоррупционная прокуратура является
@@ -1957,24 +1957,24 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">-</span>
                 </p>
               </td>
             </tr>
             <tr className="c30">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">38</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">Укрзализныця</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Укрзализныця осуществляет централизованное управление
@@ -1984,7 +1984,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -1998,17 +1998,17 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c16">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">39</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">Пенсионный фонд Украины</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Пенсионный фонд Украины является центральным органом
@@ -2021,24 +2021,24 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">-</span>
                 </p>
               </td>
             </tr>
             <tr className="c40">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">40</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">Нафтогаз</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Нафтогаз — крупнейшая государственная компания Украины.
@@ -2050,7 +2050,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -2064,17 +2064,17 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c49">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">41</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">Укрпочта</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     ГП «Укрпочта» — единственный национальный оператор почтовой
@@ -2082,7 +2082,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -2096,17 +2096,17 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c21">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">42</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">Генеральная прокуратура</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Генеральная прокуратура является центральным органом в
@@ -2115,7 +2115,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c11">
                     <a
@@ -2129,17 +2129,17 @@ export default function MethodRu() {
               </td>
             </tr>
             <tr className="c27">
-              <td className="c9" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">43</span>
                 </p>
               </td>
-              <td className="c2" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">Национальная гвардия Украины</span>
                 </p>
               </td>
-              <td className="c3" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">
                     Национальная гвардия Украины. является украинской
@@ -2148,7 +2148,7 @@ export default function MethodRu() {
                   </span>
                 </p>
               </td>
-              <td className="c13" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c0">
                   <span className="c4">-</span>
                 </p>

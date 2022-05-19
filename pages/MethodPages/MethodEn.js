@@ -453,41 +453,41 @@ export default function MethodEn() {
         <table className="c26">
           <tbody>
             <tr className="c5">
-              <td  className="c18" colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}   colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c11">№</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c11">Source</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c11">Description</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob}  colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c11">Link to ENG website</span>
                 </p>
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">1</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     State Statistics Service of Ukraine
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The State Statistics Service of Ukraine (Gosstat) is a
@@ -499,7 +499,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -513,19 +513,19 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">2</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The Presidential Office of Ukraine
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The duties of the Office are to provide administrative,
@@ -534,7 +534,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -549,17 +549,17 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">3</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">The Security Service of Ukraine</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The Security Service of Ukraine is the main security agency
@@ -573,7 +573,7 @@ export default function MethodEn() {
                   <span className="c12"></span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -588,19 +588,19 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">4</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     National Security and Defense Council of Ukraine
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     The National Security and Defense Council of Ukraine is the
@@ -609,7 +609,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -624,19 +624,19 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">5</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     Center for Countering Disinformation
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The Center for Countering Disinformation is a working body
@@ -647,24 +647,24 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">-</span>
                 </p>
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">6</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">The Government of Ukraine</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The Government of Ukraine or The Cabinet of Ministers of
@@ -675,7 +675,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -690,17 +690,17 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">7</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c23 c6">
                   <span className="c12">Verkhovna Rada of Ukraine</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     The Verkhovna Rada is the parliament of Ukraine.It is the
@@ -709,7 +709,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -724,17 +724,17 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">8</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c23 c6">
                   <span className="c12">State Treasury Service of Ukraine</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The State Treasury Service of Ukraine is the central
@@ -746,7 +746,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -761,17 +761,17 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c23 c6">
                   <span className="c12">9</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">State Tax Service of Ukraine</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The State Tax Service of Ukraine is the central executive
@@ -788,7 +788,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -803,17 +803,17 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c6 c23">
                   <span className="c12">10</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">Custom Service of Ukraine</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The State Customs Service of Ukraine is the central
@@ -826,7 +826,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -841,19 +841,19 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">11</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     State Border Guard Service of Ukraine
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c29">
                     The State Border Guard Service of Ukraine is law enforcement
@@ -863,7 +863,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -878,17 +878,17 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">12</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">National Bank of Ukraine</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The National Bank of Ukraine is a government body
@@ -900,7 +900,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -915,19 +915,19 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">13</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     Ministry of Digital transformation of Ukraine
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     Ministry of Digital transformation of Ukraine is a
@@ -938,24 +938,24 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">-</span>
                 </p>
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">14</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">Ministry of Finance of Ukraine</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The Ministry of Finance of Ukraine is responsible for the
@@ -969,7 +969,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -984,17 +984,17 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">15</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">Ministry of Defense of Ukraine</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     The Ministry of Defense of Ukraine is the main (leading)
@@ -1007,7 +1007,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1021,12 +1021,12 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">16</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">Defence Intelligence</span>
                 </p>
@@ -1036,7 +1036,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c31">
                     The Defence Intelligence of Ukraine conducts intelligence in
@@ -1045,7 +1045,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1060,12 +1060,12 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">17</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     Ministry for Reintegration of the Temporary Occupied
@@ -1073,7 +1073,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The Ministry of Reintegration of Temporarily Occupied
@@ -1086,7 +1086,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1101,17 +1101,17 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">18</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">Decentralization in Ukraine</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     Decentralization reform is the official website for reform.
@@ -1120,7 +1120,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1135,19 +1135,19 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">19</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     Ministry of Social Policy of Ukraine
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The Ministry of Social Policy of Ukraine is the Ukrainian
@@ -1158,7 +1158,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1173,12 +1173,12 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">20</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     Ministry for Communities and Territories Development of
@@ -1186,7 +1186,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The Ministry for Communities and Territories Development of
@@ -1200,7 +1200,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1214,19 +1214,19 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">21</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     Ministry of Ecology and Environment Protection of Ukraine
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     Ministry of Ecology and Natural Resources of Ukraine is a
@@ -1240,7 +1240,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1255,19 +1255,19 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">22</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     Ministry of Energy and Coal Industry of Ukraine
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The Ministry of Energy and Coal provides the formulation and
@@ -1280,24 +1280,24 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">-</span>
                 </p>
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">23</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">Ministry of Health of Ukraine</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The Ministry of Healthcare of Ukraine is the main healthcare
@@ -1309,7 +1309,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1324,12 +1324,12 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">24</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     State Enterprise Center of Public Health of the Ministry of
@@ -1337,7 +1337,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     State Enterprise Center of Public Health of the Ministry of
@@ -1350,7 +1350,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1365,19 +1365,19 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">25</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     National Health Service of Ukraine
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The National Health Service of Ukraine (NHSU) is the central
@@ -1389,7 +1389,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1404,17 +1404,17 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">26</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">Ministry of Economy of Ukraine</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The Ministry of Economy is a leading agency within the
@@ -1425,7 +1425,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1440,19 +1440,19 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">27</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     Ministry of Education and Science of Ukraine
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The Ministry of Education and Science of Ukraine is the
@@ -1463,7 +1463,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1478,17 +1478,17 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">28</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">Ministry of Justice of Ukraine</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The Ministry of Justice is a central state executive body
@@ -1501,7 +1501,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1516,19 +1516,19 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">29</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     Ministry of Culture and Informational Policy of Ukraine
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The Ministry of Culture and Information Policy is the main
@@ -1538,7 +1538,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1553,19 +1553,19 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">30</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     Centre for Strategic Communication
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     Centre for Strategic Communication was established under
@@ -1578,7 +1578,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1593,19 +1593,19 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">31</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     Ministry of Agrarian Policy and Food of Ukraine
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span>
                     The Ministry of Agrarian Policy and Food of Ukraine forms
@@ -1618,7 +1618,7 @@ export default function MethodEn() {
                   <span className="c32">.</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1633,19 +1633,19 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">32</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     Ministry of Internal Affairs of Ukraine
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c30">
                     The ministry carries out state policy for the protection of
@@ -1657,7 +1657,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1672,19 +1672,19 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">33</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     Ministry of Infrastructure of Ukraine
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c7">
                     The Ministry of Infrastructure is the central body of
@@ -1693,7 +1693,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1708,19 +1708,19 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">34</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     Ministry of Foreign Affairs of Ukraine
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     The Ministry of Foreign Affairs of Ukraine is the main body
@@ -1730,7 +1730,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1745,17 +1745,17 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">35</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">National Anti-сorruption Bureau</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The National Anti-Corruption Bureau of Ukraine is a central
@@ -1767,7 +1767,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1782,19 +1782,19 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">36</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     National Agency on Corruption Prevention
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     The National Agency on Corruption Prevention is a central
@@ -1804,7 +1804,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1819,19 +1819,19 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">37</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     Specialized Anti-Corruption Prosecutor&apos;s Office
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The Specialized Anti-Corruption Prosecutor&apos;s Offic is
@@ -1842,24 +1842,24 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">-</span>
                 </p>
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">38</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">Ukrzaliznytsia</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     Ukrzaliznytsia accomplishes centralized management of the
@@ -1869,7 +1869,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1884,17 +1884,17 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">39</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">Pension Fund of Ukraine</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     The Pension Fund of Ukraine is a central executive body that
@@ -1907,24 +1907,24 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">-</span>
                 </p>
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">40</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">Naftogaz</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     Naftogaz is the largest state-owned company in Ukraine. It
@@ -1935,7 +1935,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1950,17 +1950,17 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">41</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">Ukrposhta</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     SC Ukrposhta is the only national postal operator in
@@ -1968,7 +1968,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -1983,17 +1983,17 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">42</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">Office of the Prosecutor General</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">
                     The Office of the Prosecutor General is the central body in
@@ -2002,7 +2002,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c16">
                     <a
@@ -2017,17 +2017,17 @@ export default function MethodEn() {
               </td>
             </tr>
             <tr className="c5">
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">43</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">National Guard of Ukraine</span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3 c6">
                   <span className="c12">
                     The National Guard of Ukraine. is the Ukrainian national
@@ -2037,7 +2037,7 @@ export default function MethodEn() {
                   </span>
                 </p>
               </td>
-              <td colSpan="1" rowSpan="1">
+              <td className={styles.tdMob} colSpan="1" rowSpan="1">
                 <p className="c3">
                   <span className="c12">-</span>
                 </p>

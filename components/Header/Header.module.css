@@ -64,33 +64,38 @@
 @media (max-width: 600px) {
   .mainMenu {
     justify-content: space-around;
-    padding: 0.5rem 0;
+    padding: 0.5rem 0 0.4rem 0.6rem;
   }
   .mainMenuList {
     padding-left: 0 !important;
   }
   .mainMenuListItem,
   .mainMenuListItem:hover {
-    margin-left: 0 !important;
-    font-size: 0.6rem !important;
+    margin-right: 0.5rem !important;
+    font-size: 0.46rem !important;
   }
   .mainMenuListItem {
     font-weight: 600;
     list-style: none;
-    margin-left: 0.22rem !important;
+    margin-right: 0.5rem !important;
     text-transform: uppercase;
     opacity: 0.46;
     cursor: pointer;
-    font-size: 0.6rem !important;
+    font-size: 0.46rem !important;
   }
   .activeLink {
-    font-size: 0.6rem;
+    font-size: 0.46rem !important;
+    margin-right: 0.5rem !important;
+  }
+  .activeLinkMain {
+    font-size: 0.46rem !important;
+    margin-left: .5rem !important;
   }
 
   .listMenu {
     display: flex;
     justify-content: flex-end;
-    margin-right: 1rem;
+    margin-right: 0.5rem;
   }
   .logoMobile {
     display: inline;

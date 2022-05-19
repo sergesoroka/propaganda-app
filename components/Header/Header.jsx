@@ -9,6 +9,20 @@ export default function Header() {
   const { pathname, asPath, query, locale } = router;
 
   console.log(pathname, locale, asPath);
+
+  const linkDownload =
+  locale == "en"
+    ? 'https://docs.google.com/spreadsheets/d/1j5JuUDCpc7T9cAXqHC7MOe8mBsOJiw1SH5JzoUxFIYk/edit#gid=0'
+    : locale == "ua"
+    ? 'https://docs.google.com/spreadsheets/d/1s-A12JY9Xdfif-o664GnyhbpXuW1oiOrEAHjWgVHj_I/edit?usp=sharing'
+    : locale == "ru"
+    ? 'https://docs.google.com/spreadsheets/d/1fb9-DviYRdi83fCBaO7DeK6zgtn1xjLWDyO-H8H3DUU/edit?usp=sharing'
+    : locale == "de"
+    ? 'https://docs.google.com/spreadsheets/d/1lE5e7J1-uEXurtaVvhu78GZh4ti2bG17d4BSm-qTK_E/edit?usp=sharing'
+    : locale == "it"
+    ? 'https://docs.google.com/spreadsheets/d/1km-KYs54oe78Zp9bLpJ8X_zrKRhmBep9K2J4CmxaILc/edit#gid=0'
+    : null
+
   return (
    <div className={styles.headerWrap}>
       <div className={styles.langMenu}>
@@ -132,8 +146,8 @@ export default function Header() {
             </Link>
           </li>
           <li className={styles.mainMenuListItem}>
-            <Link href={`${pathname}download`} passHref>
-              <a># Download</a>
+            <Link href={linkDownload} passHref>
+            <a target="_blank"># Download</a>
             </Link>
           </li>
         </ul>

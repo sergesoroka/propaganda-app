@@ -7,15 +7,15 @@ export default function Table({data}) {
   const { locale } = router;
   const tableColName =
     locale == "en"
-      ? {source: 'Source', desc: 'Description', link: 'Link to website'}
+      ? {source: 'Source', desc: 'Description', link: 'Link to website', noLink: 'No link'}
       : locale == "ua"
-      ? {source: 'Джерело', desc: 'Опис', link: 'Посилання на сайт'}
+      ? {source: 'Джерело', desc: 'Опис', link: 'Посилання на сайт', noLink: 'Нема посилання'}
       : locale == "ru"
-      ? {source: 'Источник', desc: 'Описание', link: 'Ссылка на сайт'}
+      ? {source: 'Источник', desc: 'Описание', link: 'Ссылка на сайт', noLink: 'Нет ссылки'}
       : locale == "de"
-      ? {source: 'Source', desc: 'Description', link: 'Link to website'}
+      ? {source: 'Source', desc: 'Description', link: 'Link to website', noLink: 'No link'}
       : locale == "it"
-      ? {source: 'Source', desc: 'Description', link: 'Link to website'}
+      ? {source: 'Source', desc: 'Description', link: 'Link to website', noLink: 'No link'}
       : '';
 
   const renderedTable = data.map((item) => {
@@ -24,7 +24,7 @@ export default function Table({data}) {
         <td className={styles.tableCol}><span className={styles.tableNum}>{item.id}</span></td>
         <td className={styles.tableCol}><span className={styles.tableNum}>{item.Source}</span></td>
         <td className={styles.tableCol}>{item.Description}</td>
-        <td className={styles.tableCol + ' ' + styles.tableLast}><a href={item.Link}>{item.Link}</a>  </td>
+        <td className={styles.tableCol + ' ' + styles.tableLast}>{item.Link ? <a href={item.Link}>{item.Link}</a> : tableColName.noLink } </td>
       </tr>
     )
   })

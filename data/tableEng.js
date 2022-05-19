@@ -25,9 +25,9 @@ export const tableEng = [
   },
   {
     "id": 5,
-    "Source": "Center for Countering Disinformation",
+    "Source": "Center for Countering Disinformation (UA only)",
     "Description": "The Center for Countering Disinformation is a working body of the National Security and Defense Council of Ukraine. The Center provides measures to counter current and projected threats to national security and national interests of Ukraine in the information sphere.",
-    "Link": "-"
+    "Link": "https://cpd.gov.ua/"
   },
   {
     "id": 6,
@@ -73,9 +73,9 @@ export const tableEng = [
   },
   {
     "id": 13,
-    "Source": "Ministry of Digital transformation of Ukraine",
+    "Source": "Ministry of Digital transformation of Ukraine (UA only)",
     "Description": "Ministry of Digital transformation of Ukraine is a governmental body. Its main goal is to promote digitalisation in Ukraine, especially infrastructure development, creation of favorable environment for IT sector, and promotion of digital literacy.",
-    "Link": "-"
+    "Link": "https://thedigital.gov.ua/"
   },
   {
     "id": 14,
@@ -127,9 +127,9 @@ export const tableEng = [
   },
   {
     "id": 22,
-    "Source": "Ministry of Energy and Coal Industry of Ukraine",
+    "Source": "Ministry of Energy and Coal Industry of Ukraine (UA only)",
     "Description": "The Ministry of Energy and Coal provides the formulation and implementation of the state policy in the electric power, nuclear-industrial, coal-industrial, peat-mining, oil and gas and oil-and-gas processing complexes, and also provides the formation of the state policy in the sphere of supervision (control) in the power and heat power industries.",
-    "Link": "-"
+    "Link": "http://mpe.kmu.gov.ua/"
   },
   {
     "id": 23,
@@ -219,7 +219,7 @@ export const tableEng = [
     "id": 37,
     "Source": "Specialized Anti-Corruption Prosecutor's Office",
     "Description": "The Specialized Anti-Corruption Prosecutor's Offic is an independent structural unit of the General Prosecutor of Ukraine, and is primarily responsible for supporting and overseeing criminal investigations launched by the National Anti-Corruption Bureau of Ukraine.",
-    "Link": "-"
+    "Link": ""
   },
   {
     "id": 38,
@@ -229,9 +229,9 @@ export const tableEng = [
   },
   {
     "id": 39,
-    "Source": "Pension Fund of Ukraine",
+    "Source": "Pension Fund of Ukraine (UA only)",
     "Description": "The Pension Fund of Ukraine is a central executive body that manages a solidarity system of compulsory state pension provision, collects, accumulates and records insurance premiums, allocates pensions and prepares documents for their payment, provides timely and full financing and payment pensions, burial assistance and other social benefits.",
-    "Link": "-"
+    "Link": "https://www.pfu.gov.ua/"
   },
   {
     "id": 40,
@@ -253,8 +253,8 @@ export const tableEng = [
   },
   {
     "id": 43,
-    "Source": "National Guard of Ukraine",
+    "Source": "National Guard of Ukraine (UA only)",
     "Description": "The National Guard of Ukraine. is the Ukrainian national gendarmerie and internal military force. It is part of the Ministry of Internal Affairs, responsible for public security.",
-    "Link": "-"
+    "Link": "https://ngu.gov.ua/"
   }
 ]

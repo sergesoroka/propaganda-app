@@ -23,6 +23,7 @@ export default function PopupCookie() {
         cookieName="myAwesomeCookieName2"
         overlay
         overlayClasses="overlayclass"
+        expires={30}
       >
         This website uses cookies to enhance the user experience.
       </CookieConsent>

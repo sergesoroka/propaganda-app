@@ -8,7 +8,7 @@ export default function Header() {
   const router = useRouter();
   const { pathname, asPath, query, locale } = router;
 
-  console.log(pathname, locale, asPath);
+  const linkAddFake = 'https://docs.google.com/forms/d/e/1FAIpQLSdHdlCAbi-plsJ49Q_daSIMPud7rzIaeQLwcvtYnjEnFOn1eA/viewform'
 
   const linkDownload =
   locale == "en"
@@ -141,8 +141,8 @@ export default function Header() {
             </Link>
           </li>
           <li className={styles.mainMenuListItem}>
-            <Link href="/addFake" passHref>
-              <a># Add Fake</a>
+            <Link href={linkAddFake} passHref>
+              <a target="_blank"># Add Fake</a>
             </Link>
           </li>
           <li className={styles.mainMenuListItem}>

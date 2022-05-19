@@ -1,0 +1,16 @@
+.cookiePopup {
+  position: absolute;
+  background: rgb(255 255 243);
+  width: 100%;
+  left: 0;
+  bottom: -84px;
+  text-align: center;
+
+  color: #034e16;
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+.CookieConsent {
+  padding: 2rem;
+}

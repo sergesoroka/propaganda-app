@@ -1,5 +1,6 @@
 import Head from "next/head";
 import FakeList from "../components/FakeList/FakeList";
+import PopupCookie from "../components/PopupCookie/PopupCookie";
 import styles from "../styles/Home.module.css";
 
 import { useRouter } from "next/router";
@@ -35,6 +36,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <FakeList data={data} />
+      <PopupCookie />
     </div>
   );
 }
